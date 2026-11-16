@@ -13,7 +13,7 @@ textColor = "#FFFFFF"
 primaryColor = "#FF8C1A"
 
 [server]
-headless = false
+headless = true
 
 [browser]
 gatherUsageStats = false
