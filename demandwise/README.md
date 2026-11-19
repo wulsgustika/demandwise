@@ -12,3 +12,6 @@ Akun demo (username / password): gudang / gudang123, pembelian / beli123, manaje
 - `components/ui.py` kartu KPI, badge, tema Plotly, helper
 - `backend/` fungsi mock dengan nama kontrak; ganti isinya dengan DB/ML asli tanpa mengubah halaman
 - `.streamlit/config.toml` + `assets/style.css` tema
+
+## Menjalankan aplikasi terintegrasi
+Lihat **README_INTEGRASI.md** untuk langkah lengkap menjalankan frontend + backend di VS Code.

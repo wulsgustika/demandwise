@@ -1,0 +1,44 @@
+id,kode,nama,kategori_id,satuan,pemasok_id,harga_beli_terakhir,harga_jual,umur_simpan_hari,lead_time_hari,aktif,tunda_pesan
+1,PRD-001,Beras Premium 5kg,1,kantong,1,75200,82500,365,3,True,False
+2,PRD-002,Gula Pasir 1kg,1,kg,1,18300,20000,540,3,True,False
+3,PRD-003,Minyak Goreng 1L,1,pouch,1,18150,19500,365,3,True,False
+4,PRD-004,Tepung Terigu 1kg,1,kg,1,12450,14000,270,3,True,False
+5,PRD-005,Telur Ayam 1kg,1,kg,1,30750,33500,21,3,True,False
+6,PRD-006,Garam Dapur 250g,1,bungkus,1,3150,3900,730,3,True,False
+7,PRD-007,Kecap Manis 275ml,1,botol,1,13200,15500,365,3,True,False
+8,PRD-008,Air Mineral 600ml,2,botol,2,2550,3200,540,2,True,False
+9,PRD-009,Teh Botol 450ml,2,botol,2,4350,5200,270,2,True,False
+10,PRD-010,Kopi Sachet Renceng 10s,2,renceng,2,14100,16000,365,2,True,False
+11,PRD-011,Sirup Markisa 460ml,2,botol,2,23400,27500,365,2,True,False
+12,PRD-012,Minuman Soda 390ml,2,botol,2,5250,6300,365,2,True,False
+13,PRD-013,Teh Celup 25s,2,kotak,2,7800,9200,540,2,True,False
+14,PRD-014,Jus Kemasan 1L,2,kotak,2,16100,19000,180,2,True,False
+15,PRD-015,Keripik Kentang 70g,3,bungkus,3,9100,11000,180,4,True,False
+16,PRD-016,Biskuit Kaleng Assorted 650g,3,kaleng,3,64250,73000,365,4,True,False
+17,PRD-017,Wafer Cokelat,3,bungkus,3,2550,3200,270,4,True,False
+18,PRD-018,Permen Mint Pack,3,bungkus,3,5950,7400,365,4,True,False
+19,PRD-019,Kacang Atom 200g,3,bungkus,3,8700,10500,180,4,True,False
+20,PRD-020,Kue Nastar Toples,3,toples,3,58100,69500,60,4,True,False
+21,PRD-021,Kurma 500g,3,bungkus,3,41600,49000,540,4,True,False
+22,PRD-022,Susu UHT Cokelat 1L,4,kotak,4,21800,24500,180,2,True,False
+23,PRD-023,Susu UHT 200ml,4,kotak,4,4950,5800,180,2,True,False
+24,PRD-024,Susu Kental Manis 370g,4,kaleng,4,14800,17000,365,2,True,False
+25,PRD-025,Yogurt Cup 100g,4,cup,4,5800,7200,21,2,True,False
+26,PRD-026,Keju Slice 10 Lembar,4,pak,4,23450,27500,120,2,True,False
+27,PRD-027,Roti Tawar,5,bungkus,5,14550,17500,6,1,True,False
+28,PRD-028,Roti Manis Isi,5,pcs,5,5250,6700,5,1,True,False
+29,PRD-029,Bolu Gulung,5,pcs,5,16850,20500,7,1,True,False
+30,PRD-030,Mi Instan Goreng,6,bungkus,6,3250,3700,270,3,True,False
+31,PRD-031,Mi Instan Kuah,6,bungkus,6,3000,3400,270,3,True,False
+32,PRD-032,Saus Sambal 135ml,6,botol,6,5750,6900,365,3,True,False
+33,PRD-033,Bumbu Racik Serbaguna,6,sachet,6,1750,2300,365,3,True,False
+34,PRD-034,Kaldu Bubuk 100g,6,bungkus,6,7000,8400,540,3,True,False
+35,PRD-035,Sabun Cuci Piring 400ml,7,botol,6,9550,11500,730,3,True,False
+36,PRD-036,Deterjen Bubuk 800g,7,bungkus,6,21650,24500,730,3,True,False
+37,PRD-037,Sabun Mandi Batang,7,pcs,6,4100,5000,730,3,True,False
+38,PRD-038,Sampo Sachet Renceng,7,renceng,6,9000,11000,730,3,True,False
+39,PRD-039,Tisu Gulung 4 Roll,7,pak,6,13100,15500,730,3,True,False
+40,PRD-040,Buku Tulis 38 Lembar,8,pcs,7,4000,5200,1095,5,True,False
+41,PRD-041,Pulpen Standar,8,pcs,7,2250,3000,1095,5,True,False
+42,PRD-042,Pensil 2B,8,pcs,7,2100,2800,1095,5,True,False
+43,PRD-043,Map Plastik Folder,8,pcs,7,1900,2600,1095,5,True,False

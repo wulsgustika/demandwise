@@ -1,0 +1,2 @@
+id,username,password_hash,nama_usaha,dibuat_pada
+1,pemilik,GANTI_DENGAN_HASH_BCRYPT_DARI_demo123,Toko Berkah Jaya,2024-11-08 08:00:00

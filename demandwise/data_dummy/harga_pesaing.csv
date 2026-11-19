@@ -1,0 +1,3226 @@
+id,produk_id,nama_pesaing,harga,tanggal
+1,1,Warung Bu Tini,71500,2024-11-15
+2,1,Toko Maju Jaya,73500,2024-11-15
+3,1,Minimarket Sejahtera,72000,2024-11-15
+4,1,Warung Bu Tini,77000,2024-12-15
+5,1,Toko Maju Jaya,81000,2024-12-15
+6,1,Minimarket Sejahtera,71500,2024-12-15
+7,1,Warung Bu Tini,77000,2025-01-15
+8,1,Toko Maju Jaya,76500,2025-01-15
+9,1,Minimarket Sejahtera,72500,2025-01-15
+10,1,Warung Bu Tini,77000,2025-02-15
+11,1,Toko Maju Jaya,74500,2025-02-15
+12,1,Minimarket Sejahtera,79500,2025-02-15
+13,1,Warung Bu Tini,75500,2025-03-15
+14,1,Toko Maju Jaya,80000,2025-03-15
+15,1,Minimarket Sejahtera,73500,2025-03-15
+16,1,Warung Bu Tini,79500,2025-04-15
+17,1,Toko Maju Jaya,84500,2025-04-15
+18,1,Minimarket Sejahtera,83500,2025-04-15
+19,1,Warung Bu Tini,75000,2025-05-15
+20,1,Toko Maju Jaya,80500,2025-05-15
+21,1,Minimarket Sejahtera,84000,2025-05-15
+22,1,Warung Bu Tini,78000,2025-06-15
+23,1,Toko Maju Jaya,83500,2025-06-15
+24,1,Minimarket Sejahtera,79000,2025-06-15
+25,1,Warung Bu Tini,76000,2025-07-15
+26,1,Toko Maju Jaya,82000,2025-07-15
+27,1,Minimarket Sejahtera,81000,2025-07-15
+28,1,Warung Bu Tini,84500,2025-08-15
+29,1,Toko Maju Jaya,77000,2025-08-15
+30,1,Minimarket Sejahtera,78500,2025-08-15
+31,1,Warung Bu Tini,79500,2025-09-15
+32,1,Toko Maju Jaya,80500,2025-09-15
+33,1,Minimarket Sejahtera,75500,2025-09-15
+34,1,Warung Bu Tini,77500,2025-10-15
+35,1,Toko Maju Jaya,82500,2025-10-15
+36,1,Minimarket Sejahtera,83500,2025-10-15
+37,1,Warung Bu Tini,85000,2025-11-15
+38,1,Toko Maju Jaya,80500,2025-11-15
+39,1,Minimarket Sejahtera,81500,2025-11-15
+40,1,Warung Bu Tini,81500,2025-12-15
+41,1,Toko Maju Jaya,76000,2025-12-15
+42,1,Minimarket Sejahtera,76000,2025-12-15
+43,1,Warung Bu Tini,78500,2026-01-15
+44,1,Toko Maju Jaya,77000,2026-01-15
+45,1,Minimarket Sejahtera,84500,2026-01-15
+46,1,Warung Bu Tini,76500,2026-02-15
+47,1,Toko Maju Jaya,76500,2026-02-15
+48,1,Minimarket Sejahtera,82000,2026-02-15
+49,1,Warung Bu Tini,85500,2026-03-15
+50,1,Toko Maju Jaya,80000,2026-03-15
+51,1,Minimarket Sejahtera,76500,2026-03-15
+52,1,Warung Bu Tini,76500,2026-04-15
+53,1,Toko Maju Jaya,83500,2026-04-15
+54,1,Minimarket Sejahtera,77000,2026-04-15
+55,1,Warung Bu Tini,84000,2026-05-15
+56,1,Toko Maju Jaya,76500,2026-05-15
+57,1,Minimarket Sejahtera,84500,2026-05-15
+58,1,Warung Bu Tini,76500,2026-06-15
+59,1,Toko Maju Jaya,85500,2026-06-15
+60,1,Minimarket Sejahtera,80000,2026-06-15
+61,1,Warung Bu Tini,82000,2026-07-15
+62,1,Toko Maju Jaya,82000,2026-07-15
+63,1,Minimarket Sejahtera,84000,2026-07-15
+64,1,Warung Bu Tini,76500,2026-08-15
+65,1,Toko Maju Jaya,84500,2026-08-15
+66,1,Minimarket Sejahtera,78000,2026-08-15
+67,1,Warung Bu Tini,80000,2026-09-15
+68,1,Toko Maju Jaya,88000,2026-09-15
+69,1,Minimarket Sejahtera,78500,2026-09-15
+70,1,Warung Bu Tini,82000,2026-10-15
+71,1,Toko Maju Jaya,88000,2026-10-15
+72,1,Minimarket Sejahtera,81500,2026-10-15
+73,1,Warung Bu Tini,79000,2026-11-05
+74,1,Toko Maju Jaya,78500,2026-11-05
+75,1,Minimarket Sejahtera,89000,2026-11-05
+76,2,Warung Bu Tini,18000,2024-11-15
+77,2,Toko Maju Jaya,18000,2024-11-15
+78,2,Minimarket Sejahtera,18000,2024-11-15
+79,2,Warung Bu Tini,17500,2024-12-15
+80,2,Toko Maju Jaya,18500,2024-12-15
+81,2,Minimarket Sejahtera,18500,2024-12-15
+82,2,Warung Bu Tini,17500,2025-01-15
+83,2,Toko Maju Jaya,19000,2025-01-15
+84,2,Minimarket Sejahtera,18500,2025-01-15
+85,2,Warung Bu Tini,18000,2025-02-15
+86,2,Toko Maju Jaya,17500,2025-02-15
+87,2,Minimarket Sejahtera,17500,2025-02-15
+88,2,Warung Bu Tini,17500,2025-03-15
+89,2,Toko Maju Jaya,17500,2025-03-15
+90,2,Minimarket Sejahtera,18000,2025-03-15
+91,2,Warung Bu Tini,19500,2025-04-15
+92,2,Toko Maju Jaya,19000,2025-04-15
+93,2,Minimarket Sejahtera,18000,2025-04-15
+94,2,Warung Bu Tini,19000,2025-05-15
+95,2,Toko Maju Jaya,19500,2025-05-15
+96,2,Minimarket Sejahtera,19000,2025-05-15
+97,2,Warung Bu Tini,20000,2025-06-15
+98,2,Toko Maju Jaya,19000,2025-06-15
+99,2,Minimarket Sejahtera,18000,2025-06-15
+100,2,Warung Bu Tini,18500,2025-07-15
+101,2,Toko Maju Jaya,20000,2025-07-15
+102,2,Minimarket Sejahtera,19500,2025-07-15
+103,2,Warung Bu Tini,19000,2025-08-15
+104,2,Toko Maju Jaya,20500,2025-08-15
+105,2,Minimarket Sejahtera,18000,2025-08-15
+106,2,Warung Bu Tini,20000,2025-09-15
+107,2,Toko Maju Jaya,19000,2025-09-15
+108,2,Minimarket Sejahtera,19000,2025-09-15
+109,2,Warung Bu Tini,19000,2025-10-15
+110,2,Toko Maju Jaya,20000,2025-10-15
+111,2,Minimarket Sejahtera,19000,2025-10-15
+112,2,Warung Bu Tini,18500,2025-11-15
+113,2,Toko Maju Jaya,18500,2025-11-15
+114,2,Minimarket Sejahtera,18500,2025-11-15
+115,2,Warung Bu Tini,18500,2025-12-15
+116,2,Toko Maju Jaya,18500,2025-12-15
+117,2,Minimarket Sejahtera,20500,2025-12-15
+118,2,Warung Bu Tini,20500,2026-01-15
+119,2,Toko Maju Jaya,19000,2026-01-15
+120,2,Minimarket Sejahtera,20000,2026-01-15
+121,2,Warung Bu Tini,18000,2026-02-15
+122,2,Toko Maju Jaya,20000,2026-02-15
+123,2,Minimarket Sejahtera,20000,2026-02-15
+124,2,Warung Bu Tini,20000,2026-03-15
+125,2,Toko Maju Jaya,19000,2026-03-15
+126,2,Minimarket Sejahtera,20000,2026-03-15
+127,2,Warung Bu Tini,18500,2026-04-15
+128,2,Toko Maju Jaya,20000,2026-04-15
+129,2,Minimarket Sejahtera,19000,2026-04-15
+130,2,Warung Bu Tini,19500,2026-05-15
+131,2,Toko Maju Jaya,21000,2026-05-15
+132,2,Minimarket Sejahtera,21000,2026-05-15
+133,2,Warung Bu Tini,19000,2026-06-15
+134,2,Toko Maju Jaya,21000,2026-06-15
+135,2,Minimarket Sejahtera,20000,2026-06-15
+136,2,Warung Bu Tini,21000,2026-07-15
+137,2,Toko Maju Jaya,20000,2026-07-15
+138,2,Minimarket Sejahtera,20500,2026-07-15
+139,2,Warung Bu Tini,19000,2026-08-15
+140,2,Toko Maju Jaya,20000,2026-08-15
+141,2,Minimarket Sejahtera,20000,2026-08-15
+142,2,Warung Bu Tini,20000,2026-09-15
+143,2,Toko Maju Jaya,20500,2026-09-15
+144,2,Minimarket Sejahtera,20000,2026-09-15
+145,2,Warung Bu Tini,20000,2026-10-15
+146,2,Toko Maju Jaya,20500,2026-10-15
+147,2,Minimarket Sejahtera,19500,2026-10-15
+148,2,Warung Bu Tini,21500,2026-11-05
+149,2,Toko Maju Jaya,19500,2026-11-05
+150,2,Minimarket Sejahtera,21500,2026-11-05
+151,3,Warung Bu Tini,18500,2024-11-15
+152,3,Toko Maju Jaya,16000,2024-11-15
+153,3,Minimarket Sejahtera,17000,2024-11-15
+154,3,Warung Bu Tini,17000,2024-12-15
+155,3,Toko Maju Jaya,17500,2024-12-15
+156,3,Minimarket Sejahtera,16500,2024-12-15
+157,3,Warung Bu Tini,17500,2025-01-15
+158,3,Toko Maju Jaya,16000,2025-01-15
+159,3,Minimarket Sejahtera,16500,2025-01-15
+160,3,Warung Bu Tini,17500,2025-02-15
+161,3,Toko Maju Jaya,17000,2025-02-15
+162,3,Minimarket Sejahtera,17000,2025-02-15
+163,3,Warung Bu Tini,16500,2025-03-15
+164,3,Toko Maju Jaya,16500,2025-03-15
+165,3,Minimarket Sejahtera,18000,2025-03-15
+166,3,Warung Bu Tini,17500,2025-04-15
+167,3,Toko Maju Jaya,17000,2025-04-15
+168,3,Minimarket Sejahtera,17000,2025-04-15
+169,3,Warung Bu Tini,19000,2025-05-15
+170,3,Toko Maju Jaya,18500,2025-05-15
+171,3,Minimarket Sejahtera,18500,2025-05-15
+172,3,Warung Bu Tini,18500,2025-06-15
+173,3,Toko Maju Jaya,18500,2025-06-15
+174,3,Minimarket Sejahtera,18500,2025-06-15
+175,3,Warung Bu Tini,18500,2025-07-15
+176,3,Toko Maju Jaya,19000,2025-07-15
+177,3,Minimarket Sejahtera,17500,2025-07-15
+178,3,Warung Bu Tini,18500,2025-08-15
+179,3,Toko Maju Jaya,19000,2025-08-15
+180,3,Minimarket Sejahtera,19500,2025-08-15
+181,3,Warung Bu Tini,18000,2025-09-15
+182,3,Toko Maju Jaya,18000,2025-09-15
+183,3,Minimarket Sejahtera,17500,2025-09-15
+184,3,Warung Bu Tini,18000,2025-10-15
+185,3,Toko Maju Jaya,19000,2025-10-15
+186,3,Minimarket Sejahtera,19000,2025-10-15
+187,3,Warung Bu Tini,18000,2025-11-15
+188,3,Toko Maju Jaya,19500,2025-11-15
+189,3,Minimarket Sejahtera,20000,2025-11-15
+190,3,Warung Bu Tini,20000,2025-12-15
+191,3,Toko Maju Jaya,18500,2025-12-15
+192,3,Minimarket Sejahtera,19000,2025-12-15
+193,3,Warung Bu Tini,19000,2026-01-15
+194,3,Toko Maju Jaya,18500,2026-01-15
+195,3,Minimarket Sejahtera,18000,2026-01-15
+196,3,Warung Bu Tini,19500,2026-02-15
+197,3,Toko Maju Jaya,18000,2026-02-15
+198,3,Minimarket Sejahtera,18000,2026-02-15
+199,3,Warung Bu Tini,18500,2026-03-15
+200,3,Toko Maju Jaya,19500,2026-03-15
+201,3,Minimarket Sejahtera,17500,2026-03-15
+202,3,Warung Bu Tini,20000,2026-04-15
+203,3,Toko Maju Jaya,19500,2026-04-15
+204,3,Minimarket Sejahtera,20000,2026-04-15
+205,3,Warung Bu Tini,20000,2026-05-15
+206,3,Toko Maju Jaya,20500,2026-05-15
+207,3,Minimarket Sejahtera,20000,2026-05-15
+208,3,Warung Bu Tini,20500,2026-06-15
+209,3,Toko Maju Jaya,19500,2026-06-15
+210,3,Minimarket Sejahtera,19000,2026-06-15
+211,3,Warung Bu Tini,19500,2026-07-15
+212,3,Toko Maju Jaya,20500,2026-07-15
+213,3,Minimarket Sejahtera,20000,2026-07-15
+214,3,Warung Bu Tini,20500,2026-08-15
+215,3,Toko Maju Jaya,20500,2026-08-15
+216,3,Minimarket Sejahtera,20500,2026-08-15
+217,3,Warung Bu Tini,19000,2026-09-15
+218,3,Toko Maju Jaya,19000,2026-09-15
+219,3,Minimarket Sejahtera,18500,2026-09-15
+220,3,Warung Bu Tini,20500,2026-10-15
+221,3,Toko Maju Jaya,20500,2026-10-15
+222,3,Minimarket Sejahtera,19000,2026-10-15
+223,3,Warung Bu Tini,21000,2026-11-05
+224,3,Toko Maju Jaya,20500,2026-11-05
+225,3,Minimarket Sejahtera,20000,2026-11-05
+226,4,Warung Bu Tini,13500,2024-11-15
+227,4,Toko Maju Jaya,13500,2024-11-15
+228,4,Minimarket Sejahtera,12500,2024-11-15
+229,4,Warung Bu Tini,13000,2024-12-15
+230,4,Toko Maju Jaya,13000,2024-12-15
+231,4,Minimarket Sejahtera,14000,2024-12-15
+232,4,Warung Bu Tini,13000,2025-01-15
+233,4,Toko Maju Jaya,13000,2025-01-15
+234,4,Minimarket Sejahtera,12500,2025-01-15
+235,4,Warung Bu Tini,14000,2025-02-15
+236,4,Toko Maju Jaya,13000,2025-02-15
+237,4,Minimarket Sejahtera,12500,2025-02-15
+238,4,Warung Bu Tini,13500,2025-03-15
+239,4,Toko Maju Jaya,13500,2025-03-15
+240,4,Minimarket Sejahtera,12500,2025-03-15
+241,4,Warung Bu Tini,13000,2025-04-15
+242,4,Toko Maju Jaya,13000,2025-04-15
+243,4,Minimarket Sejahtera,13500,2025-04-15
+244,4,Warung Bu Tini,13500,2025-05-15
+245,4,Toko Maju Jaya,14500,2025-05-15
+246,4,Minimarket Sejahtera,13500,2025-05-15
+247,4,Warung Bu Tini,14000,2025-06-15
+248,4,Toko Maju Jaya,14000,2025-06-15
+249,4,Minimarket Sejahtera,14500,2025-06-15
+250,4,Warung Bu Tini,13500,2025-07-15
+251,4,Toko Maju Jaya,14500,2025-07-15
+252,4,Minimarket Sejahtera,13500,2025-07-15
+253,4,Warung Bu Tini,14500,2025-08-15
+254,4,Toko Maju Jaya,13500,2025-08-15
+255,4,Minimarket Sejahtera,14500,2025-08-15
+256,4,Warung Bu Tini,14500,2025-09-15
+257,4,Toko Maju Jaya,14500,2025-09-15
+258,4,Minimarket Sejahtera,14000,2025-09-15
+259,4,Warung Bu Tini,14000,2025-10-15
+260,4,Toko Maju Jaya,14500,2025-10-15
+261,4,Minimarket Sejahtera,13500,2025-10-15
+262,4,Warung Bu Tini,14500,2025-11-15
+263,4,Toko Maju Jaya,14000,2025-11-15
+264,4,Minimarket Sejahtera,13000,2025-11-15
+265,4,Warung Bu Tini,13500,2025-12-15
+266,4,Toko Maju Jaya,14000,2025-12-15
+267,4,Minimarket Sejahtera,13500,2025-12-15
+268,4,Warung Bu Tini,14000,2026-01-15
+269,4,Toko Maju Jaya,14000,2026-01-15
+270,4,Minimarket Sejahtera,14500,2026-01-15
+271,4,Warung Bu Tini,13500,2026-02-15
+272,4,Toko Maju Jaya,14000,2026-02-15
+273,4,Minimarket Sejahtera,13000,2026-02-15
+274,4,Warung Bu Tini,14000,2026-03-15
+275,4,Toko Maju Jaya,13500,2026-03-15
+276,4,Minimarket Sejahtera,14500,2026-03-15
+277,4,Warung Bu Tini,15000,2026-04-15
+278,4,Toko Maju Jaya,14500,2026-04-15
+279,4,Minimarket Sejahtera,14000,2026-04-15
+280,4,Warung Bu Tini,13500,2026-05-15
+281,4,Toko Maju Jaya,15000,2026-05-15
+282,4,Minimarket Sejahtera,13500,2026-05-15
+283,4,Warung Bu Tini,14000,2026-06-15
+284,4,Toko Maju Jaya,14000,2026-06-15
+285,4,Minimarket Sejahtera,15000,2026-06-15
+286,4,Warung Bu Tini,14500,2026-07-15
+287,4,Toko Maju Jaya,13500,2026-07-15
+288,4,Minimarket Sejahtera,15000,2026-07-15
+289,4,Warung Bu Tini,14000,2026-08-15
+290,4,Toko Maju Jaya,14500,2026-08-15
+291,4,Minimarket Sejahtera,14500,2026-08-15
+292,4,Warung Bu Tini,13500,2026-09-15
+293,4,Toko Maju Jaya,14000,2026-09-15
+294,4,Minimarket Sejahtera,14500,2026-09-15
+295,4,Warung Bu Tini,13500,2026-10-15
+296,4,Toko Maju Jaya,14500,2026-10-15
+297,4,Minimarket Sejahtera,14000,2026-10-15
+298,4,Warung Bu Tini,14500,2026-11-05
+299,4,Toko Maju Jaya,15000,2026-11-05
+300,4,Minimarket Sejahtera,14500,2026-11-05
+301,5,Warung Bu Tini,28500,2024-11-15
+302,5,Toko Maju Jaya,29000,2024-11-15
+303,5,Minimarket Sejahtera,29500,2024-11-15
+304,5,Warung Bu Tini,29500,2024-12-15
+305,5,Toko Maju Jaya,29000,2024-12-15
+306,5,Minimarket Sejahtera,29500,2024-12-15
+307,5,Warung Bu Tini,31000,2025-01-15
+308,5,Toko Maju Jaya,30000,2025-01-15
+309,5,Minimarket Sejahtera,30000,2025-01-15
+310,5,Warung Bu Tini,29500,2025-02-15
+311,5,Toko Maju Jaya,32000,2025-02-15
+312,5,Minimarket Sejahtera,30500,2025-02-15
+313,5,Warung Bu Tini,29500,2025-03-15
+314,5,Toko Maju Jaya,30500,2025-03-15
+315,5,Minimarket Sejahtera,31500,2025-03-15
+316,5,Warung Bu Tini,32000,2025-04-15
+317,5,Toko Maju Jaya,30500,2025-04-15
+318,5,Minimarket Sejahtera,30000,2025-04-15
+319,5,Warung Bu Tini,31500,2025-05-15
+320,5,Toko Maju Jaya,31000,2025-05-15
+321,5,Minimarket Sejahtera,31500,2025-05-15
+322,5,Warung Bu Tini,32500,2025-06-15
+323,5,Toko Maju Jaya,31000,2025-06-15
+324,5,Minimarket Sejahtera,32000,2025-06-15
+325,5,Warung Bu Tini,31500,2025-07-15
+326,5,Toko Maju Jaya,33000,2025-07-15
+327,5,Minimarket Sejahtera,31500,2025-07-15
+328,5,Warung Bu Tini,33500,2025-08-15
+329,5,Toko Maju Jaya,32500,2025-08-15
+330,5,Minimarket Sejahtera,32500,2025-08-15
+331,5,Warung Bu Tini,31000,2025-09-15
+332,5,Toko Maju Jaya,32500,2025-09-15
+333,5,Minimarket Sejahtera,29500,2025-09-15
+334,5,Warung Bu Tini,31500,2025-10-15
+335,5,Toko Maju Jaya,32500,2025-10-15
+336,5,Minimarket Sejahtera,32500,2025-10-15
+337,5,Warung Bu Tini,34500,2025-11-15
+338,5,Toko Maju Jaya,33000,2025-11-15
+339,5,Minimarket Sejahtera,33500,2025-11-15
+340,5,Warung Bu Tini,34000,2025-12-15
+341,5,Toko Maju Jaya,31000,2025-12-15
+342,5,Minimarket Sejahtera,32000,2025-12-15
+343,5,Warung Bu Tini,33500,2026-01-15
+344,5,Toko Maju Jaya,31000,2026-01-15
+345,5,Minimarket Sejahtera,32000,2026-01-15
+346,5,Warung Bu Tini,32500,2026-02-15
+347,5,Toko Maju Jaya,32000,2026-02-15
+348,5,Minimarket Sejahtera,32500,2026-02-15
+349,5,Warung Bu Tini,31000,2026-03-15
+350,5,Toko Maju Jaya,32000,2026-03-15
+351,5,Minimarket Sejahtera,34000,2026-03-15
+352,5,Warung Bu Tini,31500,2026-04-15
+353,5,Toko Maju Jaya,33500,2026-04-15
+354,5,Minimarket Sejahtera,35000,2026-04-15
+355,5,Warung Bu Tini,31500,2026-05-15
+356,5,Toko Maju Jaya,34500,2026-05-15
+357,5,Minimarket Sejahtera,33500,2026-05-15
+358,5,Warung Bu Tini,34000,2026-06-15
+359,5,Toko Maju Jaya,31500,2026-06-15
+360,5,Minimarket Sejahtera,32500,2026-06-15
+361,5,Warung Bu Tini,32000,2026-07-15
+362,5,Toko Maju Jaya,31500,2026-07-15
+363,5,Minimarket Sejahtera,31500,2026-07-15
+364,5,Warung Bu Tini,31500,2026-08-15
+365,5,Toko Maju Jaya,31500,2026-08-15
+366,5,Minimarket Sejahtera,35500,2026-08-15
+367,5,Warung Bu Tini,34000,2026-09-15
+368,5,Toko Maju Jaya,35000,2026-09-15
+369,5,Minimarket Sejahtera,32500,2026-09-15
+370,5,Warung Bu Tini,35500,2026-10-15
+371,5,Toko Maju Jaya,32000,2026-10-15
+372,5,Minimarket Sejahtera,33000,2026-10-15
+373,5,Warung Bu Tini,33500,2026-11-05
+374,5,Toko Maju Jaya,33000,2026-11-05
+375,5,Minimarket Sejahtera,34000,2026-11-05
+376,6,Warung Bu Tini,3500,2024-11-15
+377,6,Toko Maju Jaya,3600,2024-11-15
+378,6,Minimarket Sejahtera,3500,2024-11-15
+379,6,Warung Bu Tini,3500,2024-12-15
+380,6,Toko Maju Jaya,3700,2024-12-15
+381,6,Minimarket Sejahtera,3500,2024-12-15
+382,6,Warung Bu Tini,3400,2025-01-15
+383,6,Toko Maju Jaya,3600,2025-01-15
+384,6,Minimarket Sejahtera,3700,2025-01-15
+385,6,Warung Bu Tini,3400,2025-02-15
+386,6,Toko Maju Jaya,3300,2025-02-15
+387,6,Minimarket Sejahtera,3700,2025-02-15
+388,6,Warung Bu Tini,3600,2025-03-15
+389,6,Toko Maju Jaya,3500,2025-03-15
+390,6,Minimarket Sejahtera,3400,2025-03-15
+391,6,Warung Bu Tini,3900,2025-04-15
+392,6,Toko Maju Jaya,3700,2025-04-15
+393,6,Minimarket Sejahtera,3900,2025-04-15
+394,6,Warung Bu Tini,3700,2025-05-15
+395,6,Toko Maju Jaya,3600,2025-05-15
+396,6,Minimarket Sejahtera,3600,2025-05-15
+397,6,Warung Bu Tini,3800,2025-06-15
+398,6,Toko Maju Jaya,3700,2025-06-15
+399,6,Minimarket Sejahtera,3700,2025-06-15
+400,6,Warung Bu Tini,3700,2025-07-15
+401,6,Toko Maju Jaya,3800,2025-07-15
+402,6,Minimarket Sejahtera,3600,2025-07-15
+403,6,Warung Bu Tini,3700,2025-08-15
+404,6,Toko Maju Jaya,3500,2025-08-15
+405,6,Minimarket Sejahtera,3900,2025-08-15
+406,6,Warung Bu Tini,3600,2025-09-15
+407,6,Toko Maju Jaya,3500,2025-09-15
+408,6,Minimarket Sejahtera,3600,2025-09-15
+409,6,Warung Bu Tini,3700,2025-10-15
+410,6,Toko Maju Jaya,4100,2025-10-15
+411,6,Minimarket Sejahtera,4100,2025-10-15
+412,6,Warung Bu Tini,3800,2025-11-15
+413,6,Toko Maju Jaya,4000,2025-11-15
+414,6,Minimarket Sejahtera,3900,2025-11-15
+415,6,Warung Bu Tini,3800,2025-12-15
+416,6,Toko Maju Jaya,3700,2025-12-15
+417,6,Minimarket Sejahtera,4000,2025-12-15
+418,6,Warung Bu Tini,3900,2026-01-15
+419,6,Toko Maju Jaya,3800,2026-01-15
+420,6,Minimarket Sejahtera,4100,2026-01-15
+421,6,Warung Bu Tini,3800,2026-02-15
+422,6,Toko Maju Jaya,4100,2026-02-15
+423,6,Minimarket Sejahtera,4100,2026-02-15
+424,6,Warung Bu Tini,4000,2026-03-15
+425,6,Toko Maju Jaya,3800,2026-03-15
+426,6,Minimarket Sejahtera,3700,2026-03-15
+427,6,Warung Bu Tini,3800,2026-04-15
+428,6,Toko Maju Jaya,4000,2026-04-15
+429,6,Minimarket Sejahtera,3900,2026-04-15
+430,6,Warung Bu Tini,3800,2026-05-15
+431,6,Toko Maju Jaya,3700,2026-05-15
+432,6,Minimarket Sejahtera,3900,2026-05-15
+433,6,Warung Bu Tini,4000,2026-06-15
+434,6,Toko Maju Jaya,3700,2026-06-15
+435,6,Minimarket Sejahtera,3900,2026-06-15
+436,6,Warung Bu Tini,4000,2026-07-15
+437,6,Toko Maju Jaya,4000,2026-07-15
+438,6,Minimarket Sejahtera,3900,2026-07-15
+439,6,Warung Bu Tini,4000,2026-08-15
+440,6,Toko Maju Jaya,3700,2026-08-15
+441,6,Minimarket Sejahtera,3800,2026-08-15
+442,6,Warung Bu Tini,3900,2026-09-15
+443,6,Toko Maju Jaya,4100,2026-09-15
+444,6,Minimarket Sejahtera,4200,2026-09-15
+445,6,Warung Bu Tini,4200,2026-10-15
+446,6,Toko Maju Jaya,4100,2026-10-15
+447,6,Minimarket Sejahtera,3700,2026-10-15
+448,6,Warung Bu Tini,3900,2026-11-05
+449,6,Toko Maju Jaya,4000,2026-11-05
+450,6,Minimarket Sejahtera,3800,2026-11-05
+451,7,Warung Bu Tini,13500,2024-11-15
+452,7,Toko Maju Jaya,14500,2024-11-15
+453,7,Minimarket Sejahtera,13000,2024-11-15
+454,7,Warung Bu Tini,13500,2024-12-15
+455,7,Toko Maju Jaya,13500,2024-12-15
+456,7,Minimarket Sejahtera,13500,2024-12-15
+457,7,Warung Bu Tini,14500,2025-01-15
+458,7,Toko Maju Jaya,14000,2025-01-15
+459,7,Minimarket Sejahtera,14000,2025-01-15
+460,7,Warung Bu Tini,14000,2025-02-15
+461,7,Toko Maju Jaya,13500,2025-02-15
+462,7,Minimarket Sejahtera,13500,2025-02-15
+463,7,Warung Bu Tini,13000,2025-03-15
+464,7,Toko Maju Jaya,13500,2025-03-15
+465,7,Minimarket Sejahtera,14000,2025-03-15
+466,7,Warung Bu Tini,13500,2025-04-15
+467,7,Toko Maju Jaya,15000,2025-04-15
+468,7,Minimarket Sejahtera,14000,2025-04-15
+469,7,Warung Bu Tini,13500,2025-05-15
+470,7,Toko Maju Jaya,15000,2025-05-15
+471,7,Minimarket Sejahtera,15000,2025-05-15
+472,7,Warung Bu Tini,14500,2025-06-15
+473,7,Toko Maju Jaya,13500,2025-06-15
+474,7,Minimarket Sejahtera,14000,2025-06-15
+475,7,Warung Bu Tini,13500,2025-07-15
+476,7,Toko Maju Jaya,13500,2025-07-15
+477,7,Minimarket Sejahtera,15000,2025-07-15
+478,7,Warung Bu Tini,14000,2025-08-15
+479,7,Toko Maju Jaya,14000,2025-08-15
+480,7,Minimarket Sejahtera,14500,2025-08-15
+481,7,Warung Bu Tini,14000,2025-09-15
+482,7,Toko Maju Jaya,14000,2025-09-15
+483,7,Minimarket Sejahtera,13500,2025-09-15
+484,7,Warung Bu Tini,14000,2025-10-15
+485,7,Toko Maju Jaya,15000,2025-10-15
+486,7,Minimarket Sejahtera,15000,2025-10-15
+487,7,Warung Bu Tini,15000,2025-11-15
+488,7,Toko Maju Jaya,14000,2025-11-15
+489,7,Minimarket Sejahtera,15500,2025-11-15
+490,7,Warung Bu Tini,14500,2025-12-15
+491,7,Toko Maju Jaya,15500,2025-12-15
+492,7,Minimarket Sejahtera,15500,2025-12-15
+493,7,Warung Bu Tini,14000,2026-01-15
+494,7,Toko Maju Jaya,14000,2026-01-15
+495,7,Minimarket Sejahtera,14000,2026-01-15
+496,7,Warung Bu Tini,15000,2026-02-15
+497,7,Toko Maju Jaya,15000,2026-02-15
+498,7,Minimarket Sejahtera,15000,2026-02-15
+499,7,Warung Bu Tini,15000,2026-03-15
+500,7,Toko Maju Jaya,14500,2026-03-15
+501,7,Minimarket Sejahtera,14000,2026-03-15
+502,7,Warung Bu Tini,16000,2026-04-15
+503,7,Toko Maju Jaya,15500,2026-04-15
+504,7,Minimarket Sejahtera,14500,2026-04-15
+505,7,Warung Bu Tini,16000,2026-05-15
+506,7,Toko Maju Jaya,14500,2026-05-15
+507,7,Minimarket Sejahtera,14500,2026-05-15
+508,7,Warung Bu Tini,15000,2026-06-15
+509,7,Toko Maju Jaya,15500,2026-06-15
+510,7,Minimarket Sejahtera,14500,2026-06-15
+511,7,Warung Bu Tini,15500,2026-07-15
+512,7,Toko Maju Jaya,15000,2026-07-15
+513,7,Minimarket Sejahtera,16000,2026-07-15
+514,7,Warung Bu Tini,15000,2026-08-15
+515,7,Toko Maju Jaya,16000,2026-08-15
+516,7,Minimarket Sejahtera,15500,2026-08-15
+517,7,Warung Bu Tini,16500,2026-09-15
+518,7,Toko Maju Jaya,15500,2026-09-15
+519,7,Minimarket Sejahtera,15500,2026-09-15
+520,7,Warung Bu Tini,16500,2026-10-15
+521,7,Toko Maju Jaya,15500,2026-10-15
+522,7,Minimarket Sejahtera,15500,2026-10-15
+523,7,Warung Bu Tini,16500,2026-11-05
+524,7,Toko Maju Jaya,16500,2026-11-05
+525,7,Minimarket Sejahtera,15500,2026-11-05
+526,8,Warung Bu Tini,2900,2024-11-15
+527,8,Toko Maju Jaya,2800,2024-11-15
+528,8,Minimarket Sejahtera,2900,2024-11-15
+529,8,Warung Bu Tini,3000,2024-12-15
+530,8,Toko Maju Jaya,3000,2024-12-15
+531,8,Minimarket Sejahtera,2800,2024-12-15
+532,8,Warung Bu Tini,2700,2025-01-15
+533,8,Toko Maju Jaya,2700,2025-01-15
+534,8,Minimarket Sejahtera,3000,2025-01-15
+535,8,Warung Bu Tini,3000,2025-02-15
+536,8,Toko Maju Jaya,2900,2025-02-15
+537,8,Minimarket Sejahtera,2700,2025-02-15
+538,8,Warung Bu Tini,2900,2025-03-15
+539,8,Toko Maju Jaya,3000,2025-03-15
+540,8,Minimarket Sejahtera,3000,2025-03-15
+541,8,Warung Bu Tini,2900,2025-04-15
+542,8,Toko Maju Jaya,3000,2025-04-15
+543,8,Minimarket Sejahtera,2800,2025-04-15
+544,8,Warung Bu Tini,2900,2025-05-15
+545,8,Toko Maju Jaya,2800,2025-05-15
+546,8,Minimarket Sejahtera,2900,2025-05-15
+547,8,Warung Bu Tini,3000,2025-06-15
+548,8,Toko Maju Jaya,2800,2025-06-15
+549,8,Minimarket Sejahtera,3100,2025-06-15
+550,8,Warung Bu Tini,3000,2025-07-15
+551,8,Toko Maju Jaya,3100,2025-07-15
+552,8,Minimarket Sejahtera,3000,2025-07-15
+553,8,Warung Bu Tini,3000,2025-08-15
+554,8,Toko Maju Jaya,2900,2025-08-15
+555,8,Minimarket Sejahtera,2800,2025-08-15
+556,8,Warung Bu Tini,3000,2025-09-15
+557,8,Toko Maju Jaya,2900,2025-09-15
+558,8,Minimarket Sejahtera,2800,2025-09-15
+559,8,Warung Bu Tini,3200,2025-10-15
+560,8,Toko Maju Jaya,3100,2025-10-15
+561,8,Minimarket Sejahtera,3100,2025-10-15
+562,8,Warung Bu Tini,3200,2025-11-15
+563,8,Toko Maju Jaya,3200,2025-11-15
+564,8,Minimarket Sejahtera,3100,2025-11-15
+565,8,Warung Bu Tini,3100,2025-12-15
+566,8,Toko Maju Jaya,3100,2025-12-15
+567,8,Minimarket Sejahtera,3200,2025-12-15
+568,8,Warung Bu Tini,3200,2026-01-15
+569,8,Toko Maju Jaya,2900,2026-01-15
+570,8,Minimarket Sejahtera,2900,2026-01-15
+571,8,Warung Bu Tini,3100,2026-02-15
+572,8,Toko Maju Jaya,3100,2026-02-15
+573,8,Minimarket Sejahtera,2900,2026-02-15
+574,8,Warung Bu Tini,3000,2026-03-15
+575,8,Toko Maju Jaya,3100,2026-03-15
+576,8,Minimarket Sejahtera,3200,2026-03-15
+577,8,Warung Bu Tini,3200,2026-04-15
+578,8,Toko Maju Jaya,3300,2026-04-15
+579,8,Minimarket Sejahtera,3300,2026-04-15
+580,8,Warung Bu Tini,3300,2026-05-15
+581,8,Toko Maju Jaya,3100,2026-05-15
+582,8,Minimarket Sejahtera,3100,2026-05-15
+583,8,Warung Bu Tini,3300,2026-06-15
+584,8,Toko Maju Jaya,2900,2026-06-15
+585,8,Minimarket Sejahtera,3200,2026-06-15
+586,8,Warung Bu Tini,3100,2026-07-15
+587,8,Toko Maju Jaya,3200,2026-07-15
+588,8,Minimarket Sejahtera,3000,2026-07-15
+589,8,Warung Bu Tini,3300,2026-08-15
+590,8,Toko Maju Jaya,3100,2026-08-15
+591,8,Minimarket Sejahtera,3300,2026-08-15
+592,8,Warung Bu Tini,3200,2026-09-15
+593,8,Toko Maju Jaya,3400,2026-09-15
+594,8,Minimarket Sejahtera,3300,2026-09-15
+595,8,Warung Bu Tini,3400,2026-10-15
+596,8,Toko Maju Jaya,3300,2026-10-15
+597,8,Minimarket Sejahtera,3200,2026-10-15
+598,8,Warung Bu Tini,3100,2026-11-05
+599,8,Toko Maju Jaya,3200,2026-11-05
+600,8,Minimarket Sejahtera,3100,2026-11-05
+601,9,Warung Bu Tini,4600,2024-11-15
+602,9,Toko Maju Jaya,4800,2024-11-15
+603,9,Minimarket Sejahtera,5100,2024-11-15
+604,9,Warung Bu Tini,4700,2024-12-15
+605,9,Toko Maju Jaya,5000,2024-12-15
+606,9,Minimarket Sejahtera,4700,2024-12-15
+607,9,Warung Bu Tini,4900,2025-01-15
+608,9,Toko Maju Jaya,4800,2025-01-15
+609,9,Minimarket Sejahtera,4500,2025-01-15
+610,9,Warung Bu Tini,4500,2025-02-15
+611,9,Toko Maju Jaya,5000,2025-02-15
+612,9,Minimarket Sejahtera,4700,2025-02-15
+613,9,Warung Bu Tini,5000,2025-03-15
+614,9,Toko Maju Jaya,4800,2025-03-15
+615,9,Minimarket Sejahtera,4600,2025-03-15
+616,9,Warung Bu Tini,4600,2025-04-15
+617,9,Toko Maju Jaya,4800,2025-04-15
+618,9,Minimarket Sejahtera,4800,2025-04-15
+619,9,Warung Bu Tini,4700,2025-05-15
+620,9,Toko Maju Jaya,5100,2025-05-15
+621,9,Minimarket Sejahtera,4800,2025-05-15
+622,9,Warung Bu Tini,5000,2025-06-15
+623,9,Toko Maju Jaya,4900,2025-06-15
+624,9,Minimarket Sejahtera,5000,2025-06-15
+625,9,Warung Bu Tini,4700,2025-07-15
+626,9,Toko Maju Jaya,5000,2025-07-15
+627,9,Minimarket Sejahtera,4700,2025-07-15
+628,9,Warung Bu Tini,5100,2025-08-15
+629,9,Toko Maju Jaya,4700,2025-08-15
+630,9,Minimarket Sejahtera,4800,2025-08-15
+631,9,Warung Bu Tini,4800,2025-09-15
+632,9,Toko Maju Jaya,4800,2025-09-15
+633,9,Minimarket Sejahtera,4900,2025-09-15
+634,9,Warung Bu Tini,4800,2025-10-15
+635,9,Toko Maju Jaya,5400,2025-10-15
+636,9,Minimarket Sejahtera,5300,2025-10-15
+637,9,Warung Bu Tini,5300,2025-11-15
+638,9,Toko Maju Jaya,5100,2025-11-15
+639,9,Minimarket Sejahtera,5000,2025-11-15
+640,9,Warung Bu Tini,4800,2025-12-15
+641,9,Toko Maju Jaya,5400,2025-12-15
+642,9,Minimarket Sejahtera,5000,2025-12-15
+643,9,Warung Bu Tini,5200,2026-01-15
+644,9,Toko Maju Jaya,4800,2026-01-15
+645,9,Minimarket Sejahtera,5000,2026-01-15
+646,9,Warung Bu Tini,5300,2026-02-15
+647,9,Toko Maju Jaya,4900,2026-02-15
+648,9,Minimarket Sejahtera,5300,2026-02-15
+649,9,Warung Bu Tini,4800,2026-03-15
+650,9,Toko Maju Jaya,4900,2026-03-15
+651,9,Minimarket Sejahtera,5100,2026-03-15
+652,9,Warung Bu Tini,5200,2026-04-15
+653,9,Toko Maju Jaya,4900,2026-04-15
+654,9,Minimarket Sejahtera,5300,2026-04-15
+655,9,Warung Bu Tini,5400,2026-05-15
+656,9,Toko Maju Jaya,5100,2026-05-15
+657,9,Minimarket Sejahtera,5200,2026-05-15
+658,9,Warung Bu Tini,4900,2026-06-15
+659,9,Toko Maju Jaya,4900,2026-06-15
+660,9,Minimarket Sejahtera,5400,2026-06-15
+661,9,Warung Bu Tini,5100,2026-07-15
+662,9,Toko Maju Jaya,4900,2026-07-15
+663,9,Minimarket Sejahtera,5100,2026-07-15
+664,9,Warung Bu Tini,5400,2026-08-15
+665,9,Toko Maju Jaya,5100,2026-08-15
+666,9,Minimarket Sejahtera,5400,2026-08-15
+667,9,Warung Bu Tini,5300,2026-09-15
+668,9,Toko Maju Jaya,5100,2026-09-15
+669,9,Minimarket Sejahtera,5200,2026-09-15
+670,9,Warung Bu Tini,5500,2026-10-15
+671,9,Toko Maju Jaya,5500,2026-10-15
+672,9,Minimarket Sejahtera,5300,2026-10-15
+673,9,Warung Bu Tini,5400,2026-11-05
+674,9,Toko Maju Jaya,5300,2026-11-05
+675,9,Minimarket Sejahtera,5400,2026-11-05
+676,10,Warung Bu Tini,15500,2024-11-15
+677,10,Toko Maju Jaya,14000,2024-11-15
+678,10,Minimarket Sejahtera,15000,2024-11-15
+679,10,Warung Bu Tini,14500,2024-12-15
+680,10,Toko Maju Jaya,14000,2024-12-15
+681,10,Minimarket Sejahtera,14500,2024-12-15
+682,10,Warung Bu Tini,14000,2025-01-15
+683,10,Toko Maju Jaya,14500,2025-01-15
+684,10,Minimarket Sejahtera,15500,2025-01-15
+685,10,Warung Bu Tini,15500,2025-02-15
+686,10,Toko Maju Jaya,14500,2025-02-15
+687,10,Minimarket Sejahtera,14000,2025-02-15
+688,10,Warung Bu Tini,14500,2025-03-15
+689,10,Toko Maju Jaya,15000,2025-03-15
+690,10,Minimarket Sejahtera,14000,2025-03-15
+691,10,Warung Bu Tini,14500,2025-04-15
+692,10,Toko Maju Jaya,16000,2025-04-15
+693,10,Minimarket Sejahtera,15000,2025-04-15
+694,10,Warung Bu Tini,15000,2025-05-15
+695,10,Toko Maju Jaya,15500,2025-05-15
+696,10,Minimarket Sejahtera,15000,2025-05-15
+697,10,Warung Bu Tini,15000,2025-06-15
+698,10,Toko Maju Jaya,15000,2025-06-15
+699,10,Minimarket Sejahtera,15000,2025-06-15
+700,10,Warung Bu Tini,16000,2025-07-15
+701,10,Toko Maju Jaya,15000,2025-07-15
+702,10,Minimarket Sejahtera,16000,2025-07-15
+703,10,Warung Bu Tini,16000,2025-08-15
+704,10,Toko Maju Jaya,15500,2025-08-15
+705,10,Minimarket Sejahtera,16000,2025-08-15
+706,10,Warung Bu Tini,16000,2025-09-15
+707,10,Toko Maju Jaya,16000,2025-09-15
+708,10,Minimarket Sejahtera,15000,2025-09-15
+709,10,Warung Bu Tini,16500,2025-10-15
+710,10,Toko Maju Jaya,16000,2025-10-15
+711,10,Minimarket Sejahtera,16500,2025-10-15
+712,10,Warung Bu Tini,15000,2025-11-15
+713,10,Toko Maju Jaya,16000,2025-11-15
+714,10,Minimarket Sejahtera,15000,2025-11-15
+715,10,Warung Bu Tini,15000,2025-12-15
+716,10,Toko Maju Jaya,15500,2025-12-15
+717,10,Minimarket Sejahtera,15000,2025-12-15
+718,10,Warung Bu Tini,15000,2026-01-15
+719,10,Toko Maju Jaya,15000,2026-01-15
+720,10,Minimarket Sejahtera,15000,2026-01-15
+721,10,Warung Bu Tini,15500,2026-02-15
+722,10,Toko Maju Jaya,15000,2026-02-15
+723,10,Minimarket Sejahtera,15500,2026-02-15
+724,10,Warung Bu Tini,16000,2026-03-15
+725,10,Toko Maju Jaya,15500,2026-03-15
+726,10,Minimarket Sejahtera,16000,2026-03-15
+727,10,Warung Bu Tini,15500,2026-04-15
+728,10,Toko Maju Jaya,15500,2026-04-15
+729,10,Minimarket Sejahtera,15000,2026-04-15
+730,10,Warung Bu Tini,16500,2026-05-15
+731,10,Toko Maju Jaya,16500,2026-05-15
+732,10,Minimarket Sejahtera,15500,2026-05-15
+733,10,Warung Bu Tini,16000,2026-06-15
+734,10,Toko Maju Jaya,17000,2026-06-15
+735,10,Minimarket Sejahtera,17000,2026-06-15
+736,10,Warung Bu Tini,16000,2026-07-15
+737,10,Toko Maju Jaya,15500,2026-07-15
+738,10,Minimarket Sejahtera,16500,2026-07-15
+739,10,Warung Bu Tini,16000,2026-08-15
+740,10,Toko Maju Jaya,15500,2026-08-15
+741,10,Minimarket Sejahtera,16000,2026-08-15
+742,10,Warung Bu Tini,15500,2026-09-15
+743,10,Toko Maju Jaya,16500,2026-09-15
+744,10,Minimarket Sejahtera,16000,2026-09-15
+745,10,Warung Bu Tini,17000,2026-10-15
+746,10,Toko Maju Jaya,17000,2026-10-15
+747,10,Minimarket Sejahtera,15500,2026-10-15
+748,10,Warung Bu Tini,16000,2026-11-05
+749,10,Toko Maju Jaya,16000,2026-11-05
+750,10,Minimarket Sejahtera,15000,2026-11-05
+751,11,Warung Bu Tini,24500,2024-11-15
+752,11,Toko Maju Jaya,25500,2024-11-15
+753,11,Minimarket Sejahtera,26500,2024-11-15
+754,11,Warung Bu Tini,24000,2024-12-15
+755,11,Toko Maju Jaya,25000,2024-12-15
+756,11,Minimarket Sejahtera,27000,2024-12-15
+757,11,Warung Bu Tini,25500,2025-01-15
+758,11,Toko Maju Jaya,26500,2025-01-15
+759,11,Minimarket Sejahtera,26000,2025-01-15
+760,11,Warung Bu Tini,25500,2025-02-15
+761,11,Toko Maju Jaya,25500,2025-02-15
+762,11,Minimarket Sejahtera,25000,2025-02-15
+763,11,Warung Bu Tini,24000,2025-03-15
+764,11,Toko Maju Jaya,26500,2025-03-15
+765,11,Minimarket Sejahtera,25000,2025-03-15
+766,11,Warung Bu Tini,27500,2025-04-15
+767,11,Toko Maju Jaya,26500,2025-04-15
+768,11,Minimarket Sejahtera,26500,2025-04-15
+769,11,Warung Bu Tini,25000,2025-05-15
+770,11,Toko Maju Jaya,25000,2025-05-15
+771,11,Minimarket Sejahtera,26500,2025-05-15
+772,11,Warung Bu Tini,27000,2025-06-15
+773,11,Toko Maju Jaya,27000,2025-06-15
+774,11,Minimarket Sejahtera,27500,2025-06-15
+775,11,Warung Bu Tini,26000,2025-07-15
+776,11,Toko Maju Jaya,27500,2025-07-15
+777,11,Minimarket Sejahtera,26500,2025-07-15
+778,11,Warung Bu Tini,27000,2025-08-15
+779,11,Toko Maju Jaya,25000,2025-08-15
+780,11,Minimarket Sejahtera,27000,2025-08-15
+781,11,Warung Bu Tini,25500,2025-09-15
+782,11,Toko Maju Jaya,27000,2025-09-15
+783,11,Minimarket Sejahtera,26000,2025-09-15
+784,11,Warung Bu Tini,26500,2025-10-15
+785,11,Toko Maju Jaya,28000,2025-10-15
+786,11,Minimarket Sejahtera,28000,2025-10-15
+787,11,Warung Bu Tini,26500,2025-11-15
+788,11,Toko Maju Jaya,26500,2025-11-15
+789,11,Minimarket Sejahtera,27000,2025-11-15
+790,11,Warung Bu Tini,25000,2025-12-15
+791,11,Toko Maju Jaya,27000,2025-12-15
+792,11,Minimarket Sejahtera,25000,2025-12-15
+793,11,Warung Bu Tini,26500,2026-01-15
+794,11,Toko Maju Jaya,26500,2026-01-15
+795,11,Minimarket Sejahtera,27500,2026-01-15
+796,11,Warung Bu Tini,26500,2026-02-15
+797,11,Toko Maju Jaya,25500,2026-02-15
+798,11,Minimarket Sejahtera,25500,2026-02-15
+799,11,Warung Bu Tini,27500,2026-03-15
+800,11,Toko Maju Jaya,26500,2026-03-15
+801,11,Minimarket Sejahtera,26000,2026-03-15
+802,11,Warung Bu Tini,29000,2026-04-15
+803,11,Toko Maju Jaya,29000,2026-04-15
+804,11,Minimarket Sejahtera,27500,2026-04-15
+805,11,Warung Bu Tini,26500,2026-05-15
+806,11,Toko Maju Jaya,26500,2026-05-15
+807,11,Minimarket Sejahtera,27000,2026-05-15
+808,11,Warung Bu Tini,28500,2026-06-15
+809,11,Toko Maju Jaya,29000,2026-06-15
+810,11,Minimarket Sejahtera,26000,2026-06-15
+811,11,Warung Bu Tini,26000,2026-07-15
+812,11,Toko Maju Jaya,27500,2026-07-15
+813,11,Minimarket Sejahtera,27000,2026-07-15
+814,11,Warung Bu Tini,27000,2026-08-15
+815,11,Toko Maju Jaya,26000,2026-08-15
+816,11,Minimarket Sejahtera,28500,2026-08-15
+817,11,Warung Bu Tini,26500,2026-09-15
+818,11,Toko Maju Jaya,26500,2026-09-15
+819,11,Minimarket Sejahtera,29500,2026-09-15
+820,11,Warung Bu Tini,26000,2026-10-15
+821,11,Toko Maju Jaya,29000,2026-10-15
+822,11,Minimarket Sejahtera,26500,2026-10-15
+823,11,Warung Bu Tini,28000,2026-11-05
+824,11,Toko Maju Jaya,26500,2026-11-05
+825,11,Minimarket Sejahtera,29000,2026-11-05
+826,12,Warung Bu Tini,6300,2024-11-15
+827,12,Toko Maju Jaya,5900,2024-11-15
+828,12,Minimarket Sejahtera,5900,2024-11-15
+829,12,Warung Bu Tini,6000,2024-12-15
+830,12,Toko Maju Jaya,6200,2024-12-15
+831,12,Minimarket Sejahtera,5600,2024-12-15
+832,12,Warung Bu Tini,5900,2025-01-15
+833,12,Toko Maju Jaya,5700,2025-01-15
+834,12,Minimarket Sejahtera,5700,2025-01-15
+835,12,Warung Bu Tini,5900,2025-02-15
+836,12,Toko Maju Jaya,6100,2025-02-15
+837,12,Minimarket Sejahtera,5800,2025-02-15
+838,12,Warung Bu Tini,5900,2025-03-15
+839,12,Toko Maju Jaya,5800,2025-03-15
+840,12,Minimarket Sejahtera,5600,2025-03-15
+841,12,Warung Bu Tini,5700,2025-04-15
+842,12,Toko Maju Jaya,6100,2025-04-15
+843,12,Minimarket Sejahtera,6000,2025-04-15
+844,12,Warung Bu Tini,6300,2025-05-15
+845,12,Toko Maju Jaya,5600,2025-05-15
+846,12,Minimarket Sejahtera,6000,2025-05-15
+847,12,Warung Bu Tini,5900,2025-06-15
+848,12,Toko Maju Jaya,6100,2025-06-15
+849,12,Minimarket Sejahtera,6000,2025-06-15
+850,12,Warung Bu Tini,6000,2025-07-15
+851,12,Toko Maju Jaya,6100,2025-07-15
+852,12,Minimarket Sejahtera,6100,2025-07-15
+853,12,Warung Bu Tini,6300,2025-08-15
+854,12,Toko Maju Jaya,5800,2025-08-15
+855,12,Minimarket Sejahtera,6000,2025-08-15
+856,12,Warung Bu Tini,5700,2025-09-15
+857,12,Toko Maju Jaya,5900,2025-09-15
+858,12,Minimarket Sejahtera,6100,2025-09-15
+859,12,Warung Bu Tini,5900,2025-10-15
+860,12,Toko Maju Jaya,6100,2025-10-15
+861,12,Minimarket Sejahtera,6500,2025-10-15
+862,12,Warung Bu Tini,6500,2025-11-15
+863,12,Toko Maju Jaya,6600,2025-11-15
+864,12,Minimarket Sejahtera,6300,2025-11-15
+865,12,Warung Bu Tini,6000,2025-12-15
+866,12,Toko Maju Jaya,6700,2025-12-15
+867,12,Minimarket Sejahtera,6400,2025-12-15
+868,12,Warung Bu Tini,6200,2026-01-15
+869,12,Toko Maju Jaya,6400,2026-01-15
+870,12,Minimarket Sejahtera,6500,2026-01-15
+871,12,Warung Bu Tini,6000,2026-02-15
+872,12,Toko Maju Jaya,6500,2026-02-15
+873,12,Minimarket Sejahtera,6500,2026-02-15
+874,12,Warung Bu Tini,6500,2026-03-15
+875,12,Toko Maju Jaya,5900,2026-03-15
+876,12,Minimarket Sejahtera,6000,2026-03-15
+877,12,Warung Bu Tini,6600,2026-04-15
+878,12,Toko Maju Jaya,6500,2026-04-15
+879,12,Minimarket Sejahtera,6200,2026-04-15
+880,12,Warung Bu Tini,6500,2026-05-15
+881,12,Toko Maju Jaya,6100,2026-05-15
+882,12,Minimarket Sejahtera,6300,2026-05-15
+883,12,Warung Bu Tini,6500,2026-06-15
+884,12,Toko Maju Jaya,6200,2026-06-15
+885,12,Minimarket Sejahtera,6100,2026-06-15
+886,12,Warung Bu Tini,6400,2026-07-15
+887,12,Toko Maju Jaya,6300,2026-07-15
+888,12,Minimarket Sejahtera,6100,2026-07-15
+889,12,Warung Bu Tini,6700,2026-08-15
+890,12,Toko Maju Jaya,5900,2026-08-15
+891,12,Minimarket Sejahtera,6700,2026-08-15
+892,12,Warung Bu Tini,6400,2026-09-15
+893,12,Toko Maju Jaya,6600,2026-09-15
+894,12,Minimarket Sejahtera,6700,2026-09-15
+895,12,Warung Bu Tini,6200,2026-10-15
+896,12,Toko Maju Jaya,6300,2026-10-15
+897,12,Minimarket Sejahtera,6400,2026-10-15
+898,12,Warung Bu Tini,6000,2026-11-05
+899,12,Toko Maju Jaya,6700,2026-11-05
+900,12,Minimarket Sejahtera,6000,2026-11-05
+901,13,Warung Bu Tini,8200,2024-11-15
+902,13,Toko Maju Jaya,8500,2024-11-15
+903,13,Minimarket Sejahtera,7600,2024-11-15
+904,13,Warung Bu Tini,8400,2024-12-15
+905,13,Toko Maju Jaya,8400,2024-12-15
+906,13,Minimarket Sejahtera,8200,2024-12-15
+907,13,Warung Bu Tini,8600,2025-01-15
+908,13,Toko Maju Jaya,7700,2025-01-15
+909,13,Minimarket Sejahtera,7800,2025-01-15
+910,13,Warung Bu Tini,8000,2025-02-15
+911,13,Toko Maju Jaya,8100,2025-02-15
+912,13,Minimarket Sejahtera,8600,2025-02-15
+913,13,Warung Bu Tini,7700,2025-03-15
+914,13,Toko Maju Jaya,7800,2025-03-15
+915,13,Minimarket Sejahtera,7900,2025-03-15
+916,13,Warung Bu Tini,8100,2025-04-15
+917,13,Toko Maju Jaya,8200,2025-04-15
+918,13,Minimarket Sejahtera,8000,2025-04-15
+919,13,Warung Bu Tini,8300,2025-05-15
+920,13,Toko Maju Jaya,8300,2025-05-15
+921,13,Minimarket Sejahtera,8800,2025-05-15
+922,13,Warung Bu Tini,8700,2025-06-15
+923,13,Toko Maju Jaya,8700,2025-06-15
+924,13,Minimarket Sejahtera,8900,2025-06-15
+925,13,Warung Bu Tini,9000,2025-07-15
+926,13,Toko Maju Jaya,8300,2025-07-15
+927,13,Minimarket Sejahtera,8600,2025-07-15
+928,13,Warung Bu Tini,9100,2025-08-15
+929,13,Toko Maju Jaya,8500,2025-08-15
+930,13,Minimarket Sejahtera,8600,2025-08-15
+931,13,Warung Bu Tini,8400,2025-09-15
+932,13,Toko Maju Jaya,8400,2025-09-15
+933,13,Minimarket Sejahtera,8100,2025-09-15
+934,13,Warung Bu Tini,8900,2025-10-15
+935,13,Toko Maju Jaya,8700,2025-10-15
+936,13,Minimarket Sejahtera,8800,2025-10-15
+937,13,Warung Bu Tini,8700,2025-11-15
+938,13,Toko Maju Jaya,8400,2025-11-15
+939,13,Minimarket Sejahtera,9000,2025-11-15
+940,13,Warung Bu Tini,8300,2025-12-15
+941,13,Toko Maju Jaya,8500,2025-12-15
+942,13,Minimarket Sejahtera,8700,2025-12-15
+943,13,Warung Bu Tini,8700,2026-01-15
+944,13,Toko Maju Jaya,8200,2026-01-15
+945,13,Minimarket Sejahtera,8600,2026-01-15
+946,13,Warung Bu Tini,9200,2026-02-15
+947,13,Toko Maju Jaya,8400,2026-02-15
+948,13,Minimarket Sejahtera,9200,2026-02-15
+949,13,Warung Bu Tini,8400,2026-03-15
+950,13,Toko Maju Jaya,8900,2026-03-15
+951,13,Minimarket Sejahtera,8600,2026-03-15
+952,13,Warung Bu Tini,8700,2026-04-15
+953,13,Toko Maju Jaya,8600,2026-04-15
+954,13,Minimarket Sejahtera,9400,2026-04-15
+955,13,Warung Bu Tini,8700,2026-05-15
+956,13,Toko Maju Jaya,8900,2026-05-15
+957,13,Minimarket Sejahtera,8900,2026-05-15
+958,13,Warung Bu Tini,8600,2026-06-15
+959,13,Toko Maju Jaya,8800,2026-06-15
+960,13,Minimarket Sejahtera,8700,2026-06-15
+961,13,Warung Bu Tini,9100,2026-07-15
+962,13,Toko Maju Jaya,9500,2026-07-15
+963,13,Minimarket Sejahtera,9000,2026-07-15
+964,13,Warung Bu Tini,8800,2026-08-15
+965,13,Toko Maju Jaya,9600,2026-08-15
+966,13,Minimarket Sejahtera,9000,2026-08-15
+967,13,Warung Bu Tini,9600,2026-09-15
+968,13,Toko Maju Jaya,8900,2026-09-15
+969,13,Minimarket Sejahtera,9100,2026-09-15
+970,13,Warung Bu Tini,8900,2026-10-15
+971,13,Toko Maju Jaya,9000,2026-10-15
+972,13,Minimarket Sejahtera,9500,2026-10-15
+973,13,Warung Bu Tini,9800,2026-11-05
+974,13,Toko Maju Jaya,9400,2026-11-05
+975,13,Minimarket Sejahtera,9100,2026-11-05
+976,14,Warung Bu Tini,17500,2024-11-15
+977,14,Toko Maju Jaya,17000,2024-11-15
+978,14,Minimarket Sejahtera,18000,2024-11-15
+979,14,Warung Bu Tini,18500,2024-12-15
+980,14,Toko Maju Jaya,17000,2024-12-15
+981,14,Minimarket Sejahtera,16500,2024-12-15
+982,14,Warung Bu Tini,17500,2025-01-15
+983,14,Toko Maju Jaya,17500,2025-01-15
+984,14,Minimarket Sejahtera,17000,2025-01-15
+985,14,Warung Bu Tini,18000,2025-02-15
+986,14,Toko Maju Jaya,18000,2025-02-15
+987,14,Minimarket Sejahtera,18000,2025-02-15
+988,14,Warung Bu Tini,17500,2025-03-15
+989,14,Toko Maju Jaya,17000,2025-03-15
+990,14,Minimarket Sejahtera,18000,2025-03-15
+991,14,Warung Bu Tini,17500,2025-04-15
+992,14,Toko Maju Jaya,18500,2025-04-15
+993,14,Minimarket Sejahtera,18500,2025-04-15
+994,14,Warung Bu Tini,18000,2025-05-15
+995,14,Toko Maju Jaya,17000,2025-05-15
+996,14,Minimarket Sejahtera,17000,2025-05-15
+997,14,Warung Bu Tini,18500,2025-06-15
+998,14,Toko Maju Jaya,17000,2025-06-15
+999,14,Minimarket Sejahtera,18000,2025-06-15
+1000,14,Warung Bu Tini,17500,2025-07-15
+1001,14,Toko Maju Jaya,18500,2025-07-15
+1002,14,Minimarket Sejahtera,18500,2025-07-15
+1003,14,Warung Bu Tini,18500,2025-08-15
+1004,14,Toko Maju Jaya,17000,2025-08-15
+1005,14,Minimarket Sejahtera,18000,2025-08-15
+1006,14,Warung Bu Tini,19000,2025-09-15
+1007,14,Toko Maju Jaya,18000,2025-09-15
+1008,14,Minimarket Sejahtera,17000,2025-09-15
+1009,14,Warung Bu Tini,17500,2025-10-15
+1010,14,Toko Maju Jaya,18500,2025-10-15
+1011,14,Minimarket Sejahtera,18500,2025-10-15
+1012,14,Warung Bu Tini,17500,2025-11-15
+1013,14,Toko Maju Jaya,17500,2025-11-15
+1014,14,Minimarket Sejahtera,18500,2025-11-15
+1015,14,Warung Bu Tini,18000,2025-12-15
+1016,14,Toko Maju Jaya,17500,2025-12-15
+1017,14,Minimarket Sejahtera,17000,2025-12-15
+1018,14,Warung Bu Tini,17500,2026-01-15
+1019,14,Toko Maju Jaya,17000,2026-01-15
+1020,14,Minimarket Sejahtera,18500,2026-01-15
+1021,14,Warung Bu Tini,18000,2026-02-15
+1022,14,Toko Maju Jaya,17000,2026-02-15
+1023,14,Minimarket Sejahtera,16500,2026-02-15
+1024,14,Warung Bu Tini,18000,2026-03-15
+1025,14,Toko Maju Jaya,17500,2026-03-15
+1026,14,Minimarket Sejahtera,17000,2026-03-15
+1027,14,Warung Bu Tini,19000,2026-04-15
+1028,14,Toko Maju Jaya,20000,2026-04-15
+1029,14,Minimarket Sejahtera,19000,2026-04-15
+1030,14,Warung Bu Tini,19000,2026-05-15
+1031,14,Toko Maju Jaya,19500,2026-05-15
+1032,14,Minimarket Sejahtera,19000,2026-05-15
+1033,14,Warung Bu Tini,19000,2026-06-15
+1034,14,Toko Maju Jaya,18500,2026-06-15
+1035,14,Minimarket Sejahtera,18500,2026-06-15
+1036,14,Warung Bu Tini,17500,2026-07-15
+1037,14,Toko Maju Jaya,18500,2026-07-15
+1038,14,Minimarket Sejahtera,18500,2026-07-15
+1039,14,Warung Bu Tini,19500,2026-08-15
+1040,14,Toko Maju Jaya,19500,2026-08-15
+1041,14,Minimarket Sejahtera,18000,2026-08-15
+1042,14,Warung Bu Tini,19500,2026-09-15
+1043,14,Toko Maju Jaya,20000,2026-09-15
+1044,14,Minimarket Sejahtera,19500,2026-09-15
+1045,14,Warung Bu Tini,18500,2026-10-15
+1046,14,Toko Maju Jaya,20000,2026-10-15
+1047,14,Minimarket Sejahtera,18500,2026-10-15
+1048,14,Warung Bu Tini,19500,2026-11-05
+1049,14,Toko Maju Jaya,19500,2026-11-05
+1050,14,Minimarket Sejahtera,20000,2026-11-05
+1051,15,Warung Bu Tini,10000,2024-11-15
+1052,15,Toko Maju Jaya,10000,2024-11-15
+1053,15,Minimarket Sejahtera,10500,2024-11-15
+1054,15,Warung Bu Tini,9800,2024-12-15
+1055,15,Toko Maju Jaya,10500,2024-12-15
+1056,15,Minimarket Sejahtera,10000,2024-12-15
+1057,15,Warung Bu Tini,10500,2025-01-15
+1058,15,Toko Maju Jaya,10500,2025-01-15
+1059,15,Minimarket Sejahtera,10500,2025-01-15
+1060,15,Warung Bu Tini,9500,2025-02-15
+1061,15,Toko Maju Jaya,9600,2025-02-15
+1062,15,Minimarket Sejahtera,10500,2025-02-15
+1063,15,Warung Bu Tini,9900,2025-03-15
+1064,15,Toko Maju Jaya,9800,2025-03-15
+1065,15,Minimarket Sejahtera,10500,2025-03-15
+1066,15,Warung Bu Tini,10000,2025-04-15
+1067,15,Toko Maju Jaya,10500,2025-04-15
+1068,15,Minimarket Sejahtera,10500,2025-04-15
+1069,15,Warung Bu Tini,11000,2025-05-15
+1070,15,Toko Maju Jaya,10500,2025-05-15
+1071,15,Minimarket Sejahtera,10500,2025-05-15
+1072,15,Warung Bu Tini,10500,2025-06-15
+1073,15,Toko Maju Jaya,11000,2025-06-15
+1074,15,Minimarket Sejahtera,10500,2025-06-15
+1075,15,Warung Bu Tini,10500,2025-07-15
+1076,15,Toko Maju Jaya,10000,2025-07-15
+1077,15,Minimarket Sejahtera,11000,2025-07-15
+1078,15,Warung Bu Tini,11000,2025-08-15
+1079,15,Toko Maju Jaya,11000,2025-08-15
+1080,15,Minimarket Sejahtera,10000,2025-08-15
+1081,15,Warung Bu Tini,11000,2025-09-15
+1082,15,Toko Maju Jaya,10000,2025-09-15
+1083,15,Minimarket Sejahtera,10500,2025-09-15
+1084,15,Warung Bu Tini,10500,2025-10-15
+1085,15,Toko Maju Jaya,11500,2025-10-15
+1086,15,Minimarket Sejahtera,10500,2025-10-15
+1087,15,Warung Bu Tini,10000,2025-11-15
+1088,15,Toko Maju Jaya,10500,2025-11-15
+1089,15,Minimarket Sejahtera,10500,2025-11-15
+1090,15,Warung Bu Tini,11000,2025-12-15
+1091,15,Toko Maju Jaya,10500,2025-12-15
+1092,15,Minimarket Sejahtera,10500,2025-12-15
+1093,15,Warung Bu Tini,10000,2026-01-15
+1094,15,Toko Maju Jaya,10000,2026-01-15
+1095,15,Minimarket Sejahtera,10500,2026-01-15
+1096,15,Warung Bu Tini,10500,2026-02-15
+1097,15,Toko Maju Jaya,11000,2026-02-15
+1098,15,Minimarket Sejahtera,11000,2026-02-15
+1099,15,Warung Bu Tini,10500,2026-03-15
+1100,15,Toko Maju Jaya,10500,2026-03-15
+1101,15,Minimarket Sejahtera,10500,2026-03-15
+1102,15,Warung Bu Tini,11500,2026-04-15
+1103,15,Toko Maju Jaya,11500,2026-04-15
+1104,15,Minimarket Sejahtera,10500,2026-04-15
+1105,15,Warung Bu Tini,11000,2026-05-15
+1106,15,Toko Maju Jaya,12000,2026-05-15
+1107,15,Minimarket Sejahtera,10500,2026-05-15
+1108,15,Warung Bu Tini,11000,2026-06-15
+1109,15,Toko Maju Jaya,11500,2026-06-15
+1110,15,Minimarket Sejahtera,11500,2026-06-15
+1111,15,Warung Bu Tini,11500,2026-07-15
+1112,15,Toko Maju Jaya,10500,2026-07-15
+1113,15,Minimarket Sejahtera,11000,2026-07-15
+1114,15,Warung Bu Tini,12000,2026-08-15
+1115,15,Toko Maju Jaya,10500,2026-08-15
+1116,15,Minimarket Sejahtera,11000,2026-08-15
+1117,15,Warung Bu Tini,11500,2026-09-15
+1118,15,Toko Maju Jaya,10500,2026-09-15
+1119,15,Minimarket Sejahtera,11500,2026-09-15
+1120,15,Warung Bu Tini,11000,2026-10-15
+1121,15,Toko Maju Jaya,11000,2026-10-15
+1122,15,Minimarket Sejahtera,11000,2026-10-15
+1123,15,Warung Bu Tini,11000,2026-11-05
+1124,15,Toko Maju Jaya,11500,2026-11-05
+1125,15,Minimarket Sejahtera,10500,2026-11-05
+1126,16,Warung Bu Tini,64000,2024-11-15
+1127,16,Toko Maju Jaya,65000,2024-11-15
+1128,16,Minimarket Sejahtera,65000,2024-11-15
+1129,16,Warung Bu Tini,65500,2024-12-15
+1130,16,Toko Maju Jaya,70000,2024-12-15
+1131,16,Minimarket Sejahtera,63500,2024-12-15
+1132,16,Warung Bu Tini,65500,2025-01-15
+1133,16,Toko Maju Jaya,65000,2025-01-15
+1134,16,Minimarket Sejahtera,66500,2025-01-15
+1135,16,Warung Bu Tini,63000,2025-02-15
+1136,16,Toko Maju Jaya,66000,2025-02-15
+1137,16,Minimarket Sejahtera,67500,2025-02-15
+1138,16,Warung Bu Tini,67000,2025-03-15
+1139,16,Toko Maju Jaya,65500,2025-03-15
+1140,16,Minimarket Sejahtera,66500,2025-03-15
+1141,16,Warung Bu Tini,71000,2025-04-15
+1142,16,Toko Maju Jaya,72500,2025-04-15
+1143,16,Minimarket Sejahtera,68500,2025-04-15
+1144,16,Warung Bu Tini,67500,2025-05-15
+1145,16,Toko Maju Jaya,68500,2025-05-15
+1146,16,Minimarket Sejahtera,70500,2025-05-15
+1147,16,Warung Bu Tini,72000,2025-06-15
+1148,16,Toko Maju Jaya,71500,2025-06-15
+1149,16,Minimarket Sejahtera,74000,2025-06-15
+1150,16,Warung Bu Tini,74000,2025-07-15
+1151,16,Toko Maju Jaya,70000,2025-07-15
+1152,16,Minimarket Sejahtera,70500,2025-07-15
+1153,16,Warung Bu Tini,73000,2025-08-15
+1154,16,Toko Maju Jaya,68500,2025-08-15
+1155,16,Minimarket Sejahtera,66500,2025-08-15
+1156,16,Warung Bu Tini,68500,2025-09-15
+1157,16,Toko Maju Jaya,66000,2025-09-15
+1158,16,Minimarket Sejahtera,68000,2025-09-15
+1159,16,Warung Bu Tini,73500,2025-10-15
+1160,16,Toko Maju Jaya,75500,2025-10-15
+1161,16,Minimarket Sejahtera,74500,2025-10-15
+1162,16,Warung Bu Tini,76500,2025-11-15
+1163,16,Toko Maju Jaya,70000,2025-11-15
+1164,16,Minimarket Sejahtera,68000,2025-11-15
+1165,16,Warung Bu Tini,72000,2025-12-15
+1166,16,Toko Maju Jaya,71500,2025-12-15
+1167,16,Minimarket Sejahtera,73500,2025-12-15
+1168,16,Warung Bu Tini,74500,2026-01-15
+1169,16,Toko Maju Jaya,73000,2026-01-15
+1170,16,Minimarket Sejahtera,74000,2026-01-15
+1171,16,Warung Bu Tini,70500,2026-02-15
+1172,16,Toko Maju Jaya,74000,2026-02-15
+1173,16,Minimarket Sejahtera,73000,2026-02-15
+1174,16,Warung Bu Tini,72000,2026-03-15
+1175,16,Toko Maju Jaya,72500,2026-03-15
+1176,16,Minimarket Sejahtera,71500,2026-03-15
+1177,16,Warung Bu Tini,74500,2026-04-15
+1178,16,Toko Maju Jaya,69500,2026-04-15
+1179,16,Minimarket Sejahtera,76000,2026-04-15
+1180,16,Warung Bu Tini,72000,2026-05-15
+1181,16,Toko Maju Jaya,72500,2026-05-15
+1182,16,Minimarket Sejahtera,78500,2026-05-15
+1183,16,Warung Bu Tini,77000,2026-06-15
+1184,16,Toko Maju Jaya,71000,2026-06-15
+1185,16,Minimarket Sejahtera,76000,2026-06-15
+1186,16,Warung Bu Tini,71500,2026-07-15
+1187,16,Toko Maju Jaya,72000,2026-07-15
+1188,16,Minimarket Sejahtera,76000,2026-07-15
+1189,16,Warung Bu Tini,75500,2026-08-15
+1190,16,Toko Maju Jaya,69500,2026-08-15
+1191,16,Minimarket Sejahtera,71000,2026-08-15
+1192,16,Warung Bu Tini,74500,2026-09-15
+1193,16,Toko Maju Jaya,76000,2026-09-15
+1194,16,Minimarket Sejahtera,77000,2026-09-15
+1195,16,Warung Bu Tini,71500,2026-10-15
+1196,16,Toko Maju Jaya,78000,2026-10-15
+1197,16,Minimarket Sejahtera,70000,2026-10-15
+1198,16,Warung Bu Tini,75000,2026-11-05
+1199,16,Toko Maju Jaya,74000,2026-11-05
+1200,16,Minimarket Sejahtera,75500,2026-11-05
+1201,17,Warung Bu Tini,2900,2024-11-15
+1202,17,Toko Maju Jaya,3200,2024-11-15
+1203,17,Minimarket Sejahtera,2900,2024-11-15
+1204,17,Warung Bu Tini,2900,2024-12-15
+1205,17,Toko Maju Jaya,3200,2024-12-15
+1206,17,Minimarket Sejahtera,2900,2024-12-15
+1207,17,Warung Bu Tini,2900,2025-01-15
+1208,17,Toko Maju Jaya,2900,2025-01-15
+1209,17,Minimarket Sejahtera,3100,2025-01-15
+1210,17,Warung Bu Tini,3000,2025-02-15
+1211,17,Toko Maju Jaya,3000,2025-02-15
+1212,17,Minimarket Sejahtera,3100,2025-02-15
+1213,17,Warung Bu Tini,2900,2025-03-15
+1214,17,Toko Maju Jaya,2900,2025-03-15
+1215,17,Minimarket Sejahtera,3100,2025-03-15
+1216,17,Warung Bu Tini,3200,2025-04-15
+1217,17,Toko Maju Jaya,3000,2025-04-15
+1218,17,Minimarket Sejahtera,3300,2025-04-15
+1219,17,Warung Bu Tini,3200,2025-05-15
+1220,17,Toko Maju Jaya,3100,2025-05-15
+1221,17,Minimarket Sejahtera,3100,2025-05-15
+1222,17,Warung Bu Tini,3200,2025-06-15
+1223,17,Toko Maju Jaya,3100,2025-06-15
+1224,17,Minimarket Sejahtera,3300,2025-06-15
+1225,17,Warung Bu Tini,3200,2025-07-15
+1226,17,Toko Maju Jaya,3200,2025-07-15
+1227,17,Minimarket Sejahtera,3200,2025-07-15
+1228,17,Warung Bu Tini,2900,2025-08-15
+1229,17,Toko Maju Jaya,3200,2025-08-15
+1230,17,Minimarket Sejahtera,3200,2025-08-15
+1231,17,Warung Bu Tini,3300,2025-09-15
+1232,17,Toko Maju Jaya,3100,2025-09-15
+1233,17,Minimarket Sejahtera,3300,2025-09-15
+1234,17,Warung Bu Tini,3200,2025-10-15
+1235,17,Toko Maju Jaya,3000,2025-10-15
+1236,17,Minimarket Sejahtera,3100,2025-10-15
+1237,17,Warung Bu Tini,3100,2025-11-15
+1238,17,Toko Maju Jaya,3100,2025-11-15
+1239,17,Minimarket Sejahtera,3100,2025-11-15
+1240,17,Warung Bu Tini,3200,2025-12-15
+1241,17,Toko Maju Jaya,3100,2025-12-15
+1242,17,Minimarket Sejahtera,3000,2025-12-15
+1243,17,Warung Bu Tini,3100,2026-01-15
+1244,17,Toko Maju Jaya,3300,2026-01-15
+1245,17,Minimarket Sejahtera,3200,2026-01-15
+1246,17,Warung Bu Tini,3200,2026-02-15
+1247,17,Toko Maju Jaya,3000,2026-02-15
+1248,17,Minimarket Sejahtera,3000,2026-02-15
+1249,17,Warung Bu Tini,3000,2026-03-15
+1250,17,Toko Maju Jaya,3300,2026-03-15
+1251,17,Minimarket Sejahtera,3000,2026-03-15
+1252,17,Warung Bu Tini,3200,2026-04-15
+1253,17,Toko Maju Jaya,3000,2026-04-15
+1254,17,Minimarket Sejahtera,3100,2026-04-15
+1255,17,Warung Bu Tini,3300,2026-05-15
+1256,17,Toko Maju Jaya,3100,2026-05-15
+1257,17,Minimarket Sejahtera,3100,2026-05-15
+1258,17,Warung Bu Tini,3300,2026-06-15
+1259,17,Toko Maju Jaya,3200,2026-06-15
+1260,17,Minimarket Sejahtera,3200,2026-06-15
+1261,17,Warung Bu Tini,3000,2026-07-15
+1262,17,Toko Maju Jaya,3000,2026-07-15
+1263,17,Minimarket Sejahtera,3200,2026-07-15
+1264,17,Warung Bu Tini,3000,2026-08-15
+1265,17,Toko Maju Jaya,3000,2026-08-15
+1266,17,Minimarket Sejahtera,3000,2026-08-15
+1267,17,Warung Bu Tini,3300,2026-09-15
+1268,17,Toko Maju Jaya,3400,2026-09-15
+1269,17,Minimarket Sejahtera,3400,2026-09-15
+1270,17,Warung Bu Tini,3400,2026-10-15
+1271,17,Toko Maju Jaya,3100,2026-10-15
+1272,17,Minimarket Sejahtera,3400,2026-10-15
+1273,17,Warung Bu Tini,3100,2026-11-05
+1274,17,Toko Maju Jaya,3400,2026-11-05
+1275,17,Minimarket Sejahtera,3200,2026-11-05
+1276,18,Warung Bu Tini,6900,2024-11-15
+1277,18,Toko Maju Jaya,6300,2024-11-15
+1278,18,Minimarket Sejahtera,6500,2024-11-15
+1279,18,Warung Bu Tini,6200,2024-12-15
+1280,18,Toko Maju Jaya,6500,2024-12-15
+1281,18,Minimarket Sejahtera,6400,2024-12-15
+1282,18,Warung Bu Tini,6300,2025-01-15
+1283,18,Toko Maju Jaya,6900,2025-01-15
+1284,18,Minimarket Sejahtera,6600,2025-01-15
+1285,18,Warung Bu Tini,6800,2025-02-15
+1286,18,Toko Maju Jaya,6800,2025-02-15
+1287,18,Minimarket Sejahtera,6700,2025-02-15
+1288,18,Warung Bu Tini,6700,2025-03-15
+1289,18,Toko Maju Jaya,6800,2025-03-15
+1290,18,Minimarket Sejahtera,6300,2025-03-15
+1291,18,Warung Bu Tini,6800,2025-04-15
+1292,18,Toko Maju Jaya,6900,2025-04-15
+1293,18,Minimarket Sejahtera,6600,2025-04-15
+1294,18,Warung Bu Tini,6900,2025-05-15
+1295,18,Toko Maju Jaya,7200,2025-05-15
+1296,18,Minimarket Sejahtera,6900,2025-05-15
+1297,18,Warung Bu Tini,7300,2025-06-15
+1298,18,Toko Maju Jaya,7100,2025-06-15
+1299,18,Minimarket Sejahtera,6500,2025-06-15
+1300,18,Warung Bu Tini,6500,2025-07-15
+1301,18,Toko Maju Jaya,6500,2025-07-15
+1302,18,Minimarket Sejahtera,6600,2025-07-15
+1303,18,Warung Bu Tini,7100,2025-08-15
+1304,18,Toko Maju Jaya,6600,2025-08-15
+1305,18,Minimarket Sejahtera,6500,2025-08-15
+1306,18,Warung Bu Tini,7200,2025-09-15
+1307,18,Toko Maju Jaya,7000,2025-09-15
+1308,18,Minimarket Sejahtera,6600,2025-09-15
+1309,18,Warung Bu Tini,7200,2025-10-15
+1310,18,Toko Maju Jaya,7300,2025-10-15
+1311,18,Minimarket Sejahtera,7000,2025-10-15
+1312,18,Warung Bu Tini,7300,2025-11-15
+1313,18,Toko Maju Jaya,7300,2025-11-15
+1314,18,Minimarket Sejahtera,7000,2025-11-15
+1315,18,Warung Bu Tini,7100,2025-12-15
+1316,18,Toko Maju Jaya,7200,2025-12-15
+1317,18,Minimarket Sejahtera,7100,2025-12-15
+1318,18,Warung Bu Tini,6800,2026-01-15
+1319,18,Toko Maju Jaya,6700,2026-01-15
+1320,18,Minimarket Sejahtera,7000,2026-01-15
+1321,18,Warung Bu Tini,7400,2026-02-15
+1322,18,Toko Maju Jaya,7200,2026-02-15
+1323,18,Minimarket Sejahtera,7300,2026-02-15
+1324,18,Warung Bu Tini,6900,2026-03-15
+1325,18,Toko Maju Jaya,7400,2026-03-15
+1326,18,Minimarket Sejahtera,6700,2026-03-15
+1327,18,Warung Bu Tini,7400,2026-04-15
+1328,18,Toko Maju Jaya,7700,2026-04-15
+1329,18,Minimarket Sejahtera,7500,2026-04-15
+1330,18,Warung Bu Tini,6900,2026-05-15
+1331,18,Toko Maju Jaya,7300,2026-05-15
+1332,18,Minimarket Sejahtera,7600,2026-05-15
+1333,18,Warung Bu Tini,7600,2026-06-15
+1334,18,Toko Maju Jaya,7100,2026-06-15
+1335,18,Minimarket Sejahtera,7100,2026-06-15
+1336,18,Warung Bu Tini,7100,2026-07-15
+1337,18,Toko Maju Jaya,7100,2026-07-15
+1338,18,Minimarket Sejahtera,7500,2026-07-15
+1339,18,Warung Bu Tini,7700,2026-08-15
+1340,18,Toko Maju Jaya,6900,2026-08-15
+1341,18,Minimarket Sejahtera,7600,2026-08-15
+1342,18,Warung Bu Tini,7600,2026-09-15
+1343,18,Toko Maju Jaya,7200,2026-09-15
+1344,18,Minimarket Sejahtera,7600,2026-09-15
+1345,18,Warung Bu Tini,7300,2026-10-15
+1346,18,Toko Maju Jaya,7700,2026-10-15
+1347,18,Minimarket Sejahtera,7900,2026-10-15
+1348,18,Warung Bu Tini,7800,2026-11-05
+1349,18,Toko Maju Jaya,7500,2026-11-05
+1350,18,Minimarket Sejahtera,7900,2026-11-05
+1351,19,Warung Bu Tini,9500,2024-11-15
+1352,19,Toko Maju Jaya,9400,2024-11-15
+1353,19,Minimarket Sejahtera,9300,2024-11-15
+1354,19,Warung Bu Tini,9500,2024-12-15
+1355,19,Toko Maju Jaya,9200,2024-12-15
+1356,19,Minimarket Sejahtera,9400,2024-12-15
+1357,19,Warung Bu Tini,9200,2025-01-15
+1358,19,Toko Maju Jaya,9500,2025-01-15
+1359,19,Minimarket Sejahtera,9300,2025-01-15
+1360,19,Warung Bu Tini,9200,2025-02-15
+1361,19,Toko Maju Jaya,9400,2025-02-15
+1362,19,Minimarket Sejahtera,9300,2025-02-15
+1363,19,Warung Bu Tini,9600,2025-03-15
+1364,19,Toko Maju Jaya,10000,2025-03-15
+1365,19,Minimarket Sejahtera,9600,2025-03-15
+1366,19,Warung Bu Tini,10500,2025-04-15
+1367,19,Toko Maju Jaya,10500,2025-04-15
+1368,19,Minimarket Sejahtera,9500,2025-04-15
+1369,19,Warung Bu Tini,9600,2025-05-15
+1370,19,Toko Maju Jaya,10500,2025-05-15
+1371,19,Minimarket Sejahtera,9600,2025-05-15
+1372,19,Warung Bu Tini,9800,2025-06-15
+1373,19,Toko Maju Jaya,10500,2025-06-15
+1374,19,Minimarket Sejahtera,10500,2025-06-15
+1375,19,Warung Bu Tini,9500,2025-07-15
+1376,19,Toko Maju Jaya,10000,2025-07-15
+1377,19,Minimarket Sejahtera,10500,2025-07-15
+1378,19,Warung Bu Tini,10000,2025-08-15
+1379,19,Toko Maju Jaya,10500,2025-08-15
+1380,19,Minimarket Sejahtera,10500,2025-08-15
+1381,19,Warung Bu Tini,9600,2025-09-15
+1382,19,Toko Maju Jaya,9500,2025-09-15
+1383,19,Minimarket Sejahtera,9700,2025-09-15
+1384,19,Warung Bu Tini,10000,2025-10-15
+1385,19,Toko Maju Jaya,10500,2025-10-15
+1386,19,Minimarket Sejahtera,10000,2025-10-15
+1387,19,Warung Bu Tini,11000,2025-11-15
+1388,19,Toko Maju Jaya,10500,2025-11-15
+1389,19,Minimarket Sejahtera,10500,2025-11-15
+1390,19,Warung Bu Tini,10500,2025-12-15
+1391,19,Toko Maju Jaya,11000,2025-12-15
+1392,19,Minimarket Sejahtera,11000,2025-12-15
+1393,19,Warung Bu Tini,11000,2026-01-15
+1394,19,Toko Maju Jaya,11500,2026-01-15
+1395,19,Minimarket Sejahtera,11000,2026-01-15
+1396,19,Warung Bu Tini,11500,2026-02-15
+1397,19,Toko Maju Jaya,10500,2026-02-15
+1398,19,Minimarket Sejahtera,11000,2026-02-15
+1399,19,Warung Bu Tini,11000,2026-03-15
+1400,19,Toko Maju Jaya,10500,2026-03-15
+1401,19,Minimarket Sejahtera,10000,2026-03-15
+1402,19,Warung Bu Tini,11000,2026-04-15
+1403,19,Toko Maju Jaya,11500,2026-04-15
+1404,19,Minimarket Sejahtera,11000,2026-04-15
+1405,19,Warung Bu Tini,10500,2026-05-15
+1406,19,Toko Maju Jaya,11000,2026-05-15
+1407,19,Minimarket Sejahtera,10000,2026-05-15
+1408,19,Warung Bu Tini,10000,2026-06-15
+1409,19,Toko Maju Jaya,10500,2026-06-15
+1410,19,Minimarket Sejahtera,10000,2026-06-15
+1411,19,Warung Bu Tini,10000,2026-07-15
+1412,19,Toko Maju Jaya,10000,2026-07-15
+1413,19,Minimarket Sejahtera,10000,2026-07-15
+1414,19,Warung Bu Tini,11000,2026-08-15
+1415,19,Toko Maju Jaya,10500,2026-08-15
+1416,19,Minimarket Sejahtera,10000,2026-08-15
+1417,19,Warung Bu Tini,11000,2026-09-15
+1418,19,Toko Maju Jaya,11000,2026-09-15
+1419,19,Minimarket Sejahtera,10500,2026-09-15
+1420,19,Warung Bu Tini,11000,2026-10-15
+1421,19,Toko Maju Jaya,11000,2026-10-15
+1422,19,Minimarket Sejahtera,10500,2026-10-15
+1423,19,Warung Bu Tini,10500,2026-11-05
+1424,19,Toko Maju Jaya,11000,2026-11-05
+1425,19,Minimarket Sejahtera,10000,2026-11-05
+1426,20,Warung Bu Tini,65500,2024-11-15
+1427,20,Toko Maju Jaya,62500,2024-11-15
+1428,20,Minimarket Sejahtera,61500,2024-11-15
+1429,20,Warung Bu Tini,60500,2024-12-15
+1430,20,Toko Maju Jaya,66000,2024-12-15
+1431,20,Minimarket Sejahtera,63000,2024-12-15
+1432,20,Warung Bu Tini,65500,2025-01-15
+1433,20,Toko Maju Jaya,67500,2025-01-15
+1434,20,Minimarket Sejahtera,64000,2025-01-15
+1435,20,Warung Bu Tini,62000,2025-02-15
+1436,20,Toko Maju Jaya,66000,2025-02-15
+1437,20,Minimarket Sejahtera,62500,2025-02-15
+1438,20,Warung Bu Tini,65500,2025-03-15
+1439,20,Toko Maju Jaya,65000,2025-03-15
+1440,20,Minimarket Sejahtera,62000,2025-03-15
+1441,20,Warung Bu Tini,65000,2025-04-15
+1442,20,Toko Maju Jaya,67000,2025-04-15
+1443,20,Minimarket Sejahtera,69000,2025-04-15
+1444,20,Warung Bu Tini,66500,2025-05-15
+1445,20,Toko Maju Jaya,63500,2025-05-15
+1446,20,Minimarket Sejahtera,64500,2025-05-15
+1447,20,Warung Bu Tini,70000,2025-06-15
+1448,20,Toko Maju Jaya,64000,2025-06-15
+1449,20,Minimarket Sejahtera,67000,2025-06-15
+1450,20,Warung Bu Tini,68000,2025-07-15
+1451,20,Toko Maju Jaya,69500,2025-07-15
+1452,20,Minimarket Sejahtera,70000,2025-07-15
+1453,20,Warung Bu Tini,62000,2025-08-15
+1454,20,Toko Maju Jaya,62000,2025-08-15
+1455,20,Minimarket Sejahtera,65000,2025-08-15
+1456,20,Warung Bu Tini,70000,2025-09-15
+1457,20,Toko Maju Jaya,68500,2025-09-15
+1458,20,Minimarket Sejahtera,63000,2025-09-15
+1459,20,Warung Bu Tini,67500,2025-10-15
+1460,20,Toko Maju Jaya,71500,2025-10-15
+1461,20,Minimarket Sejahtera,64500,2025-10-15
+1462,20,Warung Bu Tini,72000,2025-11-15
+1463,20,Toko Maju Jaya,72500,2025-11-15
+1464,20,Minimarket Sejahtera,64500,2025-11-15
+1465,20,Warung Bu Tini,65000,2025-12-15
+1466,20,Toko Maju Jaya,72000,2025-12-15
+1467,20,Minimarket Sejahtera,69500,2025-12-15
+1468,20,Warung Bu Tini,71000,2026-01-15
+1469,20,Toko Maju Jaya,71500,2026-01-15
+1470,20,Minimarket Sejahtera,72500,2026-01-15
+1471,20,Warung Bu Tini,67500,2026-02-15
+1472,20,Toko Maju Jaya,66000,2026-02-15
+1473,20,Minimarket Sejahtera,69000,2026-02-15
+1474,20,Warung Bu Tini,69000,2026-03-15
+1475,20,Toko Maju Jaya,72000,2026-03-15
+1476,20,Minimarket Sejahtera,72000,2026-03-15
+1477,20,Warung Bu Tini,69500,2026-04-15
+1478,20,Toko Maju Jaya,74500,2026-04-15
+1479,20,Minimarket Sejahtera,67500,2026-04-15
+1480,20,Warung Bu Tini,73500,2026-05-15
+1481,20,Toko Maju Jaya,68500,2026-05-15
+1482,20,Minimarket Sejahtera,73000,2026-05-15
+1483,20,Warung Bu Tini,67000,2026-06-15
+1484,20,Toko Maju Jaya,71500,2026-06-15
+1485,20,Minimarket Sejahtera,68500,2026-06-15
+1486,20,Warung Bu Tini,70500,2026-07-15
+1487,20,Toko Maju Jaya,74000,2026-07-15
+1488,20,Minimarket Sejahtera,75000,2026-07-15
+1489,20,Warung Bu Tini,72000,2026-08-15
+1490,20,Toko Maju Jaya,74500,2026-08-15
+1491,20,Minimarket Sejahtera,75000,2026-08-15
+1492,20,Warung Bu Tini,66500,2026-09-15
+1493,20,Toko Maju Jaya,72500,2026-09-15
+1494,20,Minimarket Sejahtera,72500,2026-09-15
+1495,20,Warung Bu Tini,72500,2026-10-15
+1496,20,Toko Maju Jaya,72000,2026-10-15
+1497,20,Minimarket Sejahtera,70000,2026-10-15
+1498,20,Warung Bu Tini,67500,2026-11-05
+1499,20,Toko Maju Jaya,70000,2026-11-05
+1500,20,Minimarket Sejahtera,69500,2026-11-05
+1501,21,Warung Bu Tini,48000,2024-11-15
+1502,21,Toko Maju Jaya,44000,2024-11-15
+1503,21,Minimarket Sejahtera,43000,2024-11-15
+1504,21,Warung Bu Tini,46500,2024-12-15
+1505,21,Toko Maju Jaya,43000,2024-12-15
+1506,21,Minimarket Sejahtera,44000,2024-12-15
+1507,21,Warung Bu Tini,45000,2025-01-15
+1508,21,Toko Maju Jaya,43000,2025-01-15
+1509,21,Minimarket Sejahtera,43500,2025-01-15
+1510,21,Warung Bu Tini,46500,2025-02-15
+1511,21,Toko Maju Jaya,45500,2025-02-15
+1512,21,Minimarket Sejahtera,43500,2025-02-15
+1513,21,Warung Bu Tini,47000,2025-03-15
+1514,21,Toko Maju Jaya,46500,2025-03-15
+1515,21,Minimarket Sejahtera,44500,2025-03-15
+1516,21,Warung Bu Tini,46500,2025-04-15
+1517,21,Toko Maju Jaya,44500,2025-04-15
+1518,21,Minimarket Sejahtera,45000,2025-04-15
+1519,21,Warung Bu Tini,48000,2025-05-15
+1520,21,Toko Maju Jaya,47500,2025-05-15
+1521,21,Minimarket Sejahtera,48000,2025-05-15
+1522,21,Warung Bu Tini,47500,2025-06-15
+1523,21,Toko Maju Jaya,46500,2025-06-15
+1524,21,Minimarket Sejahtera,46000,2025-06-15
+1525,21,Warung Bu Tini,47500,2025-07-15
+1526,21,Toko Maju Jaya,46000,2025-07-15
+1527,21,Minimarket Sejahtera,47000,2025-07-15
+1528,21,Warung Bu Tini,45000,2025-08-15
+1529,21,Toko Maju Jaya,45500,2025-08-15
+1530,21,Minimarket Sejahtera,49000,2025-08-15
+1531,21,Warung Bu Tini,47500,2025-09-15
+1532,21,Toko Maju Jaya,46500,2025-09-15
+1533,21,Minimarket Sejahtera,44500,2025-09-15
+1534,21,Warung Bu Tini,50000,2025-10-15
+1535,21,Toko Maju Jaya,44500,2025-10-15
+1536,21,Minimarket Sejahtera,47500,2025-10-15
+1537,21,Warung Bu Tini,49000,2025-11-15
+1538,21,Toko Maju Jaya,46500,2025-11-15
+1539,21,Minimarket Sejahtera,49500,2025-11-15
+1540,21,Warung Bu Tini,48500,2025-12-15
+1541,21,Toko Maju Jaya,49000,2025-12-15
+1542,21,Minimarket Sejahtera,49000,2025-12-15
+1543,21,Warung Bu Tini,46000,2026-01-15
+1544,21,Toko Maju Jaya,46000,2026-01-15
+1545,21,Minimarket Sejahtera,48500,2026-01-15
+1546,21,Warung Bu Tini,47500,2026-02-15
+1547,21,Toko Maju Jaya,45000,2026-02-15
+1548,21,Minimarket Sejahtera,48500,2026-02-15
+1549,21,Warung Bu Tini,48000,2026-03-15
+1550,21,Toko Maju Jaya,49500,2026-03-15
+1551,21,Minimarket Sejahtera,50000,2026-03-15
+1552,21,Warung Bu Tini,45500,2026-04-15
+1553,21,Toko Maju Jaya,47500,2026-04-15
+1554,21,Minimarket Sejahtera,51000,2026-04-15
+1555,21,Warung Bu Tini,48500,2026-05-15
+1556,21,Toko Maju Jaya,51000,2026-05-15
+1557,21,Minimarket Sejahtera,50500,2026-05-15
+1558,21,Warung Bu Tini,49000,2026-06-15
+1559,21,Toko Maju Jaya,46000,2026-06-15
+1560,21,Minimarket Sejahtera,49000,2026-06-15
+1561,21,Warung Bu Tini,50000,2026-07-15
+1562,21,Toko Maju Jaya,48000,2026-07-15
+1563,21,Minimarket Sejahtera,49500,2026-07-15
+1564,21,Warung Bu Tini,48500,2026-08-15
+1565,21,Toko Maju Jaya,45500,2026-08-15
+1566,21,Minimarket Sejahtera,45500,2026-08-15
+1567,21,Warung Bu Tini,48500,2026-09-15
+1568,21,Toko Maju Jaya,47500,2026-09-15
+1569,21,Minimarket Sejahtera,48000,2026-09-15
+1570,21,Warung Bu Tini,48000,2026-10-15
+1571,21,Toko Maju Jaya,50000,2026-10-15
+1572,21,Minimarket Sejahtera,50500,2026-10-15
+1573,21,Warung Bu Tini,51000,2026-11-05
+1574,21,Toko Maju Jaya,47500,2026-11-05
+1575,21,Minimarket Sejahtera,51000,2026-11-05
+1576,22,Warung Bu Tini,21000,2024-11-15
+1577,22,Toko Maju Jaya,21000,2024-11-15
+1578,22,Minimarket Sejahtera,21500,2024-11-15
+1579,22,Warung Bu Tini,22000,2024-12-15
+1580,22,Toko Maju Jaya,22500,2024-12-15
+1581,22,Minimarket Sejahtera,21500,2024-12-15
+1582,22,Warung Bu Tini,22000,2025-01-15
+1583,22,Toko Maju Jaya,21500,2025-01-15
+1584,22,Minimarket Sejahtera,22500,2025-01-15
+1585,22,Warung Bu Tini,23500,2025-02-15
+1586,22,Toko Maju Jaya,21500,2025-02-15
+1587,22,Minimarket Sejahtera,21500,2025-02-15
+1588,22,Warung Bu Tini,22000,2025-03-15
+1589,22,Toko Maju Jaya,22000,2025-03-15
+1590,22,Minimarket Sejahtera,23500,2025-03-15
+1591,22,Warung Bu Tini,23000,2025-04-15
+1592,22,Toko Maju Jaya,23500,2025-04-15
+1593,22,Minimarket Sejahtera,23500,2025-04-15
+1594,22,Warung Bu Tini,24500,2025-05-15
+1595,22,Toko Maju Jaya,24500,2025-05-15
+1596,22,Minimarket Sejahtera,23000,2025-05-15
+1597,22,Warung Bu Tini,22500,2025-06-15
+1598,22,Toko Maju Jaya,23500,2025-06-15
+1599,22,Minimarket Sejahtera,23500,2025-06-15
+1600,22,Warung Bu Tini,22500,2025-07-15
+1601,22,Toko Maju Jaya,24000,2025-07-15
+1602,22,Minimarket Sejahtera,22000,2025-07-15
+1603,22,Warung Bu Tini,22000,2025-08-15
+1604,22,Toko Maju Jaya,24000,2025-08-15
+1605,22,Minimarket Sejahtera,22000,2025-08-15
+1606,22,Warung Bu Tini,23500,2025-09-15
+1607,22,Toko Maju Jaya,25000,2025-09-15
+1608,22,Minimarket Sejahtera,22000,2025-09-15
+1609,22,Warung Bu Tini,22500,2025-10-15
+1610,22,Toko Maju Jaya,24500,2025-10-15
+1611,22,Minimarket Sejahtera,22500,2025-10-15
+1612,22,Warung Bu Tini,23000,2025-11-15
+1613,22,Toko Maju Jaya,23000,2025-11-15
+1614,22,Minimarket Sejahtera,23500,2025-11-15
+1615,22,Warung Bu Tini,23000,2025-12-15
+1616,22,Toko Maju Jaya,22000,2025-12-15
+1617,22,Minimarket Sejahtera,22500,2025-12-15
+1618,22,Warung Bu Tini,23000,2026-01-15
+1619,22,Toko Maju Jaya,22000,2026-01-15
+1620,22,Minimarket Sejahtera,23500,2026-01-15
+1621,22,Warung Bu Tini,23500,2026-02-15
+1622,22,Toko Maju Jaya,23500,2026-02-15
+1623,22,Minimarket Sejahtera,25000,2026-02-15
+1624,22,Warung Bu Tini,23000,2026-03-15
+1625,22,Toko Maju Jaya,22000,2026-03-15
+1626,22,Minimarket Sejahtera,24000,2026-03-15
+1627,22,Warung Bu Tini,23000,2026-04-15
+1628,22,Toko Maju Jaya,24000,2026-04-15
+1629,22,Minimarket Sejahtera,24000,2026-04-15
+1630,22,Warung Bu Tini,23000,2026-05-15
+1631,22,Toko Maju Jaya,22500,2026-05-15
+1632,22,Minimarket Sejahtera,24000,2026-05-15
+1633,22,Warung Bu Tini,23500,2026-06-15
+1634,22,Toko Maju Jaya,23500,2026-06-15
+1635,22,Minimarket Sejahtera,24000,2026-06-15
+1636,22,Warung Bu Tini,22500,2026-07-15
+1637,22,Toko Maju Jaya,25000,2026-07-15
+1638,22,Minimarket Sejahtera,25000,2026-07-15
+1639,22,Warung Bu Tini,23000,2026-08-15
+1640,22,Toko Maju Jaya,22500,2026-08-15
+1641,22,Minimarket Sejahtera,25000,2026-08-15
+1642,22,Warung Bu Tini,26500,2026-09-15
+1643,22,Toko Maju Jaya,25000,2026-09-15
+1644,22,Minimarket Sejahtera,26500,2026-09-15
+1645,22,Warung Bu Tini,23500,2026-10-15
+1646,22,Toko Maju Jaya,25000,2026-10-15
+1647,22,Minimarket Sejahtera,25000,2026-10-15
+1648,22,Warung Bu Tini,25500,2026-11-05
+1649,22,Toko Maju Jaya,24000,2026-11-05
+1650,22,Minimarket Sejahtera,25500,2026-11-05
+1651,23,Warung Bu Tini,5100,2024-11-15
+1652,23,Toko Maju Jaya,5400,2024-11-15
+1653,23,Minimarket Sejahtera,5300,2024-11-15
+1654,23,Warung Bu Tini,5300,2024-12-15
+1655,23,Toko Maju Jaya,5200,2024-12-15
+1656,23,Minimarket Sejahtera,5200,2024-12-15
+1657,23,Warung Bu Tini,5100,2025-01-15
+1658,23,Toko Maju Jaya,5100,2025-01-15
+1659,23,Minimarket Sejahtera,5500,2025-01-15
+1660,23,Warung Bu Tini,5500,2025-02-15
+1661,23,Toko Maju Jaya,5000,2025-02-15
+1662,23,Minimarket Sejahtera,5400,2025-02-15
+1663,23,Warung Bu Tini,5200,2025-03-15
+1664,23,Toko Maju Jaya,5000,2025-03-15
+1665,23,Minimarket Sejahtera,5400,2025-03-15
+1666,23,Warung Bu Tini,5500,2025-04-15
+1667,23,Toko Maju Jaya,5400,2025-04-15
+1668,23,Minimarket Sejahtera,5400,2025-04-15
+1669,23,Warung Bu Tini,5400,2025-05-15
+1670,23,Toko Maju Jaya,5200,2025-05-15
+1671,23,Minimarket Sejahtera,5200,2025-05-15
+1672,23,Warung Bu Tini,5400,2025-06-15
+1673,23,Toko Maju Jaya,5400,2025-06-15
+1674,23,Minimarket Sejahtera,5500,2025-06-15
+1675,23,Warung Bu Tini,5400,2025-07-15
+1676,23,Toko Maju Jaya,5200,2025-07-15
+1677,23,Minimarket Sejahtera,5100,2025-07-15
+1678,23,Warung Bu Tini,5600,2025-08-15
+1679,23,Toko Maju Jaya,5600,2025-08-15
+1680,23,Minimarket Sejahtera,5500,2025-08-15
+1681,23,Warung Bu Tini,5400,2025-09-15
+1682,23,Toko Maju Jaya,5200,2025-09-15
+1683,23,Minimarket Sejahtera,5500,2025-09-15
+1684,23,Warung Bu Tini,5500,2025-10-15
+1685,23,Toko Maju Jaya,5400,2025-10-15
+1686,23,Minimarket Sejahtera,5900,2025-10-15
+1687,23,Warung Bu Tini,5300,2025-11-15
+1688,23,Toko Maju Jaya,5500,2025-11-15
+1689,23,Minimarket Sejahtera,5300,2025-11-15
+1690,23,Warung Bu Tini,5400,2025-12-15
+1691,23,Toko Maju Jaya,5600,2025-12-15
+1692,23,Minimarket Sejahtera,5800,2025-12-15
+1693,23,Warung Bu Tini,5400,2026-01-15
+1694,23,Toko Maju Jaya,5500,2026-01-15
+1695,23,Minimarket Sejahtera,5300,2026-01-15
+1696,23,Warung Bu Tini,5700,2026-02-15
+1697,23,Toko Maju Jaya,5300,2026-02-15
+1698,23,Minimarket Sejahtera,5800,2026-02-15
+1699,23,Warung Bu Tini,5700,2026-03-15
+1700,23,Toko Maju Jaya,5900,2026-03-15
+1701,23,Minimarket Sejahtera,5700,2026-03-15
+1702,23,Warung Bu Tini,5500,2026-04-15
+1703,23,Toko Maju Jaya,5600,2026-04-15
+1704,23,Minimarket Sejahtera,5800,2026-04-15
+1705,23,Warung Bu Tini,6000,2026-05-15
+1706,23,Toko Maju Jaya,5800,2026-05-15
+1707,23,Minimarket Sejahtera,6000,2026-05-15
+1708,23,Warung Bu Tini,5500,2026-06-15
+1709,23,Toko Maju Jaya,5500,2026-06-15
+1710,23,Minimarket Sejahtera,5900,2026-06-15
+1711,23,Warung Bu Tini,5500,2026-07-15
+1712,23,Toko Maju Jaya,6100,2026-07-15
+1713,23,Minimarket Sejahtera,5400,2026-07-15
+1714,23,Warung Bu Tini,5700,2026-08-15
+1715,23,Toko Maju Jaya,5900,2026-08-15
+1716,23,Minimarket Sejahtera,5900,2026-08-15
+1717,23,Warung Bu Tini,6000,2026-09-15
+1718,23,Toko Maju Jaya,5800,2026-09-15
+1719,23,Minimarket Sejahtera,5600,2026-09-15
+1720,23,Warung Bu Tini,5900,2026-10-15
+1721,23,Toko Maju Jaya,6100,2026-10-15
+1722,23,Minimarket Sejahtera,6100,2026-10-15
+1723,23,Warung Bu Tini,5900,2026-11-05
+1724,23,Toko Maju Jaya,5600,2026-11-05
+1725,23,Minimarket Sejahtera,5800,2026-11-05
+1726,24,Warung Bu Tini,15000,2024-11-15
+1727,24,Toko Maju Jaya,15000,2024-11-15
+1728,24,Minimarket Sejahtera,14500,2024-11-15
+1729,24,Warung Bu Tini,15500,2024-12-15
+1730,24,Toko Maju Jaya,14500,2024-12-15
+1731,24,Minimarket Sejahtera,14500,2024-12-15
+1732,24,Warung Bu Tini,14000,2025-01-15
+1733,24,Toko Maju Jaya,15000,2025-01-15
+1734,24,Minimarket Sejahtera,15000,2025-01-15
+1735,24,Warung Bu Tini,15500,2025-02-15
+1736,24,Toko Maju Jaya,14500,2025-02-15
+1737,24,Minimarket Sejahtera,15000,2025-02-15
+1738,24,Warung Bu Tini,14000,2025-03-15
+1739,24,Toko Maju Jaya,15500,2025-03-15
+1740,24,Minimarket Sejahtera,14000,2025-03-15
+1741,24,Warung Bu Tini,16500,2025-04-15
+1742,24,Toko Maju Jaya,15000,2025-04-15
+1743,24,Minimarket Sejahtera,16500,2025-04-15
+1744,24,Warung Bu Tini,15000,2025-05-15
+1745,24,Toko Maju Jaya,16000,2025-05-15
+1746,24,Minimarket Sejahtera,15500,2025-05-15
+1747,24,Warung Bu Tini,16000,2025-06-15
+1748,24,Toko Maju Jaya,16500,2025-06-15
+1749,24,Minimarket Sejahtera,16000,2025-06-15
+1750,24,Warung Bu Tini,16500,2025-07-15
+1751,24,Toko Maju Jaya,15500,2025-07-15
+1752,24,Minimarket Sejahtera,16000,2025-07-15
+1753,24,Warung Bu Tini,16000,2025-08-15
+1754,24,Toko Maju Jaya,15500,2025-08-15
+1755,24,Minimarket Sejahtera,15500,2025-08-15
+1756,24,Warung Bu Tini,15000,2025-09-15
+1757,24,Toko Maju Jaya,14500,2025-09-15
+1758,24,Minimarket Sejahtera,16500,2025-09-15
+1759,24,Warung Bu Tini,15000,2025-10-15
+1760,24,Toko Maju Jaya,15500,2025-10-15
+1761,24,Minimarket Sejahtera,15500,2025-10-15
+1762,24,Warung Bu Tini,15000,2025-11-15
+1763,24,Toko Maju Jaya,16000,2025-11-15
+1764,24,Minimarket Sejahtera,15500,2025-11-15
+1765,24,Warung Bu Tini,15000,2025-12-15
+1766,24,Toko Maju Jaya,16000,2025-12-15
+1767,24,Minimarket Sejahtera,15500,2025-12-15
+1768,24,Warung Bu Tini,16000,2026-01-15
+1769,24,Toko Maju Jaya,15500,2026-01-15
+1770,24,Minimarket Sejahtera,16000,2026-01-15
+1771,24,Warung Bu Tini,16500,2026-02-15
+1772,24,Toko Maju Jaya,15500,2026-02-15
+1773,24,Minimarket Sejahtera,15500,2026-02-15
+1774,24,Warung Bu Tini,15000,2026-03-15
+1775,24,Toko Maju Jaya,16500,2026-03-15
+1776,24,Minimarket Sejahtera,15500,2026-03-15
+1777,24,Warung Bu Tini,18000,2026-04-15
+1778,24,Toko Maju Jaya,16500,2026-04-15
+1779,24,Minimarket Sejahtera,16500,2026-04-15
+1780,24,Warung Bu Tini,16500,2026-05-15
+1781,24,Toko Maju Jaya,17000,2026-05-15
+1782,24,Minimarket Sejahtera,17500,2026-05-15
+1783,24,Warung Bu Tini,16000,2026-06-15
+1784,24,Toko Maju Jaya,16500,2026-06-15
+1785,24,Minimarket Sejahtera,16500,2026-06-15
+1786,24,Warung Bu Tini,17500,2026-07-15
+1787,24,Toko Maju Jaya,16500,2026-07-15
+1788,24,Minimarket Sejahtera,15500,2026-07-15
+1789,24,Warung Bu Tini,15500,2026-08-15
+1790,24,Toko Maju Jaya,17500,2026-08-15
+1791,24,Minimarket Sejahtera,17000,2026-08-15
+1792,24,Warung Bu Tini,16500,2026-09-15
+1793,24,Toko Maju Jaya,18000,2026-09-15
+1794,24,Minimarket Sejahtera,18000,2026-09-15
+1795,24,Warung Bu Tini,16500,2026-10-15
+1796,24,Toko Maju Jaya,18000,2026-10-15
+1797,24,Minimarket Sejahtera,17500,2026-10-15
+1798,24,Warung Bu Tini,17000,2026-11-05
+1799,24,Toko Maju Jaya,16000,2026-11-05
+1800,24,Minimarket Sejahtera,18000,2026-11-05
+1801,25,Warung Bu Tini,6400,2024-11-15
+1802,25,Toko Maju Jaya,6700,2024-11-15
+1803,25,Minimarket Sejahtera,6600,2024-11-15
+1804,25,Warung Bu Tini,6300,2024-12-15
+1805,25,Toko Maju Jaya,6600,2024-12-15
+1806,25,Minimarket Sejahtera,6200,2024-12-15
+1807,25,Warung Bu Tini,6400,2025-01-15
+1808,25,Toko Maju Jaya,6600,2025-01-15
+1809,25,Minimarket Sejahtera,6700,2025-01-15
+1810,25,Warung Bu Tini,6800,2025-02-15
+1811,25,Toko Maju Jaya,6400,2025-02-15
+1812,25,Minimarket Sejahtera,6700,2025-02-15
+1813,25,Warung Bu Tini,6300,2025-03-15
+1814,25,Toko Maju Jaya,7000,2025-03-15
+1815,25,Minimarket Sejahtera,7000,2025-03-15
+1816,25,Warung Bu Tini,6500,2025-04-15
+1817,25,Toko Maju Jaya,7200,2025-04-15
+1818,25,Minimarket Sejahtera,6700,2025-04-15
+1819,25,Warung Bu Tini,6800,2025-05-15
+1820,25,Toko Maju Jaya,6700,2025-05-15
+1821,25,Minimarket Sejahtera,6700,2025-05-15
+1822,25,Warung Bu Tini,6800,2025-06-15
+1823,25,Toko Maju Jaya,6500,2025-06-15
+1824,25,Minimarket Sejahtera,6600,2025-06-15
+1825,25,Warung Bu Tini,6500,2025-07-15
+1826,25,Toko Maju Jaya,6600,2025-07-15
+1827,25,Minimarket Sejahtera,7200,2025-07-15
+1828,25,Warung Bu Tini,7000,2025-08-15
+1829,25,Toko Maju Jaya,6800,2025-08-15
+1830,25,Minimarket Sejahtera,6500,2025-08-15
+1831,25,Warung Bu Tini,7100,2025-09-15
+1832,25,Toko Maju Jaya,6600,2025-09-15
+1833,25,Minimarket Sejahtera,6400,2025-09-15
+1834,25,Warung Bu Tini,7000,2025-10-15
+1835,25,Toko Maju Jaya,7100,2025-10-15
+1836,25,Minimarket Sejahtera,6900,2025-10-15
+1837,25,Warung Bu Tini,6900,2025-11-15
+1838,25,Toko Maju Jaya,7100,2025-11-15
+1839,25,Minimarket Sejahtera,7100,2025-11-15
+1840,25,Warung Bu Tini,7000,2025-12-15
+1841,25,Toko Maju Jaya,6700,2025-12-15
+1842,25,Minimarket Sejahtera,6600,2025-12-15
+1843,25,Warung Bu Tini,7100,2026-01-15
+1844,25,Toko Maju Jaya,6900,2026-01-15
+1845,25,Minimarket Sejahtera,6600,2026-01-15
+1846,25,Warung Bu Tini,6800,2026-02-15
+1847,25,Toko Maju Jaya,7100,2026-02-15
+1848,25,Minimarket Sejahtera,7200,2026-02-15
+1849,25,Warung Bu Tini,6800,2026-03-15
+1850,25,Toko Maju Jaya,7200,2026-03-15
+1851,25,Minimarket Sejahtera,6600,2026-03-15
+1852,25,Warung Bu Tini,7100,2026-04-15
+1853,25,Toko Maju Jaya,7300,2026-04-15
+1854,25,Minimarket Sejahtera,6800,2026-04-15
+1855,25,Warung Bu Tini,7400,2026-05-15
+1856,25,Toko Maju Jaya,7500,2026-05-15
+1857,25,Minimarket Sejahtera,7200,2026-05-15
+1858,25,Warung Bu Tini,7600,2026-06-15
+1859,25,Toko Maju Jaya,7400,2026-06-15
+1860,25,Minimarket Sejahtera,7000,2026-06-15
+1861,25,Warung Bu Tini,7400,2026-07-15
+1862,25,Toko Maju Jaya,7200,2026-07-15
+1863,25,Minimarket Sejahtera,7000,2026-07-15
+1864,25,Warung Bu Tini,7500,2026-08-15
+1865,25,Toko Maju Jaya,7100,2026-08-15
+1866,25,Minimarket Sejahtera,7100,2026-08-15
+1867,25,Warung Bu Tini,6900,2026-09-15
+1868,25,Toko Maju Jaya,7700,2026-09-15
+1869,25,Minimarket Sejahtera,7000,2026-09-15
+1870,25,Warung Bu Tini,7300,2026-10-15
+1871,25,Toko Maju Jaya,7000,2026-10-15
+1872,25,Minimarket Sejahtera,7700,2026-10-15
+1873,25,Warung Bu Tini,7700,2026-11-05
+1874,25,Toko Maju Jaya,7200,2026-11-05
+1875,25,Minimarket Sejahtera,7500,2026-11-05
+1876,26,Warung Bu Tini,24500,2024-11-15
+1877,26,Toko Maju Jaya,25500,2024-11-15
+1878,26,Minimarket Sejahtera,25500,2024-11-15
+1879,26,Warung Bu Tini,26000,2024-12-15
+1880,26,Toko Maju Jaya,26500,2024-12-15
+1881,26,Minimarket Sejahtera,27500,2024-12-15
+1882,26,Warung Bu Tini,25500,2025-01-15
+1883,26,Toko Maju Jaya,26500,2025-01-15
+1884,26,Minimarket Sejahtera,27000,2025-01-15
+1885,26,Warung Bu Tini,25000,2025-02-15
+1886,26,Toko Maju Jaya,25000,2025-02-15
+1887,26,Minimarket Sejahtera,27000,2025-02-15
+1888,26,Warung Bu Tini,24500,2025-03-15
+1889,26,Toko Maju Jaya,27500,2025-03-15
+1890,26,Minimarket Sejahtera,27000,2025-03-15
+1891,26,Warung Bu Tini,27500,2025-04-15
+1892,26,Toko Maju Jaya,26500,2025-04-15
+1893,26,Minimarket Sejahtera,27500,2025-04-15
+1894,26,Warung Bu Tini,26000,2025-05-15
+1895,26,Toko Maju Jaya,28000,2025-05-15
+1896,26,Minimarket Sejahtera,28500,2025-05-15
+1897,26,Warung Bu Tini,26500,2025-06-15
+1898,26,Toko Maju Jaya,27500,2025-06-15
+1899,26,Minimarket Sejahtera,26500,2025-06-15
+1900,26,Warung Bu Tini,26500,2025-07-15
+1901,26,Toko Maju Jaya,26500,2025-07-15
+1902,26,Minimarket Sejahtera,26000,2025-07-15
+1903,26,Warung Bu Tini,27000,2025-08-15
+1904,26,Toko Maju Jaya,26000,2025-08-15
+1905,26,Minimarket Sejahtera,27500,2025-08-15
+1906,26,Warung Bu Tini,27500,2025-09-15
+1907,26,Toko Maju Jaya,26500,2025-09-15
+1908,26,Minimarket Sejahtera,27000,2025-09-15
+1909,26,Warung Bu Tini,26500,2025-10-15
+1910,26,Toko Maju Jaya,28500,2025-10-15
+1911,26,Minimarket Sejahtera,26500,2025-10-15
+1912,26,Warung Bu Tini,26000,2025-11-15
+1913,26,Toko Maju Jaya,29000,2025-11-15
+1914,26,Minimarket Sejahtera,26500,2025-11-15
+1915,26,Warung Bu Tini,28500,2025-12-15
+1916,26,Toko Maju Jaya,28000,2025-12-15
+1917,26,Minimarket Sejahtera,26500,2025-12-15
+1918,26,Warung Bu Tini,29000,2026-01-15
+1919,26,Toko Maju Jaya,28500,2026-01-15
+1920,26,Minimarket Sejahtera,26500,2026-01-15
+1921,26,Warung Bu Tini,27000,2026-02-15
+1922,26,Toko Maju Jaya,27000,2026-02-15
+1923,26,Minimarket Sejahtera,28500,2026-02-15
+1924,26,Warung Bu Tini,27500,2026-03-15
+1925,26,Toko Maju Jaya,25500,2026-03-15
+1926,26,Minimarket Sejahtera,27500,2026-03-15
+1927,26,Warung Bu Tini,26500,2026-04-15
+1928,26,Toko Maju Jaya,28500,2026-04-15
+1929,26,Minimarket Sejahtera,28500,2026-04-15
+1930,26,Warung Bu Tini,27000,2026-05-15
+1931,26,Toko Maju Jaya,26000,2026-05-15
+1932,26,Minimarket Sejahtera,26500,2026-05-15
+1933,26,Warung Bu Tini,26000,2026-06-15
+1934,26,Toko Maju Jaya,26000,2026-06-15
+1935,26,Minimarket Sejahtera,27500,2026-06-15
+1936,26,Warung Bu Tini,26500,2026-07-15
+1937,26,Toko Maju Jaya,28000,2026-07-15
+1938,26,Minimarket Sejahtera,27000,2026-07-15
+1939,26,Warung Bu Tini,28500,2026-08-15
+1940,26,Toko Maju Jaya,27500,2026-08-15
+1941,26,Minimarket Sejahtera,29000,2026-08-15
+1942,26,Warung Bu Tini,29000,2026-09-15
+1943,26,Toko Maju Jaya,28000,2026-09-15
+1944,26,Minimarket Sejahtera,29500,2026-09-15
+1945,26,Warung Bu Tini,27500,2026-10-15
+1946,26,Toko Maju Jaya,28500,2026-10-15
+1947,26,Minimarket Sejahtera,27000,2026-10-15
+1948,26,Warung Bu Tini,29500,2026-11-05
+1949,26,Toko Maju Jaya,28500,2026-11-05
+1950,26,Minimarket Sejahtera,28500,2026-11-05
+1951,27,Warung Bu Tini,14500,2024-11-15
+1952,27,Toko Maju Jaya,16000,2024-11-15
+1953,27,Minimarket Sejahtera,14500,2024-11-15
+1954,27,Warung Bu Tini,15000,2024-12-15
+1955,27,Toko Maju Jaya,15500,2024-12-15
+1956,27,Minimarket Sejahtera,15500,2024-12-15
+1957,27,Warung Bu Tini,14500,2025-01-15
+1958,27,Toko Maju Jaya,15500,2025-01-15
+1959,27,Minimarket Sejahtera,15000,2025-01-15
+1960,27,Warung Bu Tini,15500,2025-02-15
+1961,27,Toko Maju Jaya,15500,2025-02-15
+1962,27,Minimarket Sejahtera,15000,2025-02-15
+1963,27,Warung Bu Tini,16000,2025-03-15
+1964,27,Toko Maju Jaya,14500,2025-03-15
+1965,27,Minimarket Sejahtera,14500,2025-03-15
+1966,27,Warung Bu Tini,16000,2025-04-15
+1967,27,Toko Maju Jaya,16500,2025-04-15
+1968,27,Minimarket Sejahtera,16000,2025-04-15
+1969,27,Warung Bu Tini,15000,2025-05-15
+1970,27,Toko Maju Jaya,17000,2025-05-15
+1971,27,Minimarket Sejahtera,15500,2025-05-15
+1972,27,Warung Bu Tini,15500,2025-06-15
+1973,27,Toko Maju Jaya,17000,2025-06-15
+1974,27,Minimarket Sejahtera,16500,2025-06-15
+1975,27,Warung Bu Tini,17000,2025-07-15
+1976,27,Toko Maju Jaya,15500,2025-07-15
+1977,27,Minimarket Sejahtera,15500,2025-07-15
+1978,27,Warung Bu Tini,17000,2025-08-15
+1979,27,Toko Maju Jaya,16000,2025-08-15
+1980,27,Minimarket Sejahtera,17000,2025-08-15
+1981,27,Warung Bu Tini,17000,2025-09-15
+1982,27,Toko Maju Jaya,17000,2025-09-15
+1983,27,Minimarket Sejahtera,15500,2025-09-15
+1984,27,Warung Bu Tini,17000,2025-10-15
+1985,27,Toko Maju Jaya,16500,2025-10-15
+1986,27,Minimarket Sejahtera,16500,2025-10-15
+1987,27,Warung Bu Tini,16000,2025-11-15
+1988,27,Toko Maju Jaya,17000,2025-11-15
+1989,27,Minimarket Sejahtera,16000,2025-11-15
+1990,27,Warung Bu Tini,17000,2025-12-15
+1991,27,Toko Maju Jaya,16000,2025-12-15
+1992,27,Minimarket Sejahtera,17500,2025-12-15
+1993,27,Warung Bu Tini,17000,2026-01-15
+1994,27,Toko Maju Jaya,16500,2026-01-15
+1995,27,Minimarket Sejahtera,17000,2026-01-15
+1996,27,Warung Bu Tini,16500,2026-02-15
+1997,27,Toko Maju Jaya,16500,2026-02-15
+1998,27,Minimarket Sejahtera,17500,2026-02-15
+1999,27,Warung Bu Tini,17500,2026-03-15
+2000,27,Toko Maju Jaya,16500,2026-03-15
+2001,27,Minimarket Sejahtera,16000,2026-03-15
+2002,27,Warung Bu Tini,18000,2026-04-15
+2003,27,Toko Maju Jaya,16500,2026-04-15
+2004,27,Minimarket Sejahtera,17500,2026-04-15
+2005,27,Warung Bu Tini,16500,2026-05-15
+2006,27,Toko Maju Jaya,17500,2026-05-15
+2007,27,Minimarket Sejahtera,18000,2026-05-15
+2008,27,Warung Bu Tini,17500,2026-06-15
+2009,27,Toko Maju Jaya,16000,2026-06-15
+2010,27,Minimarket Sejahtera,17000,2026-06-15
+2011,27,Warung Bu Tini,18000,2026-07-15
+2012,27,Toko Maju Jaya,17500,2026-07-15
+2013,27,Minimarket Sejahtera,17500,2026-07-15
+2014,27,Warung Bu Tini,17500,2026-08-15
+2015,27,Toko Maju Jaya,17500,2026-08-15
+2016,27,Minimarket Sejahtera,16000,2026-08-15
+2017,27,Warung Bu Tini,19000,2026-09-15
+2018,27,Toko Maju Jaya,18500,2026-09-15
+2019,27,Minimarket Sejahtera,18000,2026-09-15
+2020,27,Warung Bu Tini,18000,2026-10-15
+2021,27,Toko Maju Jaya,18500,2026-10-15
+2022,27,Minimarket Sejahtera,16500,2026-10-15
+2023,27,Warung Bu Tini,17500,2026-11-05
+2024,27,Toko Maju Jaya,18500,2026-11-05
+2025,27,Minimarket Sejahtera,18000,2026-11-05
+2026,28,Warung Bu Tini,5900,2024-11-15
+2027,28,Toko Maju Jaya,5700,2024-11-15
+2028,28,Minimarket Sejahtera,5900,2024-11-15
+2029,28,Warung Bu Tini,6000,2024-12-15
+2030,28,Toko Maju Jaya,5800,2024-12-15
+2031,28,Minimarket Sejahtera,6000,2024-12-15
+2032,28,Warung Bu Tini,6000,2025-01-15
+2033,28,Toko Maju Jaya,6200,2025-01-15
+2034,28,Minimarket Sejahtera,5900,2025-01-15
+2035,28,Warung Bu Tini,5600,2025-02-15
+2036,28,Toko Maju Jaya,6200,2025-02-15
+2037,28,Minimarket Sejahtera,5700,2025-02-15
+2038,28,Warung Bu Tini,5800,2025-03-15
+2039,28,Toko Maju Jaya,5900,2025-03-15
+2040,28,Minimarket Sejahtera,6100,2025-03-15
+2041,28,Warung Bu Tini,6300,2025-04-15
+2042,28,Toko Maju Jaya,5900,2025-04-15
+2043,28,Minimarket Sejahtera,6200,2025-04-15
+2044,28,Warung Bu Tini,6200,2025-05-15
+2045,28,Toko Maju Jaya,6200,2025-05-15
+2046,28,Minimarket Sejahtera,5900,2025-05-15
+2047,28,Warung Bu Tini,5800,2025-06-15
+2048,28,Toko Maju Jaya,6300,2025-06-15
+2049,28,Minimarket Sejahtera,6400,2025-06-15
+2050,28,Warung Bu Tini,6000,2025-07-15
+2051,28,Toko Maju Jaya,5900,2025-07-15
+2052,28,Minimarket Sejahtera,6600,2025-07-15
+2053,28,Warung Bu Tini,6300,2025-08-15
+2054,28,Toko Maju Jaya,5800,2025-08-15
+2055,28,Minimarket Sejahtera,6100,2025-08-15
+2056,28,Warung Bu Tini,6500,2025-09-15
+2057,28,Toko Maju Jaya,6000,2025-09-15
+2058,28,Minimarket Sejahtera,6200,2025-09-15
+2059,28,Warung Bu Tini,6600,2025-10-15
+2060,28,Toko Maju Jaya,6300,2025-10-15
+2061,28,Minimarket Sejahtera,6300,2025-10-15
+2062,28,Warung Bu Tini,6200,2025-11-15
+2063,28,Toko Maju Jaya,6400,2025-11-15
+2064,28,Minimarket Sejahtera,6500,2025-11-15
+2065,28,Warung Bu Tini,6500,2025-12-15
+2066,28,Toko Maju Jaya,6500,2025-12-15
+2067,28,Minimarket Sejahtera,6700,2025-12-15
+2068,28,Warung Bu Tini,6600,2026-01-15
+2069,28,Toko Maju Jaya,6100,2026-01-15
+2070,28,Minimarket Sejahtera,6000,2026-01-15
+2071,28,Warung Bu Tini,6300,2026-02-15
+2072,28,Toko Maju Jaya,6200,2026-02-15
+2073,28,Minimarket Sejahtera,6400,2026-02-15
+2074,28,Warung Bu Tini,6600,2026-03-15
+2075,28,Toko Maju Jaya,6000,2026-03-15
+2076,28,Minimarket Sejahtera,6000,2026-03-15
+2077,28,Warung Bu Tini,6900,2026-04-15
+2078,28,Toko Maju Jaya,6300,2026-04-15
+2079,28,Minimarket Sejahtera,6800,2026-04-15
+2080,28,Warung Bu Tini,6600,2026-05-15
+2081,28,Toko Maju Jaya,6900,2026-05-15
+2082,28,Minimarket Sejahtera,6800,2026-05-15
+2083,28,Warung Bu Tini,6300,2026-06-15
+2084,28,Toko Maju Jaya,6900,2026-06-15
+2085,28,Minimarket Sejahtera,7000,2026-06-15
+2086,28,Warung Bu Tini,6400,2026-07-15
+2087,28,Toko Maju Jaya,6600,2026-07-15
+2088,28,Minimarket Sejahtera,6300,2026-07-15
+2089,28,Warung Bu Tini,6700,2026-08-15
+2090,28,Toko Maju Jaya,7100,2026-08-15
+2091,28,Minimarket Sejahtera,6500,2026-08-15
+2092,28,Warung Bu Tini,6400,2026-09-15
+2093,28,Toko Maju Jaya,6900,2026-09-15
+2094,28,Minimarket Sejahtera,6600,2026-09-15
+2095,28,Warung Bu Tini,6500,2026-10-15
+2096,28,Toko Maju Jaya,6500,2026-10-15
+2097,28,Minimarket Sejahtera,6900,2026-10-15
+2098,28,Warung Bu Tini,6700,2026-11-05
+2099,28,Toko Maju Jaya,6700,2026-11-05
+2100,28,Minimarket Sejahtera,7200,2026-11-05
+2101,29,Warung Bu Tini,17500,2024-11-15
+2102,29,Toko Maju Jaya,17500,2024-11-15
+2103,29,Minimarket Sejahtera,18500,2024-11-15
+2104,29,Warung Bu Tini,16500,2024-12-15
+2105,29,Toko Maju Jaya,18000,2024-12-15
+2106,29,Minimarket Sejahtera,17500,2024-12-15
+2107,29,Warung Bu Tini,17000,2025-01-15
+2108,29,Toko Maju Jaya,18000,2025-01-15
+2109,29,Minimarket Sejahtera,18500,2025-01-15
+2110,29,Warung Bu Tini,18500,2025-02-15
+2111,29,Toko Maju Jaya,17000,2025-02-15
+2112,29,Minimarket Sejahtera,17000,2025-02-15
+2113,29,Warung Bu Tini,17500,2025-03-15
+2114,29,Toko Maju Jaya,18000,2025-03-15
+2115,29,Minimarket Sejahtera,16500,2025-03-15
+2116,29,Warung Bu Tini,19000,2025-04-15
+2117,29,Toko Maju Jaya,20000,2025-04-15
+2118,29,Minimarket Sejahtera,19500,2025-04-15
+2119,29,Warung Bu Tini,18500,2025-05-15
+2120,29,Toko Maju Jaya,20000,2025-05-15
+2121,29,Minimarket Sejahtera,17500,2025-05-15
+2122,29,Warung Bu Tini,19500,2025-06-15
+2123,29,Toko Maju Jaya,18000,2025-06-15
+2124,29,Minimarket Sejahtera,19500,2025-06-15
+2125,29,Warung Bu Tini,18000,2025-07-15
+2126,29,Toko Maju Jaya,18000,2025-07-15
+2127,29,Minimarket Sejahtera,20000,2025-07-15
+2128,29,Warung Bu Tini,19500,2025-08-15
+2129,29,Toko Maju Jaya,19500,2025-08-15
+2130,29,Minimarket Sejahtera,19500,2025-08-15
+2131,29,Warung Bu Tini,19500,2025-09-15
+2132,29,Toko Maju Jaya,18000,2025-09-15
+2133,29,Minimarket Sejahtera,20000,2025-09-15
+2134,29,Warung Bu Tini,19000,2025-10-15
+2135,29,Toko Maju Jaya,18500,2025-10-15
+2136,29,Minimarket Sejahtera,20000,2025-10-15
+2137,29,Warung Bu Tini,19500,2025-11-15
+2138,29,Toko Maju Jaya,19000,2025-11-15
+2139,29,Minimarket Sejahtera,19000,2025-11-15
+2140,29,Warung Bu Tini,19000,2025-12-15
+2141,29,Toko Maju Jaya,18500,2025-12-15
+2142,29,Minimarket Sejahtera,19000,2025-12-15
+2143,29,Warung Bu Tini,20000,2026-01-15
+2144,29,Toko Maju Jaya,18000,2026-01-15
+2145,29,Minimarket Sejahtera,18500,2026-01-15
+2146,29,Warung Bu Tini,20000,2026-02-15
+2147,29,Toko Maju Jaya,19000,2026-02-15
+2148,29,Minimarket Sejahtera,18500,2026-02-15
+2149,29,Warung Bu Tini,19000,2026-03-15
+2150,29,Toko Maju Jaya,19500,2026-03-15
+2151,29,Minimarket Sejahtera,19500,2026-03-15
+2152,29,Warung Bu Tini,21500,2026-04-15
+2153,29,Toko Maju Jaya,21000,2026-04-15
+2154,29,Minimarket Sejahtera,21000,2026-04-15
+2155,29,Warung Bu Tini,19500,2026-05-15
+2156,29,Toko Maju Jaya,19500,2026-05-15
+2157,29,Minimarket Sejahtera,19500,2026-05-15
+2158,29,Warung Bu Tini,19500,2026-06-15
+2159,29,Toko Maju Jaya,19500,2026-06-15
+2160,29,Minimarket Sejahtera,21500,2026-06-15
+2161,29,Warung Bu Tini,21500,2026-07-15
+2162,29,Toko Maju Jaya,21500,2026-07-15
+2163,29,Minimarket Sejahtera,21500,2026-07-15
+2164,29,Warung Bu Tini,20000,2026-08-15
+2165,29,Toko Maju Jaya,21000,2026-08-15
+2166,29,Minimarket Sejahtera,19500,2026-08-15
+2167,29,Warung Bu Tini,21000,2026-09-15
+2168,29,Toko Maju Jaya,21500,2026-09-15
+2169,29,Minimarket Sejahtera,21500,2026-09-15
+2170,29,Warung Bu Tini,20500,2026-10-15
+2171,29,Toko Maju Jaya,21000,2026-10-15
+2172,29,Minimarket Sejahtera,22000,2026-10-15
+2173,29,Warung Bu Tini,21000,2026-11-05
+2174,29,Toko Maju Jaya,20000,2026-11-05
+2175,29,Minimarket Sejahtera,19500,2026-11-05
+2176,30,Warung Bu Tini,3500,2024-11-15
+2177,30,Toko Maju Jaya,3400,2024-11-15
+2178,30,Minimarket Sejahtera,3200,2024-11-15
+2179,30,Warung Bu Tini,3200,2024-12-15
+2180,30,Toko Maju Jaya,3400,2024-12-15
+2181,30,Minimarket Sejahtera,3300,2024-12-15
+2182,30,Warung Bu Tini,3300,2025-01-15
+2183,30,Toko Maju Jaya,3400,2025-01-15
+2184,30,Minimarket Sejahtera,3500,2025-01-15
+2185,30,Warung Bu Tini,3300,2025-02-15
+2186,30,Toko Maju Jaya,3400,2025-02-15
+2187,30,Minimarket Sejahtera,3600,2025-02-15
+2188,30,Warung Bu Tini,3400,2025-03-15
+2189,30,Toko Maju Jaya,3400,2025-03-15
+2190,30,Minimarket Sejahtera,3500,2025-03-15
+2191,30,Warung Bu Tini,3500,2025-04-15
+2192,30,Toko Maju Jaya,3400,2025-04-15
+2193,30,Minimarket Sejahtera,3800,2025-04-15
+2194,30,Warung Bu Tini,3700,2025-05-15
+2195,30,Toko Maju Jaya,3600,2025-05-15
+2196,30,Minimarket Sejahtera,3600,2025-05-15
+2197,30,Warung Bu Tini,3800,2025-06-15
+2198,30,Toko Maju Jaya,3500,2025-06-15
+2199,30,Minimarket Sejahtera,3500,2025-06-15
+2200,30,Warung Bu Tini,3600,2025-07-15
+2201,30,Toko Maju Jaya,3500,2025-07-15
+2202,30,Minimarket Sejahtera,3700,2025-07-15
+2203,30,Warung Bu Tini,3600,2025-08-15
+2204,30,Toko Maju Jaya,3800,2025-08-15
+2205,30,Minimarket Sejahtera,3700,2025-08-15
+2206,30,Warung Bu Tini,3300,2025-09-15
+2207,30,Toko Maju Jaya,3700,2025-09-15
+2208,30,Minimarket Sejahtera,3600,2025-09-15
+2209,30,Warung Bu Tini,3500,2025-10-15
+2210,30,Toko Maju Jaya,3500,2025-10-15
+2211,30,Minimarket Sejahtera,3600,2025-10-15
+2212,30,Warung Bu Tini,3500,2025-11-15
+2213,30,Toko Maju Jaya,3400,2025-11-15
+2214,30,Minimarket Sejahtera,3600,2025-11-15
+2215,30,Warung Bu Tini,3700,2025-12-15
+2216,30,Toko Maju Jaya,3800,2025-12-15
+2217,30,Minimarket Sejahtera,3500,2025-12-15
+2218,30,Warung Bu Tini,3700,2026-01-15
+2219,30,Toko Maju Jaya,3600,2026-01-15
+2220,30,Minimarket Sejahtera,3700,2026-01-15
+2221,30,Warung Bu Tini,3500,2026-02-15
+2222,30,Toko Maju Jaya,3500,2026-02-15
+2223,30,Minimarket Sejahtera,3500,2026-02-15
+2224,30,Warung Bu Tini,3400,2026-03-15
+2225,30,Toko Maju Jaya,3700,2026-03-15
+2226,30,Minimarket Sejahtera,3700,2026-03-15
+2227,30,Warung Bu Tini,3700,2026-04-15
+2228,30,Toko Maju Jaya,3600,2026-04-15
+2229,30,Minimarket Sejahtera,3900,2026-04-15
+2230,30,Warung Bu Tini,3600,2026-05-15
+2231,30,Toko Maju Jaya,3900,2026-05-15
+2232,30,Minimarket Sejahtera,3500,2026-05-15
+2233,30,Warung Bu Tini,3600,2026-06-15
+2234,30,Toko Maju Jaya,3600,2026-06-15
+2235,30,Minimarket Sejahtera,3500,2026-06-15
+2236,30,Warung Bu Tini,3700,2026-07-15
+2237,30,Toko Maju Jaya,3500,2026-07-15
+2238,30,Minimarket Sejahtera,3900,2026-07-15
+2239,30,Warung Bu Tini,3900,2026-08-15
+2240,30,Toko Maju Jaya,3700,2026-08-15
+2241,30,Minimarket Sejahtera,3700,2026-08-15
+2242,30,Warung Bu Tini,3700,2026-09-15
+2243,30,Toko Maju Jaya,3800,2026-09-15
+2244,30,Minimarket Sejahtera,3700,2026-09-15
+2245,30,Warung Bu Tini,3800,2026-10-15
+2246,30,Toko Maju Jaya,3900,2026-10-15
+2247,30,Minimarket Sejahtera,3600,2026-10-15
+2248,30,Warung Bu Tini,3600,2026-11-05
+2249,30,Toko Maju Jaya,4000,2026-11-05
+2250,30,Minimarket Sejahtera,3700,2026-11-05
+2251,31,Warung Bu Tini,3200,2024-11-15
+2252,31,Toko Maju Jaya,3100,2024-11-15
+2253,31,Minimarket Sejahtera,3100,2024-11-15
+2254,31,Warung Bu Tini,3300,2024-12-15
+2255,31,Toko Maju Jaya,3200,2024-12-15
+2256,31,Minimarket Sejahtera,3300,2024-12-15
+2257,31,Warung Bu Tini,2900,2025-01-15
+2258,31,Toko Maju Jaya,3300,2025-01-15
+2259,31,Minimarket Sejahtera,3300,2025-01-15
+2260,31,Warung Bu Tini,3100,2025-02-15
+2261,31,Toko Maju Jaya,3100,2025-02-15
+2262,31,Minimarket Sejahtera,3300,2025-02-15
+2263,31,Warung Bu Tini,3200,2025-03-15
+2264,31,Toko Maju Jaya,3200,2025-03-15
+2265,31,Minimarket Sejahtera,3200,2025-03-15
+2266,31,Warung Bu Tini,3100,2025-04-15
+2267,31,Toko Maju Jaya,3100,2025-04-15
+2268,31,Minimarket Sejahtera,3300,2025-04-15
+2269,31,Warung Bu Tini,3200,2025-05-15
+2270,31,Toko Maju Jaya,3400,2025-05-15
+2271,31,Minimarket Sejahtera,3300,2025-05-15
+2272,31,Warung Bu Tini,3100,2025-06-15
+2273,31,Toko Maju Jaya,3400,2025-06-15
+2274,31,Minimarket Sejahtera,3300,2025-06-15
+2275,31,Warung Bu Tini,3100,2025-07-15
+2276,31,Toko Maju Jaya,3400,2025-07-15
+2277,31,Minimarket Sejahtera,3200,2025-07-15
+2278,31,Warung Bu Tini,3100,2025-08-15
+2279,31,Toko Maju Jaya,3100,2025-08-15
+2280,31,Minimarket Sejahtera,3100,2025-08-15
+2281,31,Warung Bu Tini,3100,2025-09-15
+2282,31,Toko Maju Jaya,3300,2025-09-15
+2283,31,Minimarket Sejahtera,3400,2025-09-15
+2284,31,Warung Bu Tini,3400,2025-10-15
+2285,31,Toko Maju Jaya,3200,2025-10-15
+2286,31,Minimarket Sejahtera,3400,2025-10-15
+2287,31,Warung Bu Tini,3300,2025-11-15
+2288,31,Toko Maju Jaya,3200,2025-11-15
+2289,31,Minimarket Sejahtera,3300,2025-11-15
+2290,31,Warung Bu Tini,3200,2025-12-15
+2291,31,Toko Maju Jaya,3100,2025-12-15
+2292,31,Minimarket Sejahtera,3200,2025-12-15
+2293,31,Warung Bu Tini,3100,2026-01-15
+2294,31,Toko Maju Jaya,3200,2026-01-15
+2295,31,Minimarket Sejahtera,3400,2026-01-15
+2296,31,Warung Bu Tini,3100,2026-02-15
+2297,31,Toko Maju Jaya,3300,2026-02-15
+2298,31,Minimarket Sejahtera,3300,2026-02-15
+2299,31,Warung Bu Tini,3200,2026-03-15
+2300,31,Toko Maju Jaya,3400,2026-03-15
+2301,31,Minimarket Sejahtera,3100,2026-03-15
+2302,31,Warung Bu Tini,3300,2026-04-15
+2303,31,Toko Maju Jaya,3200,2026-04-15
+2304,31,Minimarket Sejahtera,3400,2026-04-15
+2305,31,Warung Bu Tini,3300,2026-05-15
+2306,31,Toko Maju Jaya,3500,2026-05-15
+2307,31,Minimarket Sejahtera,3300,2026-05-15
+2308,31,Warung Bu Tini,3400,2026-06-15
+2309,31,Toko Maju Jaya,3300,2026-06-15
+2310,31,Minimarket Sejahtera,3300,2026-06-15
+2311,31,Warung Bu Tini,3300,2026-07-15
+2312,31,Toko Maju Jaya,3100,2026-07-15
+2313,31,Minimarket Sejahtera,3100,2026-07-15
+2314,31,Warung Bu Tini,3400,2026-08-15
+2315,31,Toko Maju Jaya,3200,2026-08-15
+2316,31,Minimarket Sejahtera,3400,2026-08-15
+2317,31,Warung Bu Tini,3500,2026-09-15
+2318,31,Toko Maju Jaya,3300,2026-09-15
+2319,31,Minimarket Sejahtera,3500,2026-09-15
+2320,31,Warung Bu Tini,3300,2026-10-15
+2321,31,Toko Maju Jaya,3300,2026-10-15
+2322,31,Minimarket Sejahtera,3200,2026-10-15
+2323,31,Warung Bu Tini,3400,2026-11-05
+2324,31,Toko Maju Jaya,3600,2026-11-05
+2325,31,Minimarket Sejahtera,3300,2026-11-05
+2326,32,Warung Bu Tini,6100,2024-11-15
+2327,32,Toko Maju Jaya,6100,2024-11-15
+2328,32,Minimarket Sejahtera,6400,2024-11-15
+2329,32,Warung Bu Tini,6400,2024-12-15
+2330,32,Toko Maju Jaya,6000,2024-12-15
+2331,32,Minimarket Sejahtera,6700,2024-12-15
+2332,32,Warung Bu Tini,5900,2025-01-15
+2333,32,Toko Maju Jaya,6200,2025-01-15
+2334,32,Minimarket Sejahtera,6600,2025-01-15
+2335,32,Warung Bu Tini,6300,2025-02-15
+2336,32,Toko Maju Jaya,6200,2025-02-15
+2337,32,Minimarket Sejahtera,6700,2025-02-15
+2338,32,Warung Bu Tini,6200,2025-03-15
+2339,32,Toko Maju Jaya,6200,2025-03-15
+2340,32,Minimarket Sejahtera,6200,2025-03-15
+2341,32,Warung Bu Tini,6800,2025-04-15
+2342,32,Toko Maju Jaya,6800,2025-04-15
+2343,32,Minimarket Sejahtera,6300,2025-04-15
+2344,32,Warung Bu Tini,6500,2025-05-15
+2345,32,Toko Maju Jaya,6300,2025-05-15
+2346,32,Minimarket Sejahtera,6400,2025-05-15
+2347,32,Warung Bu Tini,6400,2025-06-15
+2348,32,Toko Maju Jaya,6300,2025-06-15
+2349,32,Minimarket Sejahtera,6700,2025-06-15
+2350,32,Warung Bu Tini,6700,2025-07-15
+2351,32,Toko Maju Jaya,6100,2025-07-15
+2352,32,Minimarket Sejahtera,6100,2025-07-15
+2353,32,Warung Bu Tini,6500,2025-08-15
+2354,32,Toko Maju Jaya,6600,2025-08-15
+2355,32,Minimarket Sejahtera,6700,2025-08-15
+2356,32,Warung Bu Tini,6300,2025-09-15
+2357,32,Toko Maju Jaya,6300,2025-09-15
+2358,32,Minimarket Sejahtera,6100,2025-09-15
+2359,32,Warung Bu Tini,6900,2025-10-15
+2360,32,Toko Maju Jaya,7000,2025-10-15
+2361,32,Minimarket Sejahtera,7000,2025-10-15
+2362,32,Warung Bu Tini,7000,2025-11-15
+2363,32,Toko Maju Jaya,6500,2025-11-15
+2364,32,Minimarket Sejahtera,6500,2025-11-15
+2365,32,Warung Bu Tini,6500,2025-12-15
+2366,32,Toko Maju Jaya,6800,2025-12-15
+2367,32,Minimarket Sejahtera,6900,2025-12-15
+2368,32,Warung Bu Tini,6400,2026-01-15
+2369,32,Toko Maju Jaya,6800,2026-01-15
+2370,32,Minimarket Sejahtera,6500,2026-01-15
+2371,32,Warung Bu Tini,6400,2026-02-15
+2372,32,Toko Maju Jaya,6800,2026-02-15
+2373,32,Minimarket Sejahtera,6700,2026-02-15
+2374,32,Warung Bu Tini,6800,2026-03-15
+2375,32,Toko Maju Jaya,6600,2026-03-15
+2376,32,Minimarket Sejahtera,6500,2026-03-15
+2377,32,Warung Bu Tini,6900,2026-04-15
+2378,32,Toko Maju Jaya,6600,2026-04-15
+2379,32,Minimarket Sejahtera,7100,2026-04-15
+2380,32,Warung Bu Tini,7100,2026-05-15
+2381,32,Toko Maju Jaya,6600,2026-05-15
+2382,32,Minimarket Sejahtera,6900,2026-05-15
+2383,32,Warung Bu Tini,6900,2026-06-15
+2384,32,Toko Maju Jaya,6800,2026-06-15
+2385,32,Minimarket Sejahtera,7000,2026-06-15
+2386,32,Warung Bu Tini,7000,2026-07-15
+2387,32,Toko Maju Jaya,6400,2026-07-15
+2388,32,Minimarket Sejahtera,6800,2026-07-15
+2389,32,Warung Bu Tini,6800,2026-08-15
+2390,32,Toko Maju Jaya,7100,2026-08-15
+2391,32,Minimarket Sejahtera,6700,2026-08-15
+2392,32,Warung Bu Tini,6900,2026-09-15
+2393,32,Toko Maju Jaya,6900,2026-09-15
+2394,32,Minimarket Sejahtera,7000,2026-09-15
+2395,32,Warung Bu Tini,6700,2026-10-15
+2396,32,Toko Maju Jaya,7000,2026-10-15
+2397,32,Minimarket Sejahtera,7400,2026-10-15
+2398,32,Warung Bu Tini,7300,2026-11-05
+2399,32,Toko Maju Jaya,7100,2026-11-05
+2400,32,Minimarket Sejahtera,7100,2026-11-05
+2401,33,Warung Bu Tini,2200,2024-11-15
+2402,33,Toko Maju Jaya,2000,2024-11-15
+2403,33,Minimarket Sejahtera,2200,2024-11-15
+2404,33,Warung Bu Tini,2100,2024-12-15
+2405,33,Toko Maju Jaya,2200,2024-12-15
+2406,33,Minimarket Sejahtera,2000,2024-12-15
+2407,33,Warung Bu Tini,2200,2025-01-15
+2408,33,Toko Maju Jaya,2200,2025-01-15
+2409,33,Minimarket Sejahtera,2200,2025-01-15
+2410,33,Warung Bu Tini,2200,2025-02-15
+2411,33,Toko Maju Jaya,2100,2025-02-15
+2412,33,Minimarket Sejahtera,2300,2025-02-15
+2413,33,Warung Bu Tini,2100,2025-03-15
+2414,33,Toko Maju Jaya,2000,2025-03-15
+2415,33,Minimarket Sejahtera,2000,2025-03-15
+2416,33,Warung Bu Tini,2200,2025-04-15
+2417,33,Toko Maju Jaya,2000,2025-04-15
+2418,33,Minimarket Sejahtera,2300,2025-04-15
+2419,33,Warung Bu Tini,2200,2025-05-15
+2420,33,Toko Maju Jaya,2000,2025-05-15
+2421,33,Minimarket Sejahtera,2200,2025-05-15
+2422,33,Warung Bu Tini,2100,2025-06-15
+2423,33,Toko Maju Jaya,2000,2025-06-15
+2424,33,Minimarket Sejahtera,2000,2025-06-15
+2425,33,Warung Bu Tini,2000,2025-07-15
+2426,33,Toko Maju Jaya,2200,2025-07-15
+2427,33,Minimarket Sejahtera,2000,2025-07-15
+2428,33,Warung Bu Tini,2300,2025-08-15
+2429,33,Toko Maju Jaya,2200,2025-08-15
+2430,33,Minimarket Sejahtera,2300,2025-08-15
+2431,33,Warung Bu Tini,2200,2025-09-15
+2432,33,Toko Maju Jaya,2300,2025-09-15
+2433,33,Minimarket Sejahtera,2200,2025-09-15
+2434,33,Warung Bu Tini,2200,2025-10-15
+2435,33,Toko Maju Jaya,2100,2025-10-15
+2436,33,Minimarket Sejahtera,2100,2025-10-15
+2437,33,Warung Bu Tini,2200,2025-11-15
+2438,33,Toko Maju Jaya,2200,2025-11-15
+2439,33,Minimarket Sejahtera,2200,2025-11-15
+2440,33,Warung Bu Tini,2100,2025-12-15
+2441,33,Toko Maju Jaya,2300,2025-12-15
+2442,33,Minimarket Sejahtera,2400,2025-12-15
+2443,33,Warung Bu Tini,2100,2026-01-15
+2444,33,Toko Maju Jaya,2300,2026-01-15
+2445,33,Minimarket Sejahtera,2400,2026-01-15
+2446,33,Warung Bu Tini,2100,2026-02-15
+2447,33,Toko Maju Jaya,2100,2026-02-15
+2448,33,Minimarket Sejahtera,2200,2026-02-15
+2449,33,Warung Bu Tini,2300,2026-03-15
+2450,33,Toko Maju Jaya,2300,2026-03-15
+2451,33,Minimarket Sejahtera,2300,2026-03-15
+2452,33,Warung Bu Tini,2200,2026-04-15
+2453,33,Toko Maju Jaya,2200,2026-04-15
+2454,33,Minimarket Sejahtera,2300,2026-04-15
+2455,33,Warung Bu Tini,2200,2026-05-15
+2456,33,Toko Maju Jaya,2200,2026-05-15
+2457,33,Minimarket Sejahtera,2400,2026-05-15
+2458,33,Warung Bu Tini,2200,2026-06-15
+2459,33,Toko Maju Jaya,2200,2026-06-15
+2460,33,Minimarket Sejahtera,2100,2026-06-15
+2461,33,Warung Bu Tini,2300,2026-07-15
+2462,33,Toko Maju Jaya,2300,2026-07-15
+2463,33,Minimarket Sejahtera,2300,2026-07-15
+2464,33,Warung Bu Tini,2300,2026-08-15
+2465,33,Toko Maju Jaya,2200,2026-08-15
+2466,33,Minimarket Sejahtera,2100,2026-08-15
+2467,33,Warung Bu Tini,2400,2026-09-15
+2468,33,Toko Maju Jaya,2400,2026-09-15
+2469,33,Minimarket Sejahtera,2300,2026-09-15
+2470,33,Warung Bu Tini,2400,2026-10-15
+2471,33,Toko Maju Jaya,2500,2026-10-15
+2472,33,Minimarket Sejahtera,2300,2026-10-15
+2473,33,Warung Bu Tini,2200,2026-11-05
+2474,33,Toko Maju Jaya,2300,2026-11-05
+2475,33,Minimarket Sejahtera,2400,2026-11-05
+2476,34,Warung Bu Tini,7200,2024-11-15
+2477,34,Toko Maju Jaya,7500,2024-11-15
+2478,34,Minimarket Sejahtera,7800,2024-11-15
+2479,34,Warung Bu Tini,7100,2024-12-15
+2480,34,Toko Maju Jaya,7700,2024-12-15
+2481,34,Minimarket Sejahtera,7100,2024-12-15
+2482,34,Warung Bu Tini,7400,2025-01-15
+2483,34,Toko Maju Jaya,7100,2025-01-15
+2484,34,Minimarket Sejahtera,7500,2025-01-15
+2485,34,Warung Bu Tini,7800,2025-02-15
+2486,34,Toko Maju Jaya,8000,2025-02-15
+2487,34,Minimarket Sejahtera,7100,2025-02-15
+2488,34,Warung Bu Tini,7700,2025-03-15
+2489,34,Toko Maju Jaya,7100,2025-03-15
+2490,34,Minimarket Sejahtera,7500,2025-03-15
+2491,34,Warung Bu Tini,7800,2025-04-15
+2492,34,Toko Maju Jaya,8000,2025-04-15
+2493,34,Minimarket Sejahtera,7600,2025-04-15
+2494,34,Warung Bu Tini,7800,2025-05-15
+2495,34,Toko Maju Jaya,7400,2025-05-15
+2496,34,Minimarket Sejahtera,7600,2025-05-15
+2497,34,Warung Bu Tini,7300,2025-06-15
+2498,34,Toko Maju Jaya,7300,2025-06-15
+2499,34,Minimarket Sejahtera,8200,2025-06-15
+2500,34,Warung Bu Tini,8300,2025-07-15
+2501,34,Toko Maju Jaya,7900,2025-07-15
+2502,34,Minimarket Sejahtera,7300,2025-07-15
+2503,34,Warung Bu Tini,8100,2025-08-15
+2504,34,Toko Maju Jaya,7600,2025-08-15
+2505,34,Minimarket Sejahtera,8200,2025-08-15
+2506,34,Warung Bu Tini,7500,2025-09-15
+2507,34,Toko Maju Jaya,7700,2025-09-15
+2508,34,Minimarket Sejahtera,7800,2025-09-15
+2509,34,Warung Bu Tini,8100,2025-10-15
+2510,34,Toko Maju Jaya,7700,2025-10-15
+2511,34,Minimarket Sejahtera,7600,2025-10-15
+2512,34,Warung Bu Tini,7600,2025-11-15
+2513,34,Toko Maju Jaya,8400,2025-11-15
+2514,34,Minimarket Sejahtera,8500,2025-11-15
+2515,34,Warung Bu Tini,7600,2025-12-15
+2516,34,Toko Maju Jaya,7600,2025-12-15
+2517,34,Minimarket Sejahtera,7700,2025-12-15
+2518,34,Warung Bu Tini,8300,2026-01-15
+2519,34,Toko Maju Jaya,7600,2026-01-15
+2520,34,Minimarket Sejahtera,7900,2026-01-15
+2521,34,Warung Bu Tini,7500,2026-02-15
+2522,34,Toko Maju Jaya,8300,2026-02-15
+2523,34,Minimarket Sejahtera,8200,2026-02-15
+2524,34,Warung Bu Tini,8100,2026-03-15
+2525,34,Toko Maju Jaya,7800,2026-03-15
+2526,34,Minimarket Sejahtera,8100,2026-03-15
+2527,34,Warung Bu Tini,8700,2026-04-15
+2528,34,Toko Maju Jaya,8700,2026-04-15
+2529,34,Minimarket Sejahtera,8800,2026-04-15
+2530,34,Warung Bu Tini,8600,2026-05-15
+2531,34,Toko Maju Jaya,8500,2026-05-15
+2532,34,Minimarket Sejahtera,8600,2026-05-15
+2533,34,Warung Bu Tini,8600,2026-06-15
+2534,34,Toko Maju Jaya,8200,2026-06-15
+2535,34,Minimarket Sejahtera,7900,2026-06-15
+2536,34,Warung Bu Tini,8500,2026-07-15
+2537,34,Toko Maju Jaya,8500,2026-07-15
+2538,34,Minimarket Sejahtera,8400,2026-07-15
+2539,34,Warung Bu Tini,8200,2026-08-15
+2540,34,Toko Maju Jaya,8400,2026-08-15
+2541,34,Minimarket Sejahtera,8500,2026-08-15
+2542,34,Warung Bu Tini,9000,2026-09-15
+2543,34,Toko Maju Jaya,8600,2026-09-15
+2544,34,Minimarket Sejahtera,8300,2026-09-15
+2545,34,Warung Bu Tini,8400,2026-10-15
+2546,34,Toko Maju Jaya,8900,2026-10-15
+2547,34,Minimarket Sejahtera,8600,2026-10-15
+2548,34,Warung Bu Tini,9100,2026-11-05
+2549,34,Toko Maju Jaya,8800,2026-11-05
+2550,34,Minimarket Sejahtera,8100,2026-11-05
+2551,35,Warung Bu Tini,10500,2024-11-15
+2552,35,Toko Maju Jaya,12000,2024-11-15
+2553,35,Minimarket Sejahtera,11000,2024-11-15
+2554,35,Warung Bu Tini,11000,2024-12-15
+2555,35,Toko Maju Jaya,11500,2024-12-15
+2556,35,Minimarket Sejahtera,11000,2024-12-15
+2557,35,Warung Bu Tini,10500,2025-01-15
+2558,35,Toko Maju Jaya,11000,2025-01-15
+2559,35,Minimarket Sejahtera,10500,2025-01-15
+2560,35,Warung Bu Tini,11500,2025-02-15
+2561,35,Toko Maju Jaya,10500,2025-02-15
+2562,35,Minimarket Sejahtera,11500,2025-02-15
+2563,35,Warung Bu Tini,12000,2025-03-15
+2564,35,Toko Maju Jaya,12000,2025-03-15
+2565,35,Minimarket Sejahtera,10500,2025-03-15
+2566,35,Warung Bu Tini,11500,2025-04-15
+2567,35,Toko Maju Jaya,11000,2025-04-15
+2568,35,Minimarket Sejahtera,10500,2025-04-15
+2569,35,Warung Bu Tini,11500,2025-05-15
+2570,35,Toko Maju Jaya,10500,2025-05-15
+2571,35,Minimarket Sejahtera,11500,2025-05-15
+2572,35,Warung Bu Tini,11500,2025-06-15
+2573,35,Toko Maju Jaya,11000,2025-06-15
+2574,35,Minimarket Sejahtera,11000,2025-06-15
+2575,35,Warung Bu Tini,10500,2025-07-15
+2576,35,Toko Maju Jaya,11000,2025-07-15
+2577,35,Minimarket Sejahtera,11500,2025-07-15
+2578,35,Warung Bu Tini,11500,2025-08-15
+2579,35,Toko Maju Jaya,11500,2025-08-15
+2580,35,Minimarket Sejahtera,11000,2025-08-15
+2581,35,Warung Bu Tini,11500,2025-09-15
+2582,35,Toko Maju Jaya,10500,2025-09-15
+2583,35,Minimarket Sejahtera,12000,2025-09-15
+2584,35,Warung Bu Tini,11000,2025-10-15
+2585,35,Toko Maju Jaya,12000,2025-10-15
+2586,35,Minimarket Sejahtera,12000,2025-10-15
+2587,35,Warung Bu Tini,12000,2025-11-15
+2588,35,Toko Maju Jaya,11000,2025-11-15
+2589,35,Minimarket Sejahtera,12000,2025-11-15
+2590,35,Warung Bu Tini,11000,2025-12-15
+2591,35,Toko Maju Jaya,11500,2025-12-15
+2592,35,Minimarket Sejahtera,11000,2025-12-15
+2593,35,Warung Bu Tini,11500,2026-01-15
+2594,35,Toko Maju Jaya,11500,2026-01-15
+2595,35,Minimarket Sejahtera,11000,2026-01-15
+2596,35,Warung Bu Tini,11500,2026-02-15
+2597,35,Toko Maju Jaya,12000,2026-02-15
+2598,35,Minimarket Sejahtera,12000,2026-02-15
+2599,35,Warung Bu Tini,11500,2026-03-15
+2600,35,Toko Maju Jaya,12500,2026-03-15
+2601,35,Minimarket Sejahtera,12000,2026-03-15
+2602,35,Warung Bu Tini,12000,2026-04-15
+2603,35,Toko Maju Jaya,11500,2026-04-15
+2604,35,Minimarket Sejahtera,12500,2026-04-15
+2605,35,Warung Bu Tini,11000,2026-05-15
+2606,35,Toko Maju Jaya,11000,2026-05-15
+2607,35,Minimarket Sejahtera,11500,2026-05-15
+2608,35,Warung Bu Tini,12000,2026-06-15
+2609,35,Toko Maju Jaya,11500,2026-06-15
+2610,35,Minimarket Sejahtera,11500,2026-06-15
+2611,35,Warung Bu Tini,12000,2026-07-15
+2612,35,Toko Maju Jaya,12000,2026-07-15
+2613,35,Minimarket Sejahtera,12500,2026-07-15
+2614,35,Warung Bu Tini,11500,2026-08-15
+2615,35,Toko Maju Jaya,11000,2026-08-15
+2616,35,Minimarket Sejahtera,12000,2026-08-15
+2617,35,Warung Bu Tini,12000,2026-09-15
+2618,35,Toko Maju Jaya,11000,2026-09-15
+2619,35,Minimarket Sejahtera,11000,2026-09-15
+2620,35,Warung Bu Tini,12500,2026-10-15
+2621,35,Toko Maju Jaya,11000,2026-10-15
+2622,35,Minimarket Sejahtera,12500,2026-10-15
+2623,35,Warung Bu Tini,12000,2026-11-05
+2624,35,Toko Maju Jaya,11000,2026-11-05
+2625,35,Minimarket Sejahtera,11500,2026-11-05
+2626,36,Warung Bu Tini,21000,2024-11-15
+2627,36,Toko Maju Jaya,23500,2024-11-15
+2628,36,Minimarket Sejahtera,22500,2024-11-15
+2629,36,Warung Bu Tini,22000,2024-12-15
+2630,36,Toko Maju Jaya,23000,2024-12-15
+2631,36,Minimarket Sejahtera,22000,2024-12-15
+2632,36,Warung Bu Tini,22500,2025-01-15
+2633,36,Toko Maju Jaya,22500,2025-01-15
+2634,36,Minimarket Sejahtera,22000,2025-01-15
+2635,36,Warung Bu Tini,23500,2025-02-15
+2636,36,Toko Maju Jaya,21000,2025-02-15
+2637,36,Minimarket Sejahtera,22000,2025-02-15
+2638,36,Warung Bu Tini,22500,2025-03-15
+2639,36,Toko Maju Jaya,22500,2025-03-15
+2640,36,Minimarket Sejahtera,22000,2025-03-15
+2641,36,Warung Bu Tini,25000,2025-04-15
+2642,36,Toko Maju Jaya,23000,2025-04-15
+2643,36,Minimarket Sejahtera,23000,2025-04-15
+2644,36,Warung Bu Tini,24500,2025-05-15
+2645,36,Toko Maju Jaya,24500,2025-05-15
+2646,36,Minimarket Sejahtera,22500,2025-05-15
+2647,36,Warung Bu Tini,22500,2025-06-15
+2648,36,Toko Maju Jaya,22500,2025-06-15
+2649,36,Minimarket Sejahtera,22500,2025-06-15
+2650,36,Warung Bu Tini,23000,2025-07-15
+2651,36,Toko Maju Jaya,23000,2025-07-15
+2652,36,Minimarket Sejahtera,24000,2025-07-15
+2653,36,Warung Bu Tini,24000,2025-08-15
+2654,36,Toko Maju Jaya,24000,2025-08-15
+2655,36,Minimarket Sejahtera,23500,2025-08-15
+2656,36,Warung Bu Tini,23000,2025-09-15
+2657,36,Toko Maju Jaya,23500,2025-09-15
+2658,36,Minimarket Sejahtera,23500,2025-09-15
+2659,36,Warung Bu Tini,22500,2025-10-15
+2660,36,Toko Maju Jaya,24000,2025-10-15
+2661,36,Minimarket Sejahtera,23500,2025-10-15
+2662,36,Warung Bu Tini,24500,2025-11-15
+2663,36,Toko Maju Jaya,25500,2025-11-15
+2664,36,Minimarket Sejahtera,23000,2025-11-15
+2665,36,Warung Bu Tini,24000,2025-12-15
+2666,36,Toko Maju Jaya,22500,2025-12-15
+2667,36,Minimarket Sejahtera,23000,2025-12-15
+2668,36,Warung Bu Tini,25000,2026-01-15
+2669,36,Toko Maju Jaya,23500,2026-01-15
+2670,36,Minimarket Sejahtera,22500,2026-01-15
+2671,36,Warung Bu Tini,25000,2026-02-15
+2672,36,Toko Maju Jaya,25500,2026-02-15
+2673,36,Minimarket Sejahtera,24000,2026-02-15
+2674,36,Warung Bu Tini,24500,2026-03-15
+2675,36,Toko Maju Jaya,23000,2026-03-15
+2676,36,Minimarket Sejahtera,23500,2026-03-15
+2677,36,Warung Bu Tini,25000,2026-04-15
+2678,36,Toko Maju Jaya,23500,2026-04-15
+2679,36,Minimarket Sejahtera,24500,2026-04-15
+2680,36,Warung Bu Tini,25500,2026-05-15
+2681,36,Toko Maju Jaya,26000,2026-05-15
+2682,36,Minimarket Sejahtera,24500,2026-05-15
+2683,36,Warung Bu Tini,24500,2026-06-15
+2684,36,Toko Maju Jaya,25000,2026-06-15
+2685,36,Minimarket Sejahtera,24000,2026-06-15
+2686,36,Warung Bu Tini,24500,2026-07-15
+2687,36,Toko Maju Jaya,24000,2026-07-15
+2688,36,Minimarket Sejahtera,26000,2026-07-15
+2689,36,Warung Bu Tini,25500,2026-08-15
+2690,36,Toko Maju Jaya,26000,2026-08-15
+2691,36,Minimarket Sejahtera,25000,2026-08-15
+2692,36,Warung Bu Tini,24500,2026-09-15
+2693,36,Toko Maju Jaya,26000,2026-09-15
+2694,36,Minimarket Sejahtera,25000,2026-09-15
+2695,36,Warung Bu Tini,26000,2026-10-15
+2696,36,Toko Maju Jaya,26000,2026-10-15
+2697,36,Minimarket Sejahtera,24000,2026-10-15
+2698,36,Warung Bu Tini,24000,2026-11-05
+2699,36,Toko Maju Jaya,24000,2026-11-05
+2700,36,Minimarket Sejahtera,24500,2026-11-05
+2701,37,Warung Bu Tini,4700,2024-11-15
+2702,37,Toko Maju Jaya,4200,2024-11-15
+2703,37,Minimarket Sejahtera,4400,2024-11-15
+2704,37,Warung Bu Tini,4500,2024-12-15
+2705,37,Toko Maju Jaya,4600,2024-12-15
+2706,37,Minimarket Sejahtera,4600,2024-12-15
+2707,37,Warung Bu Tini,4500,2025-01-15
+2708,37,Toko Maju Jaya,4400,2025-01-15
+2709,37,Minimarket Sejahtera,4600,2025-01-15
+2710,37,Warung Bu Tini,4600,2025-02-15
+2711,37,Toko Maju Jaya,4600,2025-02-15
+2712,37,Minimarket Sejahtera,4700,2025-02-15
+2713,37,Warung Bu Tini,4300,2025-03-15
+2714,37,Toko Maju Jaya,4500,2025-03-15
+2715,37,Minimarket Sejahtera,4700,2025-03-15
+2716,37,Warung Bu Tini,4600,2025-04-15
+2717,37,Toko Maju Jaya,4500,2025-04-15
+2718,37,Minimarket Sejahtera,4900,2025-04-15
+2719,37,Warung Bu Tini,5000,2025-05-15
+2720,37,Toko Maju Jaya,4500,2025-05-15
+2721,37,Minimarket Sejahtera,4400,2025-05-15
+2722,37,Warung Bu Tini,4900,2025-06-15
+2723,37,Toko Maju Jaya,4500,2025-06-15
+2724,37,Minimarket Sejahtera,4800,2025-06-15
+2725,37,Warung Bu Tini,4600,2025-07-15
+2726,37,Toko Maju Jaya,4800,2025-07-15
+2727,37,Minimarket Sejahtera,4800,2025-07-15
+2728,37,Warung Bu Tini,4600,2025-08-15
+2729,37,Toko Maju Jaya,4700,2025-08-15
+2730,37,Minimarket Sejahtera,4900,2025-08-15
+2731,37,Warung Bu Tini,4700,2025-09-15
+2732,37,Toko Maju Jaya,4400,2025-09-15
+2733,37,Minimarket Sejahtera,4500,2025-09-15
+2734,37,Warung Bu Tini,4700,2025-10-15
+2735,37,Toko Maju Jaya,5000,2025-10-15
+2736,37,Minimarket Sejahtera,4700,2025-10-15
+2737,37,Warung Bu Tini,4800,2025-11-15
+2738,37,Toko Maju Jaya,5000,2025-11-15
+2739,37,Minimarket Sejahtera,4500,2025-11-15
+2740,37,Warung Bu Tini,4500,2025-12-15
+2741,37,Toko Maju Jaya,4700,2025-12-15
+2742,37,Minimarket Sejahtera,4700,2025-12-15
+2743,37,Warung Bu Tini,4700,2026-01-15
+2744,37,Toko Maju Jaya,4700,2026-01-15
+2745,37,Minimarket Sejahtera,4600,2026-01-15
+2746,37,Warung Bu Tini,4800,2026-02-15
+2747,37,Toko Maju Jaya,5000,2026-02-15
+2748,37,Minimarket Sejahtera,4700,2026-02-15
+2749,37,Warung Bu Tini,4700,2026-03-15
+2750,37,Toko Maju Jaya,4600,2026-03-15
+2751,37,Minimarket Sejahtera,4500,2026-03-15
+2752,37,Warung Bu Tini,4900,2026-04-15
+2753,37,Toko Maju Jaya,5000,2026-04-15
+2754,37,Minimarket Sejahtera,5100,2026-04-15
+2755,37,Warung Bu Tini,5300,2026-05-15
+2756,37,Toko Maju Jaya,5100,2026-05-15
+2757,37,Minimarket Sejahtera,5300,2026-05-15
+2758,37,Warung Bu Tini,4900,2026-06-15
+2759,37,Toko Maju Jaya,5100,2026-06-15
+2760,37,Minimarket Sejahtera,5000,2026-06-15
+2761,37,Warung Bu Tini,4900,2026-07-15
+2762,37,Toko Maju Jaya,4800,2026-07-15
+2763,37,Minimarket Sejahtera,5100,2026-07-15
+2764,37,Warung Bu Tini,5200,2026-08-15
+2765,37,Toko Maju Jaya,5000,2026-08-15
+2766,37,Minimarket Sejahtera,5100,2026-08-15
+2767,37,Warung Bu Tini,4900,2026-09-15
+2768,37,Toko Maju Jaya,5300,2026-09-15
+2769,37,Minimarket Sejahtera,5100,2026-09-15
+2770,37,Warung Bu Tini,5400,2026-10-15
+2771,37,Toko Maju Jaya,5300,2026-10-15
+2772,37,Minimarket Sejahtera,5000,2026-10-15
+2773,37,Warung Bu Tini,5200,2026-11-05
+2774,37,Toko Maju Jaya,5000,2026-11-05
+2775,37,Minimarket Sejahtera,5300,2026-11-05
+2776,38,Warung Bu Tini,10000,2024-11-15
+2777,38,Toko Maju Jaya,9500,2024-11-15
+2778,38,Minimarket Sejahtera,9900,2024-11-15
+2779,38,Warung Bu Tini,9800,2024-12-15
+2780,38,Toko Maju Jaya,10500,2024-12-15
+2781,38,Minimarket Sejahtera,10500,2024-12-15
+2782,38,Warung Bu Tini,9800,2025-01-15
+2783,38,Toko Maju Jaya,10500,2025-01-15
+2784,38,Minimarket Sejahtera,10500,2025-01-15
+2785,38,Warung Bu Tini,10000,2025-02-15
+2786,38,Toko Maju Jaya,10500,2025-02-15
+2787,38,Minimarket Sejahtera,9900,2025-02-15
+2788,38,Warung Bu Tini,9600,2025-03-15
+2789,38,Toko Maju Jaya,10500,2025-03-15
+2790,38,Minimarket Sejahtera,9500,2025-03-15
+2791,38,Warung Bu Tini,11000,2025-04-15
+2792,38,Toko Maju Jaya,10000,2025-04-15
+2793,38,Minimarket Sejahtera,10000,2025-04-15
+2794,38,Warung Bu Tini,10500,2025-05-15
+2795,38,Toko Maju Jaya,11000,2025-05-15
+2796,38,Minimarket Sejahtera,10500,2025-05-15
+2797,38,Warung Bu Tini,11000,2025-06-15
+2798,38,Toko Maju Jaya,10000,2025-06-15
+2799,38,Minimarket Sejahtera,10500,2025-06-15
+2800,38,Warung Bu Tini,11000,2025-07-15
+2801,38,Toko Maju Jaya,10500,2025-07-15
+2802,38,Minimarket Sejahtera,10500,2025-07-15
+2803,38,Warung Bu Tini,10500,2025-08-15
+2804,38,Toko Maju Jaya,11000,2025-08-15
+2805,38,Minimarket Sejahtera,11000,2025-08-15
+2806,38,Warung Bu Tini,11000,2025-09-15
+2807,38,Toko Maju Jaya,11000,2025-09-15
+2808,38,Minimarket Sejahtera,11000,2025-09-15
+2809,38,Warung Bu Tini,11500,2025-10-15
+2810,38,Toko Maju Jaya,11500,2025-10-15
+2811,38,Minimarket Sejahtera,11500,2025-10-15
+2812,38,Warung Bu Tini,10500,2025-11-15
+2813,38,Toko Maju Jaya,11500,2025-11-15
+2814,38,Minimarket Sejahtera,11500,2025-11-15
+2815,38,Warung Bu Tini,11500,2025-12-15
+2816,38,Toko Maju Jaya,11500,2025-12-15
+2817,38,Minimarket Sejahtera,11500,2025-12-15
+2818,38,Warung Bu Tini,11000,2026-01-15
+2819,38,Toko Maju Jaya,11500,2026-01-15
+2820,38,Minimarket Sejahtera,11500,2026-01-15
+2821,38,Warung Bu Tini,11000,2026-02-15
+2822,38,Toko Maju Jaya,11500,2026-02-15
+2823,38,Minimarket Sejahtera,11000,2026-02-15
+2824,38,Warung Bu Tini,11000,2026-03-15
+2825,38,Toko Maju Jaya,11500,2026-03-15
+2826,38,Minimarket Sejahtera,11500,2026-03-15
+2827,38,Warung Bu Tini,10500,2026-04-15
+2828,38,Toko Maju Jaya,12000,2026-04-15
+2829,38,Minimarket Sejahtera,11500,2026-04-15
+2830,38,Warung Bu Tini,10500,2026-05-15
+2831,38,Toko Maju Jaya,11000,2026-05-15
+2832,38,Minimarket Sejahtera,11000,2026-05-15
+2833,38,Warung Bu Tini,11500,2026-06-15
+2834,38,Toko Maju Jaya,11500,2026-06-15
+2835,38,Minimarket Sejahtera,12000,2026-06-15
+2836,38,Warung Bu Tini,11000,2026-07-15
+2837,38,Toko Maju Jaya,11000,2026-07-15
+2838,38,Minimarket Sejahtera,11500,2026-07-15
+2839,38,Warung Bu Tini,10500,2026-08-15
+2840,38,Toko Maju Jaya,12000,2026-08-15
+2841,38,Minimarket Sejahtera,11000,2026-08-15
+2842,38,Warung Bu Tini,11500,2026-09-15
+2843,38,Toko Maju Jaya,11000,2026-09-15
+2844,38,Minimarket Sejahtera,11000,2026-09-15
+2845,38,Warung Bu Tini,11500,2026-10-15
+2846,38,Toko Maju Jaya,11500,2026-10-15
+2847,38,Minimarket Sejahtera,11500,2026-10-15
+2848,38,Warung Bu Tini,11500,2026-11-05
+2849,38,Toko Maju Jaya,10500,2026-11-05
+2850,38,Minimarket Sejahtera,11000,2026-11-05
+2851,39,Warung Bu Tini,14000,2024-11-15
+2852,39,Toko Maju Jaya,14500,2024-11-15
+2853,39,Minimarket Sejahtera,13500,2024-11-15
+2854,39,Warung Bu Tini,14500,2024-12-15
+2855,39,Toko Maju Jaya,14000,2024-12-15
+2856,39,Minimarket Sejahtera,14500,2024-12-15
+2857,39,Warung Bu Tini,14000,2025-01-15
+2858,39,Toko Maju Jaya,14500,2025-01-15
+2859,39,Minimarket Sejahtera,15000,2025-01-15
+2860,39,Warung Bu Tini,14000,2025-02-15
+2861,39,Toko Maju Jaya,14500,2025-02-15
+2862,39,Minimarket Sejahtera,13500,2025-02-15
+2863,39,Warung Bu Tini,14000,2025-03-15
+2864,39,Toko Maju Jaya,14500,2025-03-15
+2865,39,Minimarket Sejahtera,14000,2025-03-15
+2866,39,Warung Bu Tini,14000,2025-04-15
+2867,39,Toko Maju Jaya,15000,2025-04-15
+2868,39,Minimarket Sejahtera,15000,2025-04-15
+2869,39,Warung Bu Tini,14000,2025-05-15
+2870,39,Toko Maju Jaya,14500,2025-05-15
+2871,39,Minimarket Sejahtera,14500,2025-05-15
+2872,39,Warung Bu Tini,14500,2025-06-15
+2873,39,Toko Maju Jaya,14500,2025-06-15
+2874,39,Minimarket Sejahtera,15000,2025-06-15
+2875,39,Warung Bu Tini,15500,2025-07-15
+2876,39,Toko Maju Jaya,14000,2025-07-15
+2877,39,Minimarket Sejahtera,14500,2025-07-15
+2878,39,Warung Bu Tini,14000,2025-08-15
+2879,39,Toko Maju Jaya,15000,2025-08-15
+2880,39,Minimarket Sejahtera,14500,2025-08-15
+2881,39,Warung Bu Tini,14500,2025-09-15
+2882,39,Toko Maju Jaya,15000,2025-09-15
+2883,39,Minimarket Sejahtera,15500,2025-09-15
+2884,39,Warung Bu Tini,14500,2025-10-15
+2885,39,Toko Maju Jaya,16000,2025-10-15
+2886,39,Minimarket Sejahtera,15500,2025-10-15
+2887,39,Warung Bu Tini,15500,2025-11-15
+2888,39,Toko Maju Jaya,16000,2025-11-15
+2889,39,Minimarket Sejahtera,15500,2025-11-15
+2890,39,Warung Bu Tini,14500,2025-12-15
+2891,39,Toko Maju Jaya,15500,2025-12-15
+2892,39,Minimarket Sejahtera,16000,2025-12-15
+2893,39,Warung Bu Tini,15500,2026-01-15
+2894,39,Toko Maju Jaya,15000,2026-01-15
+2895,39,Minimarket Sejahtera,15500,2026-01-15
+2896,39,Warung Bu Tini,15500,2026-02-15
+2897,39,Toko Maju Jaya,15500,2026-02-15
+2898,39,Minimarket Sejahtera,16000,2026-02-15
+2899,39,Warung Bu Tini,16000,2026-03-15
+2900,39,Toko Maju Jaya,15500,2026-03-15
+2901,39,Minimarket Sejahtera,14500,2026-03-15
+2902,39,Warung Bu Tini,15000,2026-04-15
+2903,39,Toko Maju Jaya,16500,2026-04-15
+2904,39,Minimarket Sejahtera,16000,2026-04-15
+2905,39,Warung Bu Tini,16500,2026-05-15
+2906,39,Toko Maju Jaya,15000,2026-05-15
+2907,39,Minimarket Sejahtera,15000,2026-05-15
+2908,39,Warung Bu Tini,15500,2026-06-15
+2909,39,Toko Maju Jaya,15500,2026-06-15
+2910,39,Minimarket Sejahtera,16500,2026-06-15
+2911,39,Warung Bu Tini,16000,2026-07-15
+2912,39,Toko Maju Jaya,16000,2026-07-15
+2913,39,Minimarket Sejahtera,16000,2026-07-15
+2914,39,Warung Bu Tini,15000,2026-08-15
+2915,39,Toko Maju Jaya,16000,2026-08-15
+2916,39,Minimarket Sejahtera,15000,2026-08-15
+2917,39,Warung Bu Tini,16500,2026-09-15
+2918,39,Toko Maju Jaya,14500,2026-09-15
+2919,39,Minimarket Sejahtera,15000,2026-09-15
+2920,39,Warung Bu Tini,16000,2026-10-15
+2921,39,Toko Maju Jaya,16500,2026-10-15
+2922,39,Minimarket Sejahtera,16500,2026-10-15
+2923,39,Warung Bu Tini,16500,2026-11-05
+2924,39,Toko Maju Jaya,15500,2026-11-05
+2925,39,Minimarket Sejahtera,16000,2026-11-05
+2926,40,Warung Bu Tini,4800,2024-11-15
+2927,40,Toko Maju Jaya,4900,2024-11-15
+2928,40,Minimarket Sejahtera,4500,2024-11-15
+2929,40,Warung Bu Tini,4800,2024-12-15
+2930,40,Toko Maju Jaya,4600,2024-12-15
+2931,40,Minimarket Sejahtera,5000,2024-12-15
+2932,40,Warung Bu Tini,4500,2025-01-15
+2933,40,Toko Maju Jaya,4700,2025-01-15
+2934,40,Minimarket Sejahtera,4500,2025-01-15
+2935,40,Warung Bu Tini,5000,2025-02-15
+2936,40,Toko Maju Jaya,4900,2025-02-15
+2937,40,Minimarket Sejahtera,4700,2025-02-15
+2938,40,Warung Bu Tini,5000,2025-03-15
+2939,40,Toko Maju Jaya,4500,2025-03-15
+2940,40,Minimarket Sejahtera,4900,2025-03-15
+2941,40,Warung Bu Tini,4700,2025-04-15
+2942,40,Toko Maju Jaya,5000,2025-04-15
+2943,40,Minimarket Sejahtera,4800,2025-04-15
+2944,40,Warung Bu Tini,5300,2025-05-15
+2945,40,Toko Maju Jaya,5200,2025-05-15
+2946,40,Minimarket Sejahtera,5200,2025-05-15
+2947,40,Warung Bu Tini,5200,2025-06-15
+2948,40,Toko Maju Jaya,5300,2025-06-15
+2949,40,Minimarket Sejahtera,5200,2025-06-15
+2950,40,Warung Bu Tini,4900,2025-07-15
+2951,40,Toko Maju Jaya,5000,2025-07-15
+2952,40,Minimarket Sejahtera,5000,2025-07-15
+2953,40,Warung Bu Tini,5300,2025-08-15
+2954,40,Toko Maju Jaya,5000,2025-08-15
+2955,40,Minimarket Sejahtera,4800,2025-08-15
+2956,40,Warung Bu Tini,5100,2025-09-15
+2957,40,Toko Maju Jaya,4900,2025-09-15
+2958,40,Minimarket Sejahtera,4700,2025-09-15
+2959,40,Warung Bu Tini,5000,2025-10-15
+2960,40,Toko Maju Jaya,5100,2025-10-15
+2961,40,Minimarket Sejahtera,5300,2025-10-15
+2962,40,Warung Bu Tini,5200,2025-11-15
+2963,40,Toko Maju Jaya,5000,2025-11-15
+2964,40,Minimarket Sejahtera,5100,2025-11-15
+2965,40,Warung Bu Tini,5200,2025-12-15
+2966,40,Toko Maju Jaya,5000,2025-12-15
+2967,40,Minimarket Sejahtera,5000,2025-12-15
+2968,40,Warung Bu Tini,4700,2026-01-15
+2969,40,Toko Maju Jaya,4700,2026-01-15
+2970,40,Minimarket Sejahtera,4700,2026-01-15
+2971,40,Warung Bu Tini,5000,2026-02-15
+2972,40,Toko Maju Jaya,5000,2026-02-15
+2973,40,Minimarket Sejahtera,4800,2026-02-15
+2974,40,Warung Bu Tini,4900,2026-03-15
+2975,40,Toko Maju Jaya,4700,2026-03-15
+2976,40,Minimarket Sejahtera,4900,2026-03-15
+2977,40,Warung Bu Tini,5300,2026-04-15
+2978,40,Toko Maju Jaya,5000,2026-04-15
+2979,40,Minimarket Sejahtera,4900,2026-04-15
+2980,40,Warung Bu Tini,5000,2026-05-15
+2981,40,Toko Maju Jaya,5000,2026-05-15
+2982,40,Minimarket Sejahtera,5100,2026-05-15
+2983,40,Warung Bu Tini,5300,2026-06-15
+2984,40,Toko Maju Jaya,4900,2026-06-15
+2985,40,Minimarket Sejahtera,5500,2026-06-15
+2986,40,Warung Bu Tini,5000,2026-07-15
+2987,40,Toko Maju Jaya,5100,2026-07-15
+2988,40,Minimarket Sejahtera,5300,2026-07-15
+2989,40,Warung Bu Tini,5500,2026-08-15
+2990,40,Toko Maju Jaya,5000,2026-08-15
+2991,40,Minimarket Sejahtera,5000,2026-08-15
+2992,40,Warung Bu Tini,5300,2026-09-15
+2993,40,Toko Maju Jaya,5100,2026-09-15
+2994,40,Minimarket Sejahtera,5100,2026-09-15
+2995,40,Warung Bu Tini,5400,2026-10-15
+2996,40,Toko Maju Jaya,5000,2026-10-15
+2997,40,Minimarket Sejahtera,5500,2026-10-15
+2998,40,Warung Bu Tini,5300,2026-11-05
+2999,40,Toko Maju Jaya,5300,2026-11-05
+3000,40,Minimarket Sejahtera,5500,2026-11-05
+3001,41,Warung Bu Tini,2800,2024-11-15
+3002,41,Toko Maju Jaya,2800,2024-11-15
+3003,41,Minimarket Sejahtera,2900,2024-11-15
+3004,41,Warung Bu Tini,2600,2024-12-15
+3005,41,Toko Maju Jaya,2700,2024-12-15
+3006,41,Minimarket Sejahtera,2600,2024-12-15
+3007,41,Warung Bu Tini,2800,2025-01-15
+3008,41,Toko Maju Jaya,2600,2025-01-15
+3009,41,Minimarket Sejahtera,2800,2025-01-15
+3010,41,Warung Bu Tini,2900,2025-02-15
+3011,41,Toko Maju Jaya,2600,2025-02-15
+3012,41,Minimarket Sejahtera,2800,2025-02-15
+3013,41,Warung Bu Tini,2600,2025-03-15
+3014,41,Toko Maju Jaya,2800,2025-03-15
+3015,41,Minimarket Sejahtera,2900,2025-03-15
+3016,41,Warung Bu Tini,2800,2025-04-15
+3017,41,Toko Maju Jaya,2900,2025-04-15
+3018,41,Minimarket Sejahtera,2800,2025-04-15
+3019,41,Warung Bu Tini,2900,2025-05-15
+3020,41,Toko Maju Jaya,2700,2025-05-15
+3021,41,Minimarket Sejahtera,2800,2025-05-15
+3022,41,Warung Bu Tini,2800,2025-06-15
+3023,41,Toko Maju Jaya,2700,2025-06-15
+3024,41,Minimarket Sejahtera,2700,2025-06-15
+3025,41,Warung Bu Tini,2700,2025-07-15
+3026,41,Toko Maju Jaya,2900,2025-07-15
+3027,41,Minimarket Sejahtera,2600,2025-07-15
+3028,41,Warung Bu Tini,2800,2025-08-15
+3029,41,Toko Maju Jaya,2800,2025-08-15
+3030,41,Minimarket Sejahtera,2800,2025-08-15
+3031,41,Warung Bu Tini,2900,2025-09-15
+3032,41,Toko Maju Jaya,2800,2025-09-15
+3033,41,Minimarket Sejahtera,2700,2025-09-15
+3034,41,Warung Bu Tini,2800,2025-10-15
+3035,41,Toko Maju Jaya,2700,2025-10-15
+3036,41,Minimarket Sejahtera,2700,2025-10-15
+3037,41,Warung Bu Tini,2700,2025-11-15
+3038,41,Toko Maju Jaya,2800,2025-11-15
+3039,41,Minimarket Sejahtera,2900,2025-11-15
+3040,41,Warung Bu Tini,2800,2025-12-15
+3041,41,Toko Maju Jaya,2900,2025-12-15
+3042,41,Minimarket Sejahtera,3000,2025-12-15
+3043,41,Warung Bu Tini,3000,2026-01-15
+3044,41,Toko Maju Jaya,2700,2026-01-15
+3045,41,Minimarket Sejahtera,2900,2026-01-15
+3046,41,Warung Bu Tini,2800,2026-02-15
+3047,41,Toko Maju Jaya,2900,2026-02-15
+3048,41,Minimarket Sejahtera,2700,2026-02-15
+3049,41,Warung Bu Tini,3000,2026-03-15
+3050,41,Toko Maju Jaya,2700,2026-03-15
+3051,41,Minimarket Sejahtera,3000,2026-03-15
+3052,41,Warung Bu Tini,2900,2026-04-15
+3053,41,Toko Maju Jaya,2900,2026-04-15
+3054,41,Minimarket Sejahtera,2900,2026-04-15
+3055,41,Warung Bu Tini,3000,2026-05-15
+3056,41,Toko Maju Jaya,2900,2026-05-15
+3057,41,Minimarket Sejahtera,3200,2026-05-15
+3058,41,Warung Bu Tini,2900,2026-06-15
+3059,41,Toko Maju Jaya,2900,2026-06-15
+3060,41,Minimarket Sejahtera,2900,2026-06-15
+3061,41,Warung Bu Tini,3200,2026-07-15
+3062,41,Toko Maju Jaya,3100,2026-07-15
+3063,41,Minimarket Sejahtera,3000,2026-07-15
+3064,41,Warung Bu Tini,3200,2026-08-15
+3065,41,Toko Maju Jaya,3200,2026-08-15
+3066,41,Minimarket Sejahtera,2900,2026-08-15
+3067,41,Warung Bu Tini,3000,2026-09-15
+3068,41,Toko Maju Jaya,3100,2026-09-15
+3069,41,Minimarket Sejahtera,3000,2026-09-15
+3070,41,Warung Bu Tini,3000,2026-10-15
+3071,41,Toko Maju Jaya,3000,2026-10-15
+3072,41,Minimarket Sejahtera,3100,2026-10-15
+3073,41,Warung Bu Tini,3100,2026-11-05
+3074,41,Toko Maju Jaya,3200,2026-11-05
+3075,41,Minimarket Sejahtera,3000,2026-11-05
+3076,42,Warung Bu Tini,2300,2024-11-15
+3077,42,Toko Maju Jaya,2300,2024-11-15
+3078,42,Minimarket Sejahtera,2600,2024-11-15
+3079,42,Warung Bu Tini,2400,2024-12-15
+3080,42,Toko Maju Jaya,2300,2024-12-15
+3081,42,Minimarket Sejahtera,2400,2024-12-15
+3082,42,Warung Bu Tini,2400,2025-01-15
+3083,42,Toko Maju Jaya,2500,2025-01-15
+3084,42,Minimarket Sejahtera,2500,2025-01-15
+3085,42,Warung Bu Tini,2400,2025-02-15
+3086,42,Toko Maju Jaya,2400,2025-02-15
+3087,42,Minimarket Sejahtera,2500,2025-02-15
+3088,42,Warung Bu Tini,2400,2025-03-15
+3089,42,Toko Maju Jaya,2500,2025-03-15
+3090,42,Minimarket Sejahtera,2500,2025-03-15
+3091,42,Warung Bu Tini,2700,2025-04-15
+3092,42,Toko Maju Jaya,2600,2025-04-15
+3093,42,Minimarket Sejahtera,2600,2025-04-15
+3094,42,Warung Bu Tini,2600,2025-05-15
+3095,42,Toko Maju Jaya,2600,2025-05-15
+3096,42,Minimarket Sejahtera,2500,2025-05-15
+3097,42,Warung Bu Tini,2700,2025-06-15
+3098,42,Toko Maju Jaya,2700,2025-06-15
+3099,42,Minimarket Sejahtera,2800,2025-06-15
+3100,42,Warung Bu Tini,2500,2025-07-15
+3101,42,Toko Maju Jaya,2500,2025-07-15
+3102,42,Minimarket Sejahtera,2800,2025-07-15
+3103,42,Warung Bu Tini,2700,2025-08-15
+3104,42,Toko Maju Jaya,2500,2025-08-15
+3105,42,Minimarket Sejahtera,2800,2025-08-15
+3106,42,Warung Bu Tini,2600,2025-09-15
+3107,42,Toko Maju Jaya,2700,2025-09-15
+3108,42,Minimarket Sejahtera,2500,2025-09-15
+3109,42,Warung Bu Tini,2800,2025-10-15
+3110,42,Toko Maju Jaya,2700,2025-10-15
+3111,42,Minimarket Sejahtera,2600,2025-10-15
+3112,42,Warung Bu Tini,2600,2025-11-15
+3113,42,Toko Maju Jaya,2800,2025-11-15
+3114,42,Minimarket Sejahtera,2600,2025-11-15
+3115,42,Warung Bu Tini,2500,2025-12-15
+3116,42,Toko Maju Jaya,2500,2025-12-15
+3117,42,Minimarket Sejahtera,2600,2025-12-15
+3118,42,Warung Bu Tini,2600,2026-01-15
+3119,42,Toko Maju Jaya,2500,2026-01-15
+3120,42,Minimarket Sejahtera,2600,2026-01-15
+3121,42,Warung Bu Tini,2500,2026-02-15
+3122,42,Toko Maju Jaya,2600,2026-02-15
+3123,42,Minimarket Sejahtera,2800,2026-02-15
+3124,42,Warung Bu Tini,2700,2026-03-15
+3125,42,Toko Maju Jaya,2500,2026-03-15
+3126,42,Minimarket Sejahtera,2600,2026-03-15
+3127,42,Warung Bu Tini,2800,2026-04-15
+3128,42,Toko Maju Jaya,2800,2026-04-15
+3129,42,Minimarket Sejahtera,2800,2026-04-15
+3130,42,Warung Bu Tini,3000,2026-05-15
+3131,42,Toko Maju Jaya,2700,2026-05-15
+3132,42,Minimarket Sejahtera,3000,2026-05-15
+3133,42,Warung Bu Tini,2800,2026-06-15
+3134,42,Toko Maju Jaya,2700,2026-06-15
+3135,42,Minimarket Sejahtera,2900,2026-06-15
+3136,42,Warung Bu Tini,2700,2026-07-15
+3137,42,Toko Maju Jaya,2800,2026-07-15
+3138,42,Minimarket Sejahtera,2900,2026-07-15
+3139,42,Warung Bu Tini,2700,2026-08-15
+3140,42,Toko Maju Jaya,3000,2026-08-15
+3141,42,Minimarket Sejahtera,3000,2026-08-15
+3142,42,Warung Bu Tini,2800,2026-09-15
+3143,42,Toko Maju Jaya,2800,2026-09-15
+3144,42,Minimarket Sejahtera,3000,2026-09-15
+3145,42,Warung Bu Tini,2800,2026-10-15
+3146,42,Toko Maju Jaya,3000,2026-10-15
+3147,42,Minimarket Sejahtera,2800,2026-10-15
+3148,42,Warung Bu Tini,2700,2026-11-05
+3149,42,Toko Maju Jaya,2700,2026-11-05
+3150,42,Minimarket Sejahtera,2900,2026-11-05
+3151,43,Warung Bu Tini,2400,2024-11-15
+3152,43,Toko Maju Jaya,2200,2024-11-15
+3153,43,Minimarket Sejahtera,2400,2024-11-15
+3154,43,Warung Bu Tini,2400,2024-12-15
+3155,43,Toko Maju Jaya,2300,2024-12-15
+3156,43,Minimarket Sejahtera,2400,2024-12-15
+3157,43,Warung Bu Tini,2500,2025-01-15
+3158,43,Toko Maju Jaya,2300,2025-01-15
+3159,43,Minimarket Sejahtera,2300,2025-01-15
+3160,43,Warung Bu Tini,2400,2025-02-15
+3161,43,Toko Maju Jaya,2300,2025-02-15
+3162,43,Minimarket Sejahtera,2400,2025-02-15
+3163,43,Warung Bu Tini,2200,2025-03-15
+3164,43,Toko Maju Jaya,2500,2025-03-15
+3165,43,Minimarket Sejahtera,2200,2025-03-15
+3166,43,Warung Bu Tini,2400,2025-04-15
+3167,43,Toko Maju Jaya,2300,2025-04-15
+3168,43,Minimarket Sejahtera,2300,2025-04-15
+3169,43,Warung Bu Tini,2600,2025-05-15
+3170,43,Toko Maju Jaya,2300,2025-05-15
+3171,43,Minimarket Sejahtera,2400,2025-05-15
+3172,43,Warung Bu Tini,2400,2025-06-15
+3173,43,Toko Maju Jaya,2400,2025-06-15
+3174,43,Minimarket Sejahtera,2500,2025-06-15
+3175,43,Warung Bu Tini,2500,2025-07-15
+3176,43,Toko Maju Jaya,2300,2025-07-15
+3177,43,Minimarket Sejahtera,2300,2025-07-15
+3178,43,Warung Bu Tini,2500,2025-08-15
+3179,43,Toko Maju Jaya,2400,2025-08-15
+3180,43,Minimarket Sejahtera,2300,2025-08-15
+3181,43,Warung Bu Tini,2400,2025-09-15
+3182,43,Toko Maju Jaya,2300,2025-09-15
+3183,43,Minimarket Sejahtera,2600,2025-09-15
+3184,43,Warung Bu Tini,2400,2025-10-15
+3185,43,Toko Maju Jaya,2700,2025-10-15
+3186,43,Minimarket Sejahtera,2500,2025-10-15
+3187,43,Warung Bu Tini,2400,2025-11-15
+3188,43,Toko Maju Jaya,2600,2025-11-15
+3189,43,Minimarket Sejahtera,2600,2025-11-15
+3190,43,Warung Bu Tini,2700,2025-12-15
+3191,43,Toko Maju Jaya,2500,2025-12-15
+3192,43,Minimarket Sejahtera,2500,2025-12-15
+3193,43,Warung Bu Tini,2600,2026-01-15
+3194,43,Toko Maju Jaya,2500,2026-01-15
+3195,43,Minimarket Sejahtera,2600,2026-01-15
+3196,43,Warung Bu Tini,2500,2026-02-15
+3197,43,Toko Maju Jaya,2500,2026-02-15
+3198,43,Minimarket Sejahtera,2500,2026-02-15
+3199,43,Warung Bu Tini,2700,2026-03-15
+3200,43,Toko Maju Jaya,2400,2026-03-15
+3201,43,Minimarket Sejahtera,2700,2026-03-15
+3202,43,Warung Bu Tini,2400,2026-04-15
+3203,43,Toko Maju Jaya,2400,2026-04-15
+3204,43,Minimarket Sejahtera,2600,2026-04-15
+3205,43,Warung Bu Tini,2500,2026-05-15
+3206,43,Toko Maju Jaya,2400,2026-05-15
+3207,43,Minimarket Sejahtera,2500,2026-05-15
+3208,43,Warung Bu Tini,2500,2026-06-15
+3209,43,Toko Maju Jaya,2500,2026-06-15
+3210,43,Minimarket Sejahtera,2700,2026-06-15
+3211,43,Warung Bu Tini,2500,2026-07-15
+3212,43,Toko Maju Jaya,2400,2026-07-15
+3213,43,Minimarket Sejahtera,2500,2026-07-15
+3214,43,Warung Bu Tini,2500,2026-08-15
+3215,43,Toko Maju Jaya,2400,2026-08-15
+3216,43,Minimarket Sejahtera,2500,2026-08-15
+3217,43,Warung Bu Tini,2600,2026-09-15
+3218,43,Toko Maju Jaya,2700,2026-09-15
+3219,43,Minimarket Sejahtera,2500,2026-09-15
+3220,43,Warung Bu Tini,2500,2026-10-15
+3221,43,Toko Maju Jaya,2500,2026-10-15
+3222,43,Minimarket Sejahtera,2600,2026-10-15
+3223,43,Warung Bu Tini,2800,2026-11-05
+3224,43,Toko Maju Jaya,2500,2026-11-05
+3225,43,Minimarket Sejahtera,2600,2026-11-05

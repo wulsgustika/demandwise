@@ -1,0 +1,179 @@
+id,tanggal,kategori_biaya,jumlah,keterangan
+1,2024-11-10,Kemasan dan Plastik,453000,Kantong plastik dan kemasan
+2,2024-11-15,Transportasi,1490000,Bensin dan ongkos kirim
+3,2024-11-20,Listrik,1290000,Tagihan listrik
+4,2024-11-20,Air,205000,Tagihan air
+5,2024-11-22,Lain-lain,384000,Perawatan dan kebutuhan kecil
+6,2024-11-28,Gaji Karyawan,6000000,Gaji 2 karyawan
+7,2024-12-01,Sewa Toko,3500000,Sewa bulanan
+8,2024-12-05,Internet dan Pulsa,300000,Paket internet toko
+9,2024-12-10,Kemasan dan Plastik,422000,Kantong plastik dan kemasan
+10,2024-12-15,Transportasi,1757000,Bensin dan ongkos kirim
+11,2024-12-20,Listrik,1310000,Tagihan listrik
+12,2024-12-20,Air,260000,Tagihan air
+13,2024-12-22,Lain-lain,265000,Perawatan dan kebutuhan kecil
+14,2024-12-28,Gaji Karyawan,6000000,Gaji 2 karyawan
+15,2025-01-01,Sewa Toko,3500000,Sewa bulanan
+16,2025-01-05,Internet dan Pulsa,300000,Paket internet toko
+17,2025-01-10,Kemasan dan Plastik,537000,Kantong plastik dan kemasan
+18,2025-01-15,Transportasi,1395000,Bensin dan ongkos kirim
+19,2025-01-20,Listrik,1133000,Tagihan listrik
+20,2025-01-20,Air,225000,Tagihan air
+21,2025-01-28,Gaji Karyawan,6000000,Gaji 2 karyawan
+22,2025-02-01,Sewa Toko,3500000,Sewa bulanan
+23,2025-02-05,Internet dan Pulsa,300000,Paket internet toko
+24,2025-02-10,Kemasan dan Plastik,446000,Kantong plastik dan kemasan
+25,2025-02-15,Transportasi,1533000,Bensin dan ongkos kirim
+26,2025-02-20,Listrik,1327000,Tagihan listrik
+27,2025-02-20,Air,236000,Tagihan air
+28,2025-02-28,Gaji Karyawan,6000000,Gaji 2 karyawan
+29,2025-03-01,Sewa Toko,3500000,Sewa bulanan
+30,2025-03-05,Internet dan Pulsa,300000,Paket internet toko
+31,2025-03-10,Kemasan dan Plastik,488000,Kantong plastik dan kemasan
+32,2025-03-15,Transportasi,1697000,Bensin dan ongkos kirim
+33,2025-03-20,Listrik,1458000,Tagihan listrik
+34,2025-03-20,Air,239000,Tagihan air
+35,2025-03-24,Gaji Karyawan,6000000,THR karyawan
+36,2025-03-28,Gaji Karyawan,6000000,Gaji 2 karyawan
+37,2025-04-01,Sewa Toko,3500000,Sewa bulanan
+38,2025-04-05,Internet dan Pulsa,300000,Paket internet toko
+39,2025-04-10,Kemasan dan Plastik,475000,Kantong plastik dan kemasan
+40,2025-04-15,Transportasi,1270000,Bensin dan ongkos kirim
+41,2025-04-20,Listrik,1178000,Tagihan listrik
+42,2025-04-20,Air,240000,Tagihan air
+43,2025-04-28,Gaji Karyawan,6000000,Gaji 2 karyawan
+44,2025-05-01,Sewa Toko,3500000,Sewa bulanan
+45,2025-05-05,Internet dan Pulsa,300000,Paket internet toko
+46,2025-05-10,Kemasan dan Plastik,462000,Kantong plastik dan kemasan
+47,2025-05-15,Transportasi,1329000,Bensin dan ongkos kirim
+48,2025-05-20,Listrik,1268000,Tagihan listrik
+49,2025-05-20,Air,217000,Tagihan air
+50,2025-05-28,Gaji Karyawan,6000000,Gaji 2 karyawan
+51,2025-06-01,Sewa Toko,3500000,Sewa bulanan
+52,2025-06-05,Internet dan Pulsa,300000,Paket internet toko
+53,2025-06-10,Kemasan dan Plastik,553000,Kantong plastik dan kemasan
+54,2025-06-15,Transportasi,1426000,Bensin dan ongkos kirim
+55,2025-06-20,Listrik,1201000,Tagihan listrik
+56,2025-06-20,Air,243000,Tagihan air
+57,2025-06-28,Gaji Karyawan,6000000,Gaji 2 karyawan
+58,2025-07-01,Sewa Toko,3500000,Sewa bulanan
+59,2025-07-05,Internet dan Pulsa,300000,Paket internet toko
+60,2025-07-10,Kemasan dan Plastik,428000,Kantong plastik dan kemasan
+61,2025-07-15,Transportasi,1689000,Bensin dan ongkos kirim
+62,2025-07-20,Listrik,1460000,Tagihan listrik
+63,2025-07-20,Air,250000,Tagihan air
+64,2025-07-28,Gaji Karyawan,6000000,Gaji 2 karyawan
+65,2025-08-01,Sewa Toko,3500000,Sewa bulanan
+66,2025-08-05,Internet dan Pulsa,300000,Paket internet toko
+67,2025-08-10,Kemasan dan Plastik,459000,Kantong plastik dan kemasan
+68,2025-08-15,Transportasi,1414000,Bensin dan ongkos kirim
+69,2025-08-20,Listrik,1236000,Tagihan listrik
+70,2025-08-20,Air,250000,Tagihan air
+71,2025-08-28,Gaji Karyawan,6000000,Gaji 2 karyawan
+72,2025-09-01,Sewa Toko,3500000,Sewa bulanan
+73,2025-09-05,Internet dan Pulsa,300000,Paket internet toko
+74,2025-09-10,Kemasan dan Plastik,496000,Kantong plastik dan kemasan
+75,2025-09-15,Transportasi,1404000,Bensin dan ongkos kirim
+76,2025-09-20,Listrik,1246000,Tagihan listrik
+77,2025-09-20,Air,213000,Tagihan air
+78,2025-09-28,Gaji Karyawan,6000000,Gaji 2 karyawan
+79,2025-10-01,Sewa Toko,3500000,Sewa bulanan
+80,2025-10-05,Internet dan Pulsa,300000,Paket internet toko
+81,2025-10-10,Kemasan dan Plastik,484000,Kantong plastik dan kemasan
+82,2025-10-15,Transportasi,1692000,Bensin dan ongkos kirim
+83,2025-10-20,Listrik,1255000,Tagihan listrik
+84,2025-10-20,Air,217000,Tagihan air
+85,2025-10-22,Lain-lain,76000,Perawatan dan kebutuhan kecil
+86,2025-10-28,Gaji Karyawan,6000000,Gaji 2 karyawan
+87,2025-11-01,Sewa Toko,3500000,Sewa bulanan
+88,2025-11-05,Internet dan Pulsa,300000,Paket internet toko
+89,2025-11-10,Kemasan dan Plastik,520000,Kantong plastik dan kemasan
+90,2025-11-15,Transportasi,1327000,Bensin dan ongkos kirim
+91,2025-11-20,Listrik,1446000,Tagihan listrik
+92,2025-11-20,Air,252000,Tagihan air
+93,2025-11-28,Gaji Karyawan,6000000,Gaji 2 karyawan
+94,2025-12-01,Sewa Toko,3500000,Sewa bulanan
+95,2025-12-05,Internet dan Pulsa,300000,Paket internet toko
+96,2025-12-10,Kemasan dan Plastik,525000,Kantong plastik dan kemasan
+97,2025-12-15,Transportasi,1736000,Bensin dan ongkos kirim
+98,2025-12-20,Listrik,1133000,Tagihan listrik
+99,2025-12-20,Air,209000,Tagihan air
+100,2025-12-28,Gaji Karyawan,6000000,Gaji 2 karyawan
+101,2026-01-01,Sewa Toko,3500000,Sewa bulanan
+102,2026-01-05,Internet dan Pulsa,300000,Paket internet toko
+103,2026-01-10,Kemasan dan Plastik,608000,Kantong plastik dan kemasan
+104,2026-01-15,Transportasi,1772000,Bensin dan ongkos kirim
+105,2026-01-20,Listrik,1117000,Tagihan listrik
+106,2026-01-20,Air,253000,Tagihan air
+107,2026-01-28,Gaji Karyawan,6000000,Gaji 2 karyawan
+108,2026-02-01,Sewa Toko,3500000,Sewa bulanan
+109,2026-02-05,Internet dan Pulsa,300000,Paket internet toko
+110,2026-02-10,Kemasan dan Plastik,583000,Kantong plastik dan kemasan
+111,2026-02-15,Transportasi,1491000,Bensin dan ongkos kirim
+112,2026-02-20,Listrik,1192000,Tagihan listrik
+113,2026-02-20,Air,248000,Tagihan air
+114,2026-02-28,Gaji Karyawan,6000000,Gaji 2 karyawan
+115,2026-03-01,Sewa Toko,3500000,Sewa bulanan
+116,2026-03-05,Internet dan Pulsa,300000,Paket internet toko
+117,2026-03-10,Kemasan dan Plastik,529000,Kantong plastik dan kemasan
+118,2026-03-12,Gaji Karyawan,6000000,THR karyawan
+119,2026-03-15,Transportasi,1461000,Bensin dan ongkos kirim
+120,2026-03-20,Listrik,1163000,Tagihan listrik
+121,2026-03-20,Air,221000,Tagihan air
+122,2026-03-22,Lain-lain,247000,Perawatan dan kebutuhan kecil
+123,2026-03-28,Gaji Karyawan,6000000,Gaji 2 karyawan
+124,2026-04-01,Sewa Toko,3500000,Sewa bulanan
+125,2026-04-05,Internet dan Pulsa,300000,Paket internet toko
+126,2026-04-10,Kemasan dan Plastik,427000,Kantong plastik dan kemasan
+127,2026-04-15,Transportasi,1767000,Bensin dan ongkos kirim
+128,2026-04-20,Listrik,1134000,Tagihan listrik
+129,2026-04-20,Air,207000,Tagihan air
+130,2026-04-28,Gaji Karyawan,6000000,Gaji 2 karyawan
+131,2026-05-01,Sewa Toko,3500000,Sewa bulanan
+132,2026-05-05,Internet dan Pulsa,300000,Paket internet toko
+133,2026-05-10,Kemasan dan Plastik,471000,Kantong plastik dan kemasan
+134,2026-05-15,Transportasi,1294000,Bensin dan ongkos kirim
+135,2026-05-20,Listrik,1456000,Tagihan listrik
+136,2026-05-20,Air,246000,Tagihan air
+137,2026-05-22,Lain-lain,279000,Perawatan dan kebutuhan kecil
+138,2026-05-28,Gaji Karyawan,6000000,Gaji 2 karyawan
+139,2026-06-01,Sewa Toko,3500000,Sewa bulanan
+140,2026-06-05,Internet dan Pulsa,300000,Paket internet toko
+141,2026-06-10,Kemasan dan Plastik,496000,Kantong plastik dan kemasan
+142,2026-06-15,Transportasi,1455000,Bensin dan ongkos kirim
+143,2026-06-20,Listrik,1301000,Tagihan listrik
+144,2026-06-20,Air,204000,Tagihan air
+145,2026-06-28,Gaji Karyawan,6000000,Gaji 2 karyawan
+146,2026-07-01,Sewa Toko,3500000,Sewa bulanan
+147,2026-07-05,Internet dan Pulsa,300000,Paket internet toko
+148,2026-07-10,Kemasan dan Plastik,411000,Kantong plastik dan kemasan
+149,2026-07-15,Transportasi,1628000,Bensin dan ongkos kirim
+150,2026-07-20,Listrik,1457000,Tagihan listrik
+151,2026-07-20,Air,202000,Tagihan air
+152,2026-07-22,Lain-lain,78000,Perawatan dan kebutuhan kecil
+153,2026-07-28,Gaji Karyawan,6000000,Gaji 2 karyawan
+154,2026-08-01,Sewa Toko,3500000,Sewa bulanan
+155,2026-08-05,Internet dan Pulsa,300000,Paket internet toko
+156,2026-08-10,Kemasan dan Plastik,519000,Kantong plastik dan kemasan
+157,2026-08-15,Transportasi,1780000,Bensin dan ongkos kirim
+158,2026-08-20,Listrik,1138000,Tagihan listrik
+159,2026-08-20,Air,222000,Tagihan air
+160,2026-08-28,Gaji Karyawan,6000000,Gaji 2 karyawan
+161,2026-09-01,Sewa Toko,3500000,Sewa bulanan
+162,2026-09-05,Internet dan Pulsa,300000,Paket internet toko
+163,2026-09-10,Kemasan dan Plastik,442000,Kantong plastik dan kemasan
+164,2026-09-15,Transportasi,1720000,Bensin dan ongkos kirim
+165,2026-09-20,Listrik,1439000,Tagihan listrik
+166,2026-09-20,Air,217000,Tagihan air
+167,2026-09-22,Lain-lain,400000,Perawatan dan kebutuhan kecil
+168,2026-09-28,Gaji Karyawan,6000000,Gaji 2 karyawan
+169,2026-10-01,Sewa Toko,3500000,Sewa bulanan
+170,2026-10-05,Internet dan Pulsa,300000,Paket internet toko
+171,2026-10-10,Kemasan dan Plastik,463000,Kantong plastik dan kemasan
+172,2026-10-15,Transportasi,1599000,Bensin dan ongkos kirim
+173,2026-10-20,Listrik,1472000,Tagihan listrik
+174,2026-10-20,Air,246000,Tagihan air
+175,2026-10-22,Lain-lain,291000,Perawatan dan kebutuhan kecil
+176,2026-10-28,Gaji Karyawan,6000000,Gaji 2 karyawan
+177,2026-11-01,Sewa Toko,3500000,Sewa bulanan
+178,2026-11-05,Internet dan Pulsa,300000,Paket internet toko

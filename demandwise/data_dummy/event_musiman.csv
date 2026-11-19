@@ -1,0 +1,10 @@
+id,nama,tgl_mulai,tgl_selesai,sumber
+1,Natal dan Tahun Baru 2024/25,2024-12-10,2025-01-02,auto
+2,Ramadan 2025,2025-03-01,2025-03-30,auto
+3,Lebaran 2025,2025-03-17,2025-04-03,auto
+4,Tahun Ajaran Baru 2025,2025-07-01,2025-07-31,manual
+5,Natal dan Tahun Baru 2025/26,2025-12-10,2026-01-02,auto
+6,Ramadan 2026,2026-02-18,2026-03-19,auto
+7,Lebaran 2026,2026-03-06,2026-03-23,auto
+8,Tahun Ajaran Baru 2026,2026-07-01,2026-07-31,manual
+9,Natal dan Tahun Baru 2026/27,2026-12-10,2027-01-02,auto
