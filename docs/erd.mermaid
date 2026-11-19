@@ -1,0 +1,267 @@
+erDiagram
+    %% Multi-pengguna: SEMUA tabel data punya user_id (FK ke users.id).
+    %% user_id NULL = data demo/presentasi; user_id = n = data milik akun n.
+    users {
+        integer id PK
+        varchar username
+        varchar password_hash
+        varchar nama_usaha
+        datetime dibuat_pada
+        varchar email UK
+        boolean akun_demo
+    }
+    kategori {
+        integer id PK
+        varchar nama
+        integer user_id FK
+    }
+    pemasok {
+        integer id PK
+        varchar nama
+        varchar kontak
+        integer lead_time_hari
+        integer user_id FK
+    }
+    produk {
+        integer id PK
+        varchar kode
+        varchar nama
+        integer kategori_id FK
+        varchar satuan
+        integer pemasok_id FK
+        bigint harga_beli_terakhir
+        bigint harga_jual
+        integer umur_simpan_hari
+        integer lead_time_hari
+        boolean aktif
+        boolean tunda_pesan
+        integer user_id FK
+    }
+    batch_stok {
+        integer id PK
+        integer produk_id FK
+        date tgl_masuk
+        date tgl_kedaluwarsa
+        integer jumlah_awal
+        integer jumlah_sisa
+        bigint hpp_satuan
+        varchar status
+        integer user_id FK
+    }
+    transaksi_penjualan {
+        integer id PK
+        date tanggal
+        bigint total
+        text catatan
+        integer user_id FK
+    }
+    detail_penjualan {
+        integer id PK
+        integer transaksi_id FK
+        integer produk_id FK
+        integer batch_id FK
+        integer qty
+        bigint harga_satuan
+        bigint hpp_satuan
+        integer user_id FK
+    }
+    mutasi_stok {
+        integer id PK
+        date tanggal
+        integer produk_id FK
+        integer batch_id FK
+        varchar jenis
+        integer qty
+        text keterangan
+        integer user_id FK
+    }
+    stock_opname {
+        integer id PK
+        date tanggal
+        integer produk_id FK
+        integer stok_sistem
+        integer stok_fisik
+        integer selisih
+        integer user_id FK
+    }
+    biaya_operasional {
+        integer id PK
+        date tanggal
+        varchar kategori_biaya
+        bigint jumlah
+        text keterangan
+        integer user_id FK
+    }
+    writeoff {
+        integer id PK
+        date tanggal
+        integer batch_id FK
+        integer produk_id FK
+        integer qty
+        bigint hpp_satuan
+        bigint total_rugi
+        integer user_id FK
+    }
+    hasil_prediksi {
+        integer id PK
+        integer produk_id FK
+        date tanggal_target
+        float qty_prediksi
+        varchar model
+        datetime dibuat_pada
+        integer user_id FK
+    }
+    event_musiman {
+        integer id PK
+        varchar nama
+        date tgl_mulai
+        date tgl_selesai
+        varchar sumber
+        integer user_id FK
+    }
+    indeks_musim {
+        integer id PK
+        integer produk_id FK
+        integer bulan
+        float indeks
+        integer user_id FK
+    }
+    notifikasi {
+        integer id PK
+        varchar jenis
+        varchar level
+        varchar judul
+        text pesan
+        boolean dibaca
+        datetime dibuat_pada
+        varchar ref_tabel
+        integer ref_id
+        integer user_id FK
+    }
+    rekomendasi_tindakan {
+        integer id PK
+        integer batch_id FK
+        varchar jenis
+        text detail
+        bigint harga_diskon
+        varchar status
+        datetime dibuat_pada
+        integer user_id FK
+    }
+    koreksi_prediksi {
+        integer id PK
+        integer produk_id FK
+        date tanggal_target
+        float qty_koreksi
+        text alasan
+        datetime dibuat_pada
+        integer user_id FK
+    }
+    evaluasi_model {
+        integer id PK
+        integer produk_id FK
+        varchar model
+        varchar versi
+        float mae
+        float rmse
+        float mape
+        datetime dievaluasi_pada
+        integer user_id FK
+    }
+    pesanan_pembelian {
+        integer id PK
+        integer pemasok_id FK
+        date tanggal
+        varchar status
+        date jadwal_kirim
+        text catatan
+        integer user_id FK
+    }
+    detail_pesanan {
+        integer id PK
+        integer pesanan_id FK
+        integer produk_id FK
+        integer qty_rekomendasi
+        integer qty_final
+        bigint harga_beli
+        integer user_id FK
+    }
+    harga_jual {
+        integer id PK
+        integer produk_id FK
+        bigint harga
+        date berlaku_mulai
+        varchar sumber
+        integer user_id FK
+    }
+    harga_pesaing {
+        integer id PK
+        integer produk_id FK
+        varchar nama_pesaing
+        bigint harga
+        date tanggal
+        integer user_id FK
+    }
+    kategori ||--o{ produk : "kategori_id"
+    pemasok ||--o{ produk : "pemasok_id"
+    produk ||--o{ batch_stok : "produk_id"
+    transaksi_penjualan ||--o{ detail_penjualan : "transaksi_id"
+    produk ||--o{ detail_penjualan : "produk_id"
+    batch_stok ||--o{ detail_penjualan : "batch_id"
+    produk ||--o{ mutasi_stok : "produk_id"
+    batch_stok ||--o{ mutasi_stok : "batch_id"
+    produk ||--o{ stock_opname : "produk_id"
+    batch_stok ||--o{ writeoff : "batch_id"
+    produk ||--o{ writeoff : "produk_id"
+    produk ||--o{ hasil_prediksi : "produk_id"
+    produk ||--o{ indeks_musim : "produk_id"
+    batch_stok ||--o{ rekomendasi_tindakan : "batch_id"
+    produk ||--o{ koreksi_prediksi : "produk_id"
+    produk ||--o{ evaluasi_model : "produk_id"
+    pemasok ||--o{ pesanan_pembelian : "pemasok_id"
+    pesanan_pembelian ||--o{ detail_pesanan : "pesanan_id"
+    produk ||--o{ detail_pesanan : "produk_id"
+    produk ||--o{ harga_jual : "produk_id"
+    produk ||--o{ harga_pesaing : "produk_id"
+    users ||--o{ kategori : "user_id"
+    users ||--o{ pemasok : "user_id"
+    users ||--o{ produk : "user_id"
+    users ||--o{ transaksi_penjualan : "user_id"
+    users ||--o{ pesanan_pembelian : "user_id"
+    users ||--o{ biaya_operasional : "user_id"
+    users ||--o{ event_musiman : "user_id"
+    users ||--o{ notifikasi : "user_id"
+    profil_usaha {
+        integer id PK
+        integer user_id FK
+        varchar nama_pemilik
+        varchar telepon
+        varchar jenis_usaha
+        text alamat
+        varchar kota
+        blob logo
+        varchar logo_tipe
+        datetime dibuat_pada
+        datetime diubah_pada
+    }
+    token_reset_password {
+        integer id PK
+        integer user_id FK
+        varchar kode_hash
+        datetime kedaluwarsa_pada
+        datetime dipakai_pada
+        integer percobaan
+        datetime dibuat_pada
+    }
+    sesi_login {
+        integer id PK
+        integer user_id FK
+        varchar token_hash UK
+        datetime dibuat_pada
+        datetime kedaluwarsa_pada
+        datetime terakhir_dipakai
+        datetime dicabut_pada
+    }
+    users ||--o| profil_usaha : "user_id"
+    users ||--o{ token_reset_password : "user_id"
+    users ||--o{ sesi_login : "user_id"
